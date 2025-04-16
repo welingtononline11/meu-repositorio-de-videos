@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "Curso de Kotlin",
+    "description": "Aprenda Kotlin do zero ao avançado.",
+    "url": "https://example.com/videos/curso_kotlin.mp4",
+    "thumbnail": "https://example.com/thumbnails/curso_kotlin.jpg",
+    "isSeries": false
+  },
+  {
+    "id": "2",
+    "title": "Curso de Android",
+    "description": "Domine o desenvolvimento Android.",
+    "url": "https://example.com/videos/curso_android.mp4",
+    "thumbnail": "https://example.com/thumbnails/curso_android.jpg",
+    "isSeries": false
+  },
+  {
+    "id": "3",
+    "title": "Curso de Design de Interface",
+    "description": "Entenda os princípios do design de interfaces móveis.",
+    "url": "https://example.com/videos/curso_design.mp4",
+    "thumbnail": "https://example.com/thumbnails/curso_design.jpg",
+    "isSeries": false
+  },
+  {
+    "id": "4",
+    "title": "Série Android em Profundidade",
+    "description": "Uma série completa sobre Android, com múltiplos episódios.",
+    "url": "https://example.com/videos/serie_android/episodio1.mp4",
+    "thumbnail": "https://example.com/thumbnails/serie_android.jpg",
+    "isSeries": true,
+    "episodes": [
+      {
+        "id": "1",
+        "title": "Episódio 1: Introdução ao Android",
+        "description": "Neste episódio, abordamos os fundamentos do Android.",
+        "url": "https://example.com/videos/serie_android/episodio1.mp4",
+        "thumbnail": "https://example.com/thumbnails/episodio1.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Episódio 2: Componentes principais do Android",
+        "description": "Exploramos os componentes principais do Android, como Activities e Fragments.",
+        "url": "https://example.com/videos/serie_android/episodio2.mp4",
+        "thumbnail": "https://example.com/thumbnails/episodio2.jpg"
+      },
+      {
+        "id": "3",
+        "title": "Episódio 3: Design e Interface do Usuário",
+        "description": "Neste episódio, exploramos o design da interface do usuário no Android.",
+        "url": "https://example.com/videos/serie_android/episodio3.mp4",
+        "thumbnail": "https://example.com/thumbnails/episodio3.jpg"
+      }
+    ]
+  }
+]
