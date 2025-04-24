@@ -1,30 +1,72 @@
 {
-  "carrossel": [
-    "https://cinepop.com.br/wp-content/uploads/2025/03/mickey-17-2.jpg",
-    "https://cinepop.com.br/wp-content/uploads/2025/03/mickey-17-2.jpg",
-    "https://cinepop.com.br/wp-content/uploads/2025/03/mickey-17-2.jpg",
-    "https://cinepop.com.br/wp-content/uploads/2025/03/mickey-17-2.jpg",
-    "https://cinepop.com.br/wp-content/uploads/2025/03/mickey-17-2.jpg"
-  ],
   "categorias": ["Ação", "Comédia", "Drama"],
   "filmes": [
     {
       "id": "f1",
       "titulo": "Ao Cair da Noite",
-      "descricao": "Paul (Joel Edgerton)...",
+      "descricao": "Paul (Joel Edgerton) mora com sua esposa e o filho numa casa solitária e misteriosa, mas segura, até que chega uma família desesperada procurando refúgio. Aos poucos a paranóia e desconfiança vão aumentando e Paul vai fazer de tudo para proteger sua família contra algo que vem aterrorizando todos.",
       "capa": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d3/Daredevil_Final_Poster.png",
       "imagem": "https://image.tmdb.org/t/p/w500/ysnZXx7YKZdlC9APTcwTCiZ4avC.jpg",
       "url": "https://sempra.pro/a1/out/old/6/426/426_363684782ao-cair-da-noite.m3u8",
       "categoria": "Ação",
       "tipo": "filme"
     },
-    ...
+    {
+      "id": "f2",
+      "titulo": "Último Alvo",
+      "descricao": "Um velho gângster ex-boxeador que trabalha para um chefe do crime de Boston recebe um diagnóstico perturbador. Apesar de uma memória vacilante, ele tenta corrigir os pecados do seu passado e reconectar-se com seus filhos distantes. Ele está determinado a deixar um legado positivo para seu neto, mas o submundo do crime não o deixa e ele vai tomar o controle.",
+      "capa": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d3/Daredevil_Final_Poster.png",
+      "imagem": "https://universoreverso.com.br/wp-content/uploads/2025/02/ultimo-alvo-poster.jpg",
+      "url": "https://sempra.pro/a1/out/6/9588/9588_ultimo.alvo.2024.1080p.web-dl.dual.5.1.m3u8",
+      "categoria": "Ação",
+      "tipo": "filme"
+    },
+    {
+      "id": "f3",
+      "titulo": "Demolidor",
+      "descricao": "Matt Murdock (Charlie Cox), um advogado cego com habilidades aguçadas, luta por justiça em seu movimentado escritório de advocacia, enquanto o ex-chefe da máfia Wilson Fisk (Vincent D'Onofrio) persegue seus próprios projetos políticos em Nova York.",
+      "capa": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d3/Daredevil_Final_Poster.png",
+      "imagem": "https://jpimg.com.br/uploads/2025/01/capa-site-7.png",
+      "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/1/b9ab082e-269e-4775-a2d6-646eb6662be1/stream.mp4",
+      "categoria": "Ação",
+      "tipo": "filme"
+    },
+    {
+    "id": "f4",
+      "titulo": "Demolidor",
+      "descricao": "Matt Murdock (Charlie Cox), um advogado cego com habilidades aguçadas, luta por justiça em seu movimentado escritório de advocacia, enquanto o ex-chefe da máfia Wilson Fisk (Vincent D'Onofrio) persegue seus próprios projetos políticos em Nova York.",
+      "capa": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d3/Daredevil_Final_Poster.png",
+      "imagem": "https://jpimg.com.br/uploads/2025/01/capa-site-7.png",
+      "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/1/b9ab082e-269e-4775-a2d6-646eb6662be1/stream.mp4",
+      "categoria": "Ação",
+      "tipo": "filme"
+    },
+     {
+    "id": "f5",
+      "titulo": "Demolidor",
+      "descricao": "Matt Murdock (Charlie Cox), um advogado cego com habilidades aguçadas, luta por justiça em seu movimentado escritório de advocacia, enquanto o ex-chefe da máfia Wilson Fisk (Vincent D'Onofrio) persegue seus próprios projetos políticos em Nova York.",
+      "capa": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d3/Daredevil_Final_Poster.png",
+      "imagem": "https://jpimg.com.br/uploads/2025/01/capa-site-7.png",
+      "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/1/b9ab082e-269e-4775-a2d6-646eb6662be1/stream.mp4",
+      "categoria": "Ação",
+      "tipo": "filme"
+    },
+     {
+    "id": "f6",
+      "titulo": "Demolidor",
+      "descricao": "Matt Murdock (Charlie Cox), um advogado cego com habilidades aguçadas, luta por justiça em seu movimentado escritório de advocacia, enquanto o ex-chefe da máfia Wilson Fisk (Vincent D'Onofrio) persegue seus próprios projetos políticos em Nova York.",
+      "capa": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d3/Daredevil_Final_Poster.png",
+      "imagem": "https://jpimg.com.br/uploads/2025/01/capa-site-7.png",
+      "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/1/b9ab082e-269e-4775-a2d6-646eb6662be1/stream.mp4",
+      "categoria": "Ação",
+      "tipo": "filme"
+    }
   ],
   "series": [
     {
       "id": "s1",
       "titulo": "Mike e Molly",
-      "descricao": "Um casal de obesos...",
+      "descricao": "Um casal de obesos, Mike (Billy Gardell), um policial de Chicago, e Molly (Melissa McCarthy), uma professora infantil, se conhecem em uma reunião de Comedores Compulsivos. Juntos, eles lutam contra os problemas de seus pesos, indo uma vez por semana no Comedores Compulsivos.",
       "capa": "https://i.imgur.com/NE34S2P.jpeg",
       "imagem": "https://i.imgur.com/NE34S2P.jpeg",
       "categoria": "Comédia",
@@ -36,7 +78,18 @@
           "titulo": "Piloto123",
           "url": "https://sempra.pro/a1/out/old/6/3466/3466_s01e01_dub.m3u8"
         },
-        ...
+        {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "Primeiro Encontro",
+          "url": "https://sempra.pro/a1/out/old/6/3466/3466_s01e02_dub.m3u8"
+        },
+        {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "Primeiro Encontro",
+          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/1/b9ab082e-269e-4775-a2d6-646eb6662be1/stream.mp4"
+        }
       ]
     }
   ]
