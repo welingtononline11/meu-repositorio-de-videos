@@ -16,7 +16,7 @@
       "titulo": "Poder Paranormal",
       "descricao": "Margaret Matheson e Tom Buckley se especializam em desmascarar aqueles que afirmam possuir poderes psíquicos. Quando um vidente cego de fama internacional resolve retornar depois de 30 anos, os cientistas têm a missão de desacreditá-lo.",
       "capa": "https://i.imgur.com/ZqFCO3V.jpeg",
-      "imagem": "https://i.imgur.com/ZqFCO3V.jpeg",
+      "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/91/11/43/20228373.jpg",
       "url": "https://download1326.mediafire.com/y1996xcjio3gRMxd4G0kK15inADlVK9oPMp-E9vnx_wCeM4tvnDpNSwaBgYaWDcnOhe53X0ws0X30NzaznaYlmIDSNixU8Z9JeG4hwYANGbwMCRBg-qXgsLjRlpM9AU1oxpR09OgF5qu4xz6g2huDKLHms8q-iXKBakY5w6H0Mpi/wstdszmeb5dgmj8/Poder+Paranormal.mp4",
       "categoria": "Thriller/Mistério",
       "tipo": "filme"
@@ -89,7 +89,38 @@
           "numero": 3,
           "titulo": "T1 Ep3 Primeiro Beijo",
           "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
+        },
+        {
+          "temporada": 1,
+          "numero": 20,
+          "titulo": "T1 Ep20 O Dia da Abertura",
+          "url": "https://embed-cloudfront.wistia.com/deliveries/209b846b26875eadeda002b5a8f34c52b54a56d4.m3u8"
+        },
+        {
+          "temporada": 1,
+          "numero": 21,
+          "titulo": "T1 Ep21 Samuel é Despedido",
+          "url": "https://embed-cloudfront.wistia.com/deliveries/086efefb6941e6201d4c0ba5448db58d0d5b250e.m3u8"
+        },
+        {
+          "temporada": 1,
+          "numero": 22,
+          "titulo": "T1 Ep22 Papo de Charuto",
+          "url": "https://embed-cloudfront.wistia.com/deliveries/5c3a6a2b4d0ae2d9bc5fbed9fd16a1393606116b.m3u8"
+        },
+        {
+          "temporada": 1,
+          "numero": 23,
+          "titulo": "T1 Ep23 O Aniversário da Victoria",
+          "url": "https://embed-cloudfront.wistia.com/deliveries/25c94619aa4650510c6557a706e2b7afd4ed7ebe.m3u8"
+        },
+        {
+          "temporada": 1,
+          "numero": 24,
+          "titulo": "T1 Ep24 O Novo Amor de Peggy",
+          "url": "https://embed-cloudfront.wistia.com/deliveries/2aba3b2eb04b6ca1259acb93b29976fcc157e777.m3u8"
         }
+        
       ]
     }
   ]
