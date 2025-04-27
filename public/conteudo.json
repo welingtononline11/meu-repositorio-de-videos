@@ -1,5 +1,5 @@
 {
-  "categorias": ["Ação", "Comédia", "Drama", "Terror/Mistério", "Thriller/Mistério"],
+  "categorias": ["Ação", "Comédia", "Drama", "Terror/Mistério", "Thriller/Mistério", "Ficção científica"],
   "filmes": [
     {
       "id": "f1",
@@ -33,12 +33,12 @@
     },
     {
     "id": "f4",
-      "titulo": "Demolidor",
-      "descricao": "Matt Murdock (Charlie Cox), um advogado cego com habilidades aguçadas, luta por justiça em seu movimentado escritório de advocacia, enquanto o ex-chefe da máfia Wilson Fisk (Vincent D'Onofrio) persegue seus próprios projetos políticos em Nova York.",
-      "capa": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d3/Daredevil_Final_Poster.png",
-      "imagem": "https://jpimg.com.br/uploads/2025/01/capa-site-7.png",
-      "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/1/b9ab082e-269e-4775-a2d6-646eb6662be1/stream.mp4",
-      "categoria": "Ação",
+      "titulo": "The Shift - O Deslocamento",
+      "descricao": "Kevin viaja por mundos para se reunir com o amor de sua vida, Molly. Quando um indivíduo misterioso conhecido apenas como O Benfeitor ameaça a sobrevivência de Kevin, ele luta para retornar ao mundo que conhece e à mulher que ama.",
+      "capa": "https://i.imgur.com/FOszzXY.jpeg",
+      "imagem": "https://i.imgur.com/kYHN7RI.jpeg",
+      "url": "https://acteiafilmes.s3.us-east-005.backblazeb2.com/The%20Shift%20O%20Deslocamento%202023_1108658.mp4",
+      "categoria": "Ficção científica",
       "tipo": "filme"
     },
      {
