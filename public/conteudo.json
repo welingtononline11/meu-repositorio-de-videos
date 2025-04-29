@@ -3,6 +3,16 @@
   "filmes": [
 	  {
       "id": "f1",
+      "titulo": "Mistério da Rua 7 (2010)",
+      "descricao": "Um blecaute deixa a cidade de Detroit com apenas um grupo de pessoas que lutam para sobreviver, deixando sempre uma fonte de luz por perto.",
+      "capa": "https://i.imgur.com/JYLEsgh.jpeg",
+      "imagem": "https://images.justwatch.com/poster/9618993/s592/misterio-da-rua-7.webp",
+      "url": "http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1452628.mp4",
+      "categoria": "Ficção científica",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f1",
       "titulo": "Extermínio (2002)",
       "descricao": "Uma praga transforma a maioria da humanidade em zumbis sedentos de sangue. Um grupo ainda não afetado se prepara para a mais perigosa jornada de suas vidas: tentar chegar a uma fortaleza militar em Manchester.",
       "capa": "https://i.imgur.com/FOpwrWS.jpeg",
