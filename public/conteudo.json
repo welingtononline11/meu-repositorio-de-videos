@@ -2,7 +2,7 @@
   "categorias": ["Últimos Adicionados", "Ação", "Comédia", "Drama", "Terror/Mistério", "Thriller/Mistério", "Ficção científica"],
   "filmes": [
 	  {
-      "id": "f1",
+      "id": "f8",
       "titulo": "Mistério da Rua 7 (2010)",
       "descricao": "Um blecaute deixa a cidade de Detroit com apenas um grupo de pessoas que lutam para sobreviver, deixando sempre uma fonte de luz por perto.",
       "capa": "https://i.imgur.com/JYLEsgh.jpeg",
@@ -12,7 +12,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f1",
+      "id": "f7",
       "titulo": "Mistério da Rua 7 (2010)",
       "descricao": "Um blecaute deixa a cidade de Detroit com apenas um grupo de pessoas que lutam para sobreviver, deixando sempre uma fonte de luz por perto.",
       "capa": "https://i.imgur.com/JYLEsgh.jpeg",
@@ -22,7 +22,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f1",
+      "id": "f9",
       "titulo": "Extermínio (2002)",
       "descricao": "Uma praga transforma a maioria da humanidade em zumbis sedentos de sangue. Um grupo ainda não afetado se prepara para a mais perigosa jornada de suas vidas: tentar chegar a uma fortaleza militar em Manchester.",
       "capa": "https://i.imgur.com/FOpwrWS.jpeg",
@@ -32,7 +32,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f1",
+      "id": "f10",
       "titulo": "Extermínio (2002)",
       "descricao": "Uma praga transforma a maioria da humanidade em zumbis sedentos de sangue. Um grupo ainda não afetado se prepara para a mais perigosa jornada de suas vidas: tentar chegar a uma fortaleza militar em Manchester.",
       "capa": "https://i.imgur.com/FOpwrWS.jpeg",
@@ -47,7 +47,7 @@
       "descricao": "Mickey faz parte de um programa espacial de colonização e sempre é enviado para missões perigosas, quase suicidas. Se morrer, ele é clonado e boa parte de suas memórias são recuperadas. Mas, após seis mortes, ele começa a entender o porquê de seu cargo nunca ter sido ocupado antes.",
       "capa": "https://i.imgur.com/BY6N5Am.jpeg",
       "imagem": "https://image.tmdb.org/t/p/w500/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
-      "url": "https://filmesfiz.s3.us-east-005.backblazeb2.com/Mickey 17 2025_696506.mp4",
+      "url": "https://filmesfiz.s3.us-east-005.backblazeb2.com/Mickey%2017%202025_696506.mp4",
       "categoria": "Ficção científica",
       "tipo": "filme"
     },
@@ -116,13 +116,13 @@
           "temporada": 1,
           "numero": 1,
           "titulo": "T1 Ep1 Piloto",
-          "url": "https://embed-cloudfront.wistia.com/deliveries/19921a43b8a60fd940608c2f70594a1a6ea01818.m3u8"
+          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
         },
         {
           "temporada": 1,
           "numero": 2,
           "titulo": "T1 Ep2 Primeiro Encontro",
-          "url": "https://download1334.mediafire.com/tlry4hjp2mjgYr9UX-Iawx26v8KdIlAGMedi6g3Hh0Ht1v4WwvVerPNN4R-CHUu_447Ur51kLjeTD-VCADXIbEtXbihOraq6FMJ4CVx_8MQD3HqMwFVU7XNS9FdeAqzeRSrWBBo3gLwaG8WfW4lu9-3NfZq164wa-GtL_kgOF7Jz/955oe434ctzif81/Mike+e+Molly+S01E02+MP4+DUB+Baixar+SeriesMP4+Org+mp4.mp4"
+          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
         },
         {
           "temporada": 1,
@@ -134,7 +134,7 @@
           "temporada": 1,
           "numero": 20,
           "titulo": "T1 Ep20 O Dia da Abertura",
-          "url": "https://embed-cloudfront.wistia.com/deliveries/209b846b26875eadeda002b5a8f34c52b54a56d4.m3u8"
+          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
         },
         {
           "temporada": 1,
