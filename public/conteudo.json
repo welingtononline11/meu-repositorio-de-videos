@@ -28,6 +28,16 @@
       "capa": "https://i.imgur.com/FOpwrWS.jpeg",
       "imagem": "https://image.tmdb.org/t/p/original/tKAqttsESgFYAz3pkjxey3JxYUn.jpg",
       "url": "https://filmesfiz.s3.us-east-005.backblazeb2.com/Exterminio%202002_170.mp4",
+      "categoria": "Últimos Adicionados",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f1",
+      "titulo": "Extermínio (2002)",
+      "descricao": "Uma praga transforma a maioria da humanidade em zumbis sedentos de sangue. Um grupo ainda não afetado se prepara para a mais perigosa jornada de suas vidas: tentar chegar a uma fortaleza militar em Manchester.",
+      "capa": "https://i.imgur.com/FOpwrWS.jpeg",
+      "imagem": "https://image.tmdb.org/t/p/original/tKAqttsESgFYAz3pkjxey3JxYUn.jpg",
+      "url": "https://filmesfiz.s3.us-east-005.backblazeb2.com/Exterminio%202002_170.mp4",
       "categoria": "Ficção científica",
       "tipo": "filme"
     },
