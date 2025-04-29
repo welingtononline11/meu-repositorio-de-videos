@@ -1,46 +1,14 @@
 {
-  "categorias": ["Últimos Adicionados", "Ação", "Comédia", "Drama", "Terror/Mistério", "Thriller/Mistério", "Ficção científica"],
+  "categorias": [
+    "Últimos Adicionados",
+    "Ação",
+    "Comédia",
+    "Drama",
+    "Terror/Mistério",
+    "Thriller/Mistério",
+    "Ficção científica"
+  ],
   "filmes": [
-	  {
-      "id": "f8",
-      "titulo": "Mistério da Rua 7 (2010)",
-      "descricao": "Um blecaute deixa a cidade de Detroit com apenas um grupo de pessoas que lutam para sobreviver, deixando sempre uma fonte de luz por perto.",
-      "capa": "https://i.imgur.com/JYLEsgh.jpeg",
-      "imagem": "https://images.justwatch.com/poster/9618993/s592/misterio-da-rua-7.webp",
-      "url": "http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1452628.mp4",
-      "categoria": "Últimos Adicionados",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f7",
-      "titulo": "Mistério da Rua 7 (2010)",
-      "descricao": "Um blecaute deixa a cidade de Detroit com apenas um grupo de pessoas que lutam para sobreviver, deixando sempre uma fonte de luz por perto.",
-      "capa": "https://i.imgur.com/JYLEsgh.jpeg",
-      "imagem": "https://images.justwatch.com/poster/9618993/s592/misterio-da-rua-7.webp",
-      "url": "http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1452628.mp4",
-      "categoria": "Ficção científica",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f9",
-      "titulo": "Extermínio (2002)",
-      "descricao": "Uma praga transforma a maioria da humanidade em zumbis sedentos de sangue. Um grupo ainda não afetado se prepara para a mais perigosa jornada de suas vidas: tentar chegar a uma fortaleza militar em Manchester.",
-      "capa": "https://i.imgur.com/FOpwrWS.jpeg",
-      "imagem": "https://image.tmdb.org/t/p/original/tKAqttsESgFYAz3pkjxey3JxYUn.jpg",
-      "url": "https://filmesfiz.s3.us-east-005.backblazeb2.com/Exterminio%202002_170.mp4",
-      "categoria": "Últimos Adicionados",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f10",
-      "titulo": "Extermínio (2002)",
-      "descricao": "Uma praga transforma a maioria da humanidade em zumbis sedentos de sangue. Um grupo ainda não afetado se prepara para a mais perigosa jornada de suas vidas: tentar chegar a uma fortaleza militar em Manchester.",
-      "capa": "https://i.imgur.com/FOpwrWS.jpeg",
-      "imagem": "https://image.tmdb.org/t/p/original/tKAqttsESgFYAz3pkjxey3JxYUn.jpg",
-      "url": "https://filmesfiz.s3.us-east-005.backblazeb2.com/Exterminio%202002_170.mp4",
-      "categoria": "Ficção científica",
-      "tipo": "filme"
-    },
     {
       "id": "f1",
       "titulo": "Mickey 17",
@@ -72,7 +40,7 @@
       "tipo": "filme"
     },
     {
-    "id": "f4",
+      "id": "f4",
       "titulo": "The Shift - O Deslocamento",
       "descricao": "Kevin viaja por mundos para se reunir com o amor de sua vida, Molly. Quando um indivíduo misterioso conhecido apenas como O Benfeitor ameaça a sobrevivência de Kevin, ele luta para retornar ao mundo que conhece e à mulher que ama.",
       "capa": "https://i.imgur.com/FOszzXY.jpeg",
@@ -81,8 +49,8 @@
       "categoria": "Ficção científica",
       "tipo": "filme"
     },
-     {
-    "id": "f5",
+    {
+      "id": "f5",
       "titulo": "Demolidor",
       "descricao": "Matt Murdock (Charlie Cox), um advogado cego com habilidades aguçadas, luta por justiça em seu movimentado escritório de advocacia, enquanto o ex-chefe da máfia Wilson Fisk (Vincent D'Onofrio) persegue seus próprios projetos políticos em Nova York.",
       "capa": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d3/Daredevil_Final_Poster.png",
@@ -91,14 +59,24 @@
       "categoria": "Ação",
       "tipo": "filme"
     },
-     {
-    "id": "f6",
-      "titulo": "Demolidor",
-      "descricao": "Matt Murdock (Charlie Cox), um advogado cego com habilidades aguçadas, luta por justiça em seu movimentado escritório de advocacia, enquanto o ex-chefe da máfia Wilson Fisk (Vincent D'Onofrio) persegue seus próprios projetos políticos em Nova York.",
-      "capa": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d3/Daredevil_Final_Poster.png",
-      "imagem": "https://jpimg.com.br/uploads/2025/01/capa-site-7.png",
-      "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/1/b9ab082e-269e-4775-a2d6-646eb6662be1/stream.mp4",
-      "categoria": "Ação",
+    {
+      "id": "f8",
+      "titulo": "Mistério da Rua 7 (2010)",
+      "descricao": "Um blecaute deixa a cidade de Detroit com apenas um grupo de pessoas que lutam para sobreviver, deixando sempre uma fonte de luz por perto.",
+      "capa": "https://i.imgur.com/JYLEsgh.jpeg",
+      "imagem": "https://images.justwatch.com/poster/9618993/s592/misterio-da-rua-7.webp",
+      "url": "http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1452628.mp4",
+      "categoria": "Últimos Adicionados",
+      "tipo": "filme"
+    },
+    {
+      "id": "f9",
+      "titulo": "Extermínio (2002)",
+      "descricao": "Uma praga transforma a maioria da humanidade em zumbis sedentos de sangue. Um grupo ainda não afetado se prepara para a mais perigosa jornada de suas vidas: tentar chegar a uma fortaleza militar em Manchester.",
+      "capa": "https://i.imgur.com/FOpwrWS.jpeg",
+      "imagem": "https://image.tmdb.org/t/p/original/tKAqttsESgFYAz3pkjxey3JxYUn.jpg",
+      "url": "https://filmesfiz.s3.us-east-005.backblazeb2.com/Exterminio%202002_170.mp4",
+      "categoria": "Últimos Adicionados",
       "tipo": "filme"
     }
   ],
@@ -121,106 +99,9 @@
         {
           "temporada": 1,
           "numero": 2,
-          "titulo": "T1 Ep2 Primeiro Encontro",
-          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
-        },
-        {
-          "temporada": 1,
-          "numero": 3,
-          "titulo": "T1 Ep3 Primeiro Beijo",
-          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
-        },
-        {
-          "temporada": 1,
-          "numero": 20,
-          "titulo": "T1 Ep20 O Dia da Abertura",
-          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
-        },
-        {
-          "temporada": 1,
-          "numero": 21,
-          "titulo": "T1 Ep21 Samuel é Despedido",
-          "url": "https://v.viu.la/file/seriesfiz/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S01/769584_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S01E21.mp4"
-        },
-        {
-          "temporada": 1,
-          "numero": 22,
-          "titulo": "T1 Ep22 Papo de Charuto",
-          "url": "https://v.viu.la/file/seriesfiz/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S01/769582_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S01E22.mp4"
-        },
-        {
-          "temporada": 1,
-          "numero": 23,
-          "titulo": "T1 Ep23 O Aniversário da Victoria",
-          "url": "https://v.viu.la/file/seriesfiz/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S01/769583_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S01E23.mp4"
-        },
-        {
-          "temporada": 1,
-          "numero": 24,
-          "titulo": "T1 Ep24 O Novo Amor de Peggy",
-          "url": "https://v.viu.la/file/seriesfiz/Mike e Molly Um Casal de Peso_32709/S01/769585_Mike e Molly Um Casal de Peso S01E24.mp4"
-        },
-        {
-          "temporada": 2,
-          "numero": 1,
-          "titulo": "T2 Ep01 Indo Pescar",
-          "url": "https://v.viu.la/file/seriesfiz/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709%2FS02%2F769588_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S02E01.mp4"
-        },
-        {
-          "temporada": 2,
-          "numero": 2,
-          "titulo": "T2 Ep02 O Aniversário do Dennis",
-          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709%2FS02%2F769587_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S02E02.mp4"
-        },
-        {
-          "temporada": 2,
-          "numero": 3,
-          "titulo": "T2 Ep03 Mike Está Em Casa",
-          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709%2FS02%2F769586_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S02E03.mp4"
-        },
-        {
-          "temporada": 2,
-          "numero": 4,
-          "titulo": "T2 Ep04 Chevy Bel Air 57",
-          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709%2FS02%2F769589_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S02E04.mp4"
-        },
-        {
-          "temporada": 2,
-          "numero": 5,
-          "titulo": "T2 Ep05 Victoria Vai Embora",
-          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709%2FS02%2F769590_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S02E05.mp4"
-        },
-        {
-          "temporada": 2,
-          "numero": 6,
-          "titulo": "T2 Ep06 Feliz Halloween",
-          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709%2FS02%2F769593_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S02E06.mp4"
-        },
-        {
-          "temporada": 2,
-          "numero": 7,
-          "titulo": "T2 Ep07 Carl Conhece uma Garota",
-          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709%2FS02%2F769592_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S02E07.mp4"
-        },
-        {
-          "temporada": 2,
-          "numero": 8,
-          "titulo": "T2 Ep08 Peggy Arruma Um Emprego",
-          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709%2FS02%2F769591_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S02E08.mp4"
-        },
-		{
-          "temporada": 2,
-          "numero": 9,
-          "titulo": "T2 Ep09 Mike Trai",
-          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709%2FS02%2F769596_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S02E09.mp4"
-        },
-		{
-          "temporada": 2,
-          "numero": 10,
-          "titulo": "T2 Ep10 Molly Precisa de um Número",
-          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709%2FS02%2F769595_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S02E10.mp4"
+          "titulo": "T1 Ep2 O Encontro",
+          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/26eb0f65-05b0-4b10-a622-bca3f7e6e4c0/stream.mp4"
         }
-        
       ]
     }
   ]
