@@ -1,5 +1,5 @@
 {
-  "categorias": ["Últimos Adicionados", "Thriller Psicológico", "Ação", "Comédia", "Drama", "Terror/Mistério", "Thriller/Mistério", "Ficção científica"],
+  "categorias": ["Últimos Adicionados","Ação", "Comédia", "Drama", "Ficção científica", "Terror/Mistério", "Thriller/Mistério","Thriller Psicológico"],
   "filmes": [
     {
       "id": "f1",
