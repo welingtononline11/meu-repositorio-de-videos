@@ -1,5 +1,5 @@
 {
-  "categorias": ["Últimos Adicionados","Ação", "Comédia", "Drama", "Ficção científica", "Terror/Mistério", "Thriller/Mistério","Thriller Psicológico"],
+  "categorias": ["Ação", "Comédia", "Drama", "Ficção científica", "Terror/Mistério", "Thriller/Mistério","Thriller Psicológico"],
   "filmes": [
     {
       "id": "f1",
@@ -61,16 +61,6 @@
       "categoria": "Ação",
       "tipo": "filme"
     },
-	{
-      "id": "f7",
-      "titulo": "Mistério da Rua 7 (2010)",
-      "descricao": "Um blecaute deixa a cidade de Detroit com apenas um grupo de pessoas que lutam para sobreviver, deixando sempre uma fonte de luz por perto.",
-      "capa": "https://i.imgur.com/obx0UrI.jpeg",
-      "imagem": "https://images.justwatch.com/poster/9618993/s592/misterio-da-rua-7.webp",
-      "url": "http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1452628.mp4",
-      "categoria": "Últimos Adicionados",
-      "tipo": "filme"
-    },
 	  {
       "id": "f8",
       "titulo": "Mistério da Rua 7 (2010)",
@@ -79,16 +69,6 @@
       "imagem": "https://images.justwatch.com/poster/9618993/s592/misterio-da-rua-7.webp",
       "url": "http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1452628.mp4",
       "categoria": "Ficção científica",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f9",
-      "titulo": "Extermínio (2002)",
-      "descricao": "Uma praga transforma a maioria da humanidade em zumbis sedentos de sangue. Um grupo ainda não afetado se prepara para a mais perigosa jornada de suas vidas: tentar chegar a uma fortaleza militar em Manchester.",
-      "capa": "https://i.imgur.com/FOpwrWS.jpeg",
-      "imagem": "https://image.tmdb.org/t/p/original/tKAqttsESgFYAz3pkjxey3JxYUn.jpg",
-      "url": "https://filmesfiz.s3.us-east-005.backblazeb2.com/Exterminio%202002_170.mp4",
-      "categoria": "Últimos Adicionados",
       "tipo": "filme"
     },
 	  {
