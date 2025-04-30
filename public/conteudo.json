@@ -1,5 +1,5 @@
 {
-  "categorias": ["Últimos Adicionados", "Ação", "Comédia", "Drama", "Terror/Mistério", "Thriller/Mistério", "Ficção científica"],
+  "categorias": ["Últimos Adicionados", "Thriller Psicológico", "Ação", "Comédia", "Drama", "Terror/Mistério", "Thriller/Mistério", "Ficção científica"],
   "filmes": [
     {
       "id": "f1",
@@ -279,7 +279,31 @@
           "numero": 8,
           "titulo": "T1 Ep8 ",
           "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
-        }      
+        }
+	 }
+       ]
+    },
+    {
+      "id": "s3",
+      "titulo": "Black Bird",
+      "descricao": "Quando Jimmy Keene começa a cumprir uma sentença de 10 anos de prisão, ele recebe uma oferta incrível: se ele conseguir obter uma confissão do suspeito de assassinato Larry Hall, Jimmy será libertado.",
+      "capa": "https://i.imgur.com/BSsRO9c.jpeg",
+      "imagem": "https://i.imgur.com/yLUN3Ym.jpeg",
+      "categoria": "Thriller Psicológico",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "T1 Ep1 ",
+          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
+        },
+        {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "T1 Ep2 ",
+          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
+        }
         
       ]
     }
