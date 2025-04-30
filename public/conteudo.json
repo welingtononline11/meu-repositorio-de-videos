@@ -1,46 +1,6 @@
 {
   "categorias": ["Últimos Adicionados", "Ação", "Comédia", "Drama", "Terror/Mistério", "Thriller/Mistério", "Ficção científica"],
   "filmes": [
-	  {
-      "id": "f8",
-      "titulo": "Mistério da Rua 7 (2010)",
-      "descricao": "Um blecaute deixa a cidade de Detroit com apenas um grupo de pessoas que lutam para sobreviver, deixando sempre uma fonte de luz por perto.",
-      "capa": "https://i.imgur.com/obx0UrI.jpeg",
-      "imagem": "https://images.justwatch.com/poster/9618993/s592/misterio-da-rua-7.webp",
-      "url": "http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1452628.mp4",
-      "categoria": "Últimos Adicionados",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f7",
-      "titulo": "Mistério da Rua 7 (2010)",
-      "descricao": "Um blecaute deixa a cidade de Detroit com apenas um grupo de pessoas que lutam para sobreviver, deixando sempre uma fonte de luz por perto.",
-      "capa": "https://i.imgur.com/obx0UrI.jpeg",
-      "imagem": "https://images.justwatch.com/poster/9618993/s592/misterio-da-rua-7.webp",
-      "url": "http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1452628.mp4",
-      "categoria": "Ficção científica",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f9",
-      "titulo": "Extermínio (2002)",
-      "descricao": "Uma praga transforma a maioria da humanidade em zumbis sedentos de sangue. Um grupo ainda não afetado se prepara para a mais perigosa jornada de suas vidas: tentar chegar a uma fortaleza militar em Manchester.",
-      "capa": "https://i.imgur.com/FOpwrWS.jpeg",
-      "imagem": "https://image.tmdb.org/t/p/original/tKAqttsESgFYAz3pkjxey3JxYUn.jpg",
-      "url": "https://filmesfiz.s3.us-east-005.backblazeb2.com/Exterminio%202002_170.mp4",
-      "categoria": "Últimos Adicionados",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f10",
-      "titulo": "Extermínio (2002)",
-      "descricao": "Uma praga transforma a maioria da humanidade em zumbis sedentos de sangue. Um grupo ainda não afetado se prepara para a mais perigosa jornada de suas vidas: tentar chegar a uma fortaleza militar em Manchester.",
-      "capa": "https://i.imgur.com/FOpwrWS.jpeg",
-      "imagem": "https://image.tmdb.org/t/p/original/tKAqttsESgFYAz3pkjxey3JxYUn.jpg",
-      "url": "https://filmesfiz.s3.us-east-005.backblazeb2.com/Exterminio%202002_170.mp4",
-      "categoria": "Ficção científica",
-      "tipo": "filme"
-    },
     {
       "id": "f1",
       "titulo": "Mickey 17",
@@ -101,6 +61,56 @@
       "categoria": "Ação",
       "tipo": "filme"
     }
+	{
+      "id": "f7",
+      "titulo": "Mistério da Rua 7 (2010)",
+      "descricao": "Um blecaute deixa a cidade de Detroit com apenas um grupo de pessoas que lutam para sobreviver, deixando sempre uma fonte de luz por perto.",
+      "capa": "https://i.imgur.com/obx0UrI.jpeg",
+      "imagem": "https://images.justwatch.com/poster/9618993/s592/misterio-da-rua-7.webp",
+      "url": "http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1452628.mp4",
+      "categoria": "Últimos Adicionados",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f8",
+      "titulo": "Mistério da Rua 7 (2010)",
+      "descricao": "Um blecaute deixa a cidade de Detroit com apenas um grupo de pessoas que lutam para sobreviver, deixando sempre uma fonte de luz por perto.",
+      "capa": "https://i.imgur.com/obx0UrI.jpeg",
+      "imagem": "https://images.justwatch.com/poster/9618993/s592/misterio-da-rua-7.webp",
+      "url": "http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1452628.mp4",
+      "categoria": "Ficção científica",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f9",
+      "titulo": "Extermínio (2002)",
+      "descricao": "Uma praga transforma a maioria da humanidade em zumbis sedentos de sangue. Um grupo ainda não afetado se prepara para a mais perigosa jornada de suas vidas: tentar chegar a uma fortaleza militar em Manchester.",
+      "capa": "https://i.imgur.com/FOpwrWS.jpeg",
+      "imagem": "https://image.tmdb.org/t/p/original/tKAqttsESgFYAz3pkjxey3JxYUn.jpg",
+      "url": "https://filmesfiz.s3.us-east-005.backblazeb2.com/Exterminio%202002_170.mp4",
+      "categoria": "Últimos Adicionados",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f10",
+      "titulo": "Extermínio (2002)",
+      "descricao": "Uma praga transforma a maioria da humanidade em zumbis sedentos de sangue. Um grupo ainda não afetado se prepara para a mais perigosa jornada de suas vidas: tentar chegar a uma fortaleza militar em Manchester.",
+      "capa": "https://i.imgur.com/FOpwrWS.jpeg",
+      "imagem": "https://image.tmdb.org/t/p/original/tKAqttsESgFYAz3pkjxey3JxYUn.jpg",
+      "url": "https://filmesfiz.s3.us-east-005.backblazeb2.com/Exterminio%202002_170.mp4",
+      "categoria": "Ficção científica",
+      "tipo": "filme"
+    },
+	{
+      "id": "f11",
+      "titulo": "",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "",
+      "categoria": "Ficção científica",
+      "tipo": "filme"
+    }  
   ],
   "series": [
     {
@@ -220,6 +230,65 @@
           "titulo": "T2 Ep10 Molly Precisa de um Número",
           "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709%2FS02%2F769595_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S02E10.mp4"
         }
+	],
+  "series": [
+    {
+      "id": "s1",
+      "titulo": "Um Cavalheiro Em Moscou",
+      "descricao": "A minissérie "Um Cavalheiro em Moscou" (2024) conta a história do Conde Alexander Rostov, um aristocrata russo que, após a Revolução Russa, é condenado à prisão domiciliar no luxuoso Hotel Metropol em Moscou. A história, baseada no romance de Amor Towles, acompanha o Conde enquanto ele passa décadas confinado no hotel, testemunhando a transformação da Rússia e desenvolvendo relações com pessoas que cruzam seu caminho. ",
+      "capa": "https://i.imgur.com/4QiPn31.jpeg",
+      "imagem": "https://i.imgur.com/DAVuUfj.jpeg",
+      "categoria": "Drama",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "T1 Ep1 ",
+          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
+        },
+        {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "T1 Ep2 ",
+          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
+        },
+        {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "T1 Ep3 Primeiro Beijo",
+          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
+        },
+        {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "T1 Ep4",
+          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
+        },
+        {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "T1 Ep5 ",
+          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
+        },
+        {
+          "temporada": 1,
+          "numero": 6,
+          "titulo": "T1 Ep6 ",
+          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
+        },
+        {
+          "temporada": 1,
+          "numero": 7,
+          "titulo": "T1 Ep7 ",
+          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
+        },
+        {
+          "temporada": 1,
+          "numero": 8,
+          "titulo": "T1 Ep8 ",
+          "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
+        }      
         
       ]
     }
