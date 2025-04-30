@@ -100,17 +100,8 @@
       "url": "https://filmesfiz.s3.us-east-005.backblazeb2.com/Exterminio%202002_170.mp4",
       "categoria": "Ficção científica",
       "tipo": "filme"
-    },
-	{
-      "id": "f11",
-      "titulo": "",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "",
-      "categoria": "Ficção científica",
-      "tipo": "filme"
-    }  
+    }
+	
   ],
   "series": [
     {
