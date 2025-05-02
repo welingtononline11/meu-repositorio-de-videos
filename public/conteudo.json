@@ -1,5 +1,5 @@
 {
-  "categorias": ["Ação", "Comédia", "Drama", "Ficção científica", "Terror/Mistério", "Thriller/Mistério","Thriller Psicológico"],
+  "categorias": ["Ação", "Comédia", "Drama", "Ficção científica", "Suspense", "Terror/Mistério", "Thriller/Mistério","Thriller Psicológico"],
   "filmes": [
     {
       "id": "f1",
@@ -53,12 +53,12 @@
     },
      {
     "id": "f6",
-      "titulo": "Demolidor2",
-      "descricao": "Matt Murdock (Charlie Cox), um advogado cego com habilidades aguçadas, luta por justiça em seu movimentado escritório de advocacia, enquanto o ex-chefe da máfia Wilson Fisk (Vincent D'Onofrio) persegue seus próprios projetos políticos em Nova York.",
-      "capa": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d3/Daredevil_Final_Poster.png",
-      "imagem": "https://jpimg.com.br/uploads/2025/01/capa-site-7.png",
-      "url": "http://kobe.kaseline.shop:2095/live5/foodnetwork/chunks.m3u8?token=1746156127_52e78debef427732787681c80720f1533b997e70",
-      "categoria": "Ação",
+      "titulo": "Red Rooms: Obsessão Doentia",
+      "descricao": "Kelly-Anne é uma modelo que fica obcecada pelo caso do serial killer Ludovic Chevalier. Ela busca o vídeo de uma das vítimas que se parece com ela, mas essa obsessão vai levá-la para um caminho sombrio.",
+      "capa": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/83g3gkDw6oc2mxkyB8DSoXQZJHl.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w440_and_h660_face/pTvVEWtU5A6mGGnDRVFQfB1qUjk.jpg",
+      "url": "https://filmesfiz.s3.us-east-005.backblazeb2.com/Red%20Rooms%20Obsessao%20Doentia%202023_912480.mp4",
+      "categoria": "Suspense",
       "tipo": "filme"
     },
 	  {
