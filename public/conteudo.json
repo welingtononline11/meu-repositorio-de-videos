@@ -385,15 +385,34 @@
         {
           "temporada": 2,
           "numero": 9,
-          "titulo": "T2 Ep9 ",
+          "titulo": "T2 Ep9 Sayonara Hiawatha",
           "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/The%20Killing%20Alem%20de%20um%20Crime_34415%2FS02%2F786802_The%20Killing%20Alem%20de%20um%20Crime%20S02E09.mp4"
         },
         {
           "temporada": 2,
           "numero": 10,
-          "titulo": "T1 Ep10 ",
-          "url": ""
-        }    
+          "titulo": "T2 Ep10 72 horas",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/The%20Killing%20Alem%20de%20um%20Crime_34415%2FS02%2F786803_The%20Killing%20Alem%20de%20um%20Crime%20S02E10.mp4"
+        },
+	  {
+          "temporada": 2,
+          "numero": 11,
+          "titulo": "T2 Ep11 Buldogue",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/The%20Killing%20Alem%20de%20um%20Crime_34415%2FS02%2F786804_The%20Killing%20Alem%20de%20um%20Crime%20S02E11.mp4"
+        }
+	      {
+          "temporada": 2,
+          "numero": 12,
+          "titulo": "T2 Ep12 Donnie ou Marie",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/The%20Killing%20Alem%20de%20um%20Crime_34415%2FS02%2F786805_The%20Killing%20Alem%20de%20um%20Crime%20S02E12.mp4"
+        }
+	      {
+          "temporada": 2,
+          "numero": 13,
+          "titulo": "T2 Ep13 O que eu sei",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/The%20Killing%20Alem%20de%20um%20Crime_34415%2FS02%2F786806_The%20Killing%20Alem%20de%20um%20Crime%20S02E13.mp4"
+        }
+	      
         
       ]
     }
