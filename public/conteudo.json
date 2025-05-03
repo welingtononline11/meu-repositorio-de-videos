@@ -1,5 +1,5 @@
 {
-  "categorias": ["Ação", "Comédia", "Drama", "Ficção científica", "Suspense", "Terror/Mistério", "Thriller/Mistério","Thriller Psicológico"],
+  "categorias": ["Ação", "Comédia", "Drama", "Drama Policial", "Ficção científica", "Suspense", "Terror/Mistério", "Thriller/Mistério","Thriller Psicológico"],
   "filmes": [
     {
       "id": "f1",
@@ -371,6 +371,29 @@
           "titulo": "T1 Ep2 ",
           "url": "https://cdn-0062.speed-stream.online/demolidor-renascido-38cde01a/s1/dubbed/3/9fb3010a-754b-4772-8b5a-8d219434dc5e/stream.mp4"
         }
+       ]
+    },
+    {
+	"id": "s4",
+      "titulo": "The Killing - Além de um Crime",
+      "descricao": "The Killing – Além de um Crime é uma série policial ambientada em Seattle. A trama acompanha a detetive Sarah Linden em seu último dia de trabalho, quando é chamada para investigar o assassinato da adolescente Rosie Larsen. A investigação se entrelaça com o luto da família da vítima e uma campanha política local, revelando segredos e conexões inesperadas.",
+      "capa": "https://i.imgur.com/lc9oSjK.jpeg",
+      "imagem": "https://image.tmdb.org/t/p/w500/3yiwAUNGn1rsPSVmFgVwPVJFtYf.jpg",
+      "categoria": "Drama Policial",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 2,
+          "numero": 1,
+          "titulo": "T2 Ep9 ",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/The%20Killing%20Alem%20de%20um%20Crime_34415%2FS02%2F786802_The%20Killing%20Alem%20de%20um%20Crime%20S02E09.mp4"
+        },
+        {
+          "temporada": 2,
+          "numero": 2,
+          "titulo": "T1 Ep10 ",
+          "url": ""
+        }    
         
       ]
     }
