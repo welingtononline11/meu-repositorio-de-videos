@@ -292,14 +292,86 @@
 	      {
           "temporada": 3,
           "numero": 1,
-          "titulo": "T2 Ep01 ",
+          "titulo": "T3 Ep01 ",
           "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S03/769609_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S03E01.mp4"
         },
 	      {
           "temporada": 3,
           "numero": 2,
-          "titulo": "T2 Ep02 ",
+          "titulo": "T3 Ep02 ",
           "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709%2FS03%2F769611_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S03E02.mp4"
+        },
+	      {
+          "temporada": 3,
+          "numero": 3,
+          "titulo": "T3 Ep03 ",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S03/769610_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S03E03.mp4"
+        },
+	      {
+          "temporada": 3,
+          "numero": 4,
+          "titulo": "T3 Ep04 ",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S03/769612_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S03E04.mp4"
+        },
+	      {
+          "temporada": 3,
+          "numero": 5,
+          "titulo": "T3 Ep05 ",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S03/769613_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S03E05.mp4"
+        },
+	      {
+          "temporada": 3,
+          "numero": 6,
+          "titulo": "T3 Ep06 ",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S03/769614_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S03E06.mp4"
+        },
+	      {
+          "temporada": 3,
+          "numero": 7,
+          "titulo": "T3 Ep06 ",
+          "url": ""
+        },
+	      {
+          "temporada": 3,
+          "numero": ,
+          "titulo": "T3 Ep0 ",
+          "url": ""
+        },
+	      {
+          "temporada": 3,
+          "numero": ,
+          "titulo": "T3 Ep0 ",
+          "url": ""
+        },
+	      {
+          "temporada": 3,
+          "numero": ,
+          "titulo": "T3 Ep0 ",
+          "url": ""
+        },
+	      {
+          "temporada": 3,
+          "numero": ,
+          "titulo": "T3 Ep0 ",
+          "url": ""
+        },
+	      {
+          "temporada": 3,
+          "numero": ,
+          "titulo": "T3 Ep0 ",
+          "url": ""
+        },
+	      {
+          "temporada": 3,
+          "numero": ,
+          "titulo": "T3 Ep0 ",
+          "url": ""
+        },
+	      {
+          "temporada": 3,
+          "numero": ,
+          "titulo": "T3 Ep0 ",
+          "url": ""
         }
        ]
     },
