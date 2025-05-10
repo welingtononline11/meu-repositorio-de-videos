@@ -578,6 +578,23 @@
           "titulo": "T2 Ep13 O que eu sei",
           "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/The%20Killing%20Alem%20de%20um%20Crime_34415%2FS02%2F786806_The%20Killing%20Alem%20de%20um%20Crime%20S02E13.mp4"
         }
+       ]
+    },
+    { 
+	     "id": "s4",
+      "titulo": "Wayward Pines",
+      "descricao": "A série conta a história do agente do Serviço Secreto Ethan Burke (Matt Dilon), que vai para Wayward Pines, em Ohio, em busca de dois agentes desaparecidos e acaba descobrindo um mistério na região. Ele acaba criando alguns inimigos e se vê mais preso à cidade do que imaginava.  ",
+      "capa": "",
+      "imagem": "",
+      "categoria": "Terror/Mistério",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "T1 Ep1 Onde o paraíso é o lar",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Wayward%20Pines_53425/S01/1023425_Wayward%20Pines%20S01E01.mp4"
+        }
 	      
         
       ]
