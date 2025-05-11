@@ -443,6 +443,30 @@
           "numero": 1,
           "titulo": "T4 Ep01 Molly Está Livre",
           "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S04/1001413_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S04E01.mp4"
+        },
+	      {
+	      "temporada": 4,
+          "numero": 2,
+          "titulo": "T4 Ep02 A Primeira E Última Ronda",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S04/1001414_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S04E02.mp4"
+        },
+	      {
+	      "temporada": 4,
+          "numero": 3,
+          "titulo": "T4 Ep03 Sexo E Morte",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S04/1001415_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S04E03.mp4"
+        },
+	      {
+	      "temporada": 4,
+          "numero": 4,
+          "titulo": "T4 Ep04 Cuidado Com Que Procura",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S04/1001416_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S04E04.mp4"
+        },
+	      {
+	      "temporada": 4,
+          "numero": 5,
+          "titulo": "T4 Ep05 Jogatina Na Frente, Espionagem Nos Fundos",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S04/1001417_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S04E05.mp4"
         }
        ]
     },
@@ -619,6 +643,12 @@
           "numero": 4,
           "titulo": "T1 Ep4 Um de nossos corretores imobiliários seniores decidiu se aposentar",
           "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Wayward%20Pines_53425/S01/1061637_Wayward%20Pines%20S01E04.mp4"
+        },
+	      {
+         "temporada": 1,
+          "numero": 5,
+          "titulo": "T1 Ep5 A Verdade",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Wayward%20Pines_53425/S01/1062198_Wayward%20Pines%20S01E05.mp4"
         }
 	      
         
