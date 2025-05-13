@@ -123,22 +123,22 @@
     },
 	  {
       "id": "f15",
-      "titulo": "",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "",
-      "categoria": "",
+      "titulo": "Refúgio do Medo (2014)",
+      "descricao": "Um médico recém-formado em Harvard aceita um emprego em uma instituição mental. Logo, ele se apaixona por uma de suas colegas, o que não o permite perceber uma terrível mudança no quadro de funcionários.",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/7t4OgKvzqfvDcB2nA6oPyEHWd2G.jpg",
+      "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/p7PJ4BP1AVAItEa9aPPQ5XY9B4v.jpg",
+      "url": "https://filmesfiz.s3.us-east-005.backblazeb2.com/Refugio%20do%20Medo%202014_207933.mp4",
+      "categoria": "Suspense",
       "tipo": "filme"
     },
 	  {
       "id": "f16",
-      "titulo": "",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "",
-      "categoria": "",
+      "titulo": "O Convite (2016)",
+      "descricao": "Uma tragédia abala o casal formado por Will e Eden. Eles perdem o filho pequeno e, desolada, Eden vai embora sem dar notícias. Dois anos mais tarde, ela volta a procurar o marido, acompanhada de outro homem, e totalmente diferente de como era antes. Durante um jantar, com Will, Eden e o novo companheiro de sua esposa, Will começa a suspeitar que os visitantes têm planos sinistros contra ele.",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/sFJpcejLiRZqqwXSjX0hYaeSWPw.jpg",
+      "imagem": "https://image.tmdb.org/t/p/original/xcYQLtK4gKRnyIj4pwxP1VDIdpe.jpg",
+      "url": "http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt2400463.mp4",
+      "categoria": "Suspense",
       "tipo": "filme"
     },
 	  {
@@ -147,7 +147,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "",
-      "url": "",
+      "url": "https://filmesfiz.s3.us-east-005.backblazeb2.com/O%20Orfanato%202007_6537.mp4",
       "categoria": "",
       "tipo": "filme"
     }
