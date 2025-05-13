@@ -476,9 +476,21 @@
         },
 	      {
 	      "temporada": 4,
-          "numero": 6,
+          "numero": 7,
           "titulo": "T4 Ep07 Eles Atiram Em Bundas, Não Atiram?",
           "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S04/1001419_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S04E07.mp4"
+        },
+	      {
+	      "temporada": 4,
+          "numero": 8,
+          "titulo": "T4 Ep08 Vejam O Que Molly Tem Feito",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S04/1001420_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S04E08.mp4"
+        },
+	      {
+	      "temporada": 4,
+          "numero": 9,
+          "titulo": "T4 Ep09 A Extraordinária Aventura De Mike E Molly",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S04/1001421_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S04E09.mp4"
         }
        ]
     },
