@@ -1,5 +1,5 @@
 {
-  "categorias": ["TV", "Ação", "Comédia", "Drama", "Drama Policial", "Ficção científica", "Suspense", "Terror/Mistério", "Thriller/Mistério","Thriller Psicológico"],
+  "categorias": ["TV", "séries", "Ação", "Comédia", "Drama", "Drama Policial", "Ficção científica", "Suspense", "Terror/Mistério", "Thriller/Mistério","Thriller Psicológico"],
   "filmes": [
     {
       "id": "f1",
@@ -110,7 +110,7 @@
       "descricao": "Um casal de obesos, Mike (Billy Gardell), um policial de Chicago, e Molly (Melissa McCarthy), uma professora infantil, se conhecem em uma reunião de Comedores Compulsivos. Juntos, eles lutam contra os problemas de seus pesos, indo uma vez por semana no Comedores Compulsivos.",
       "capa": "https://i.imgur.com/2Y9PW7i.jpeg",
       "imagem": "https://images.justwatch.com/poster/302760551/s718/mike-and-molly.jpg",
-      "categoria": "Comédia",
+      "categoria": "séries",
       "tipo": "serie",
       "episodios": [
         {
@@ -578,7 +578,7 @@
       "descricao": "A minissérie Um Cavalheiro em Moscou (2024) conta a história do Conde Alexander Rostov, um aristocrata russo que, após a Revolução Russa, é condenado à prisão domiciliar no luxuoso Hotel Metropol em Moscou. A história, baseada no romance de Amor Towles, acompanha o Conde enquanto ele passa décadas confinado no hotel, testemunhando a transformação da Rússia e desenvolvendo relações com pessoas que cruzam seu caminho.",
       "capa": "https://i.imgur.com/4QiPn31.jpeg",
       "imagem": "https://i.imgur.com/DAVuUfj.jpeg",
-      "categoria": "Drama",
+      "categoria": "séries",
       "tipo": "serie",
       "episodios": [
         {
@@ -637,7 +637,7 @@
       "descricao": "Quando Jimmy Keene começa a cumprir uma sentença de 10 anos de prisão, ele recebe uma oferta incrível: se ele conseguir obter uma confissão do suspeito de assassinato Larry Hall, Jimmy será libertado.",
       "capa": "https://i.imgur.com/BSsRO9c.jpeg",
       "imagem": "https://i.imgur.com/yLUN3Ym.jpeg",
-      "categoria": "Thriller Psicológico",
+      "categoria": "séries",
       "tipo": "serie",
       "episodios": [
         {
@@ -678,7 +678,7 @@
       "descricao": "The Killing – Além de um Crime é uma série policial ambientada em Seattle. A trama acompanha a detetive Sarah Linden em seu último dia de trabalho, quando é chamada para investigar o assassinato da adolescente Rosie Larsen. A investigação se entrelaça com o luto da família da vítima e uma campanha política local, revelando segredos e conexões inesperadas.",
       "capa": "https://i.imgur.com/lc9oSjK.jpeg",
       "imagem": "https://image.tmdb.org/t/p/w500/3yiwAUNGn1rsPSVmFgVwPVJFtYf.jpg",
-      "categoria": "Drama Policial",
+      "categoria": "séries",
       "tipo": "serie",
       "episodios": [
         {
@@ -719,7 +719,7 @@
       "descricao": "A série conta a história do agente do Serviço Secreto Ethan Burke (Matt Dilon), que vai para Wayward Pines, em Ohio, em busca de dois agentes desaparecidos e acaba descobrindo um mistério na região. Ele acaba criando alguns inimigos e se vê mais preso à cidade do que imaginava.  ",
       "capa": "https://i.imgur.com/pWTixB8.jpeg",
       "imagem": "https://i.imgur.com/XKjFdUT.jpeg",
-      "categoria": "Terror/Mistério",
+      "categoria": "séries",
       "tipo": "serie",
       "episodios": [
         {
@@ -790,7 +790,7 @@
       "descricao": "Kidding segue Jeff Piccirillo, mais conhecido como o carismático Sr. Pickles, um apresentador de programa infantil adorado por crianças e pais, que lidera um império multimilionário. A série explora como a vida aparentemente perfeita de Jeff se desintegra quando ele enfrenta tragédias familiares e dificuldades pessoais.",
       "capa": "https://image.tmdb.org/t/p/w780/4cRHAgqMQTtx6Ncw8cphjOR7lnS.jpg",
       "imagem": "https://br.web.img2.acsta.net/pictures/18/08/07/00/23/5524103.jpg",
-      "categoria": "Drama",
+      "categoria": "séries",
       "tipo": "serie",
       "episodios": [
         {
