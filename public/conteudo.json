@@ -752,8 +752,84 @@
           "titulo": "T1 Ep5 A Verdade",
           "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Wayward%20Pines_53425/S01/1062198_Wayward%20Pines%20S01E05.mp4"
         }
+       ]
+    },
+    { 
+	    "id": "s6",
+      "titulo": "Kidding",
+      "descricao": "Kidding segue Jeff Piccirillo, mais conhecido como o carismático Sr. Pickles, um apresentador de programa infantil adorado por crianças e pais, que lidera um império multimilionário. A série explora como a vida aparentemente perfeita de Jeff se desintegra quando ele enfrenta tragédias familiares e dificuldades pessoais.",
+      "capa": "https://image.tmdb.org/t/p/w780/4cRHAgqMQTtx6Ncw8cphjOR7lnS.jpg",
+      "imagem": "https://br.web.img2.acsta.net/pictures/18/08/07/00/23/5524103.jpg",
+      "categoria": "Drama",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "T1 Ep1 Verde significa ir",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/73925/1x1.mp4"
+        },
+       {
+         "temporada": 1,
+          "numero": 2,
+          "titulo": "T1 Ep2 Pusilânime",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/73925/1x2.mp4"
+        },
+	      {
+         "temporada": 1,
+          "numero": 3,
+          "titulo": "T1 Ep3 Toda dor precisa de um nome",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/73925/1x3.mp4"
+        },
+	      {
+         "temporada": 1,
+          "numero": 4,
+          "titulo": "T1 Ep4 Tchau, mãe",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/73925/1x4.mp4"
+        },
+	      {
+         "temporada": 1,
+          "numero": 5,
+          "titulo": "T1 Ep05 O Novo Você",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/73925/1x5.mp4"
+		      
+	      },
+	      {
+         "temporada": 1,
+          "numero": 6,
+          "titulo": "T1 Ep06 O biscoito",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/73925/1x6.mp4"
+		      
+	      },
+	      {
+         "temporada": 1,
+          "numero": 7,
+          "titulo": "T1 Ep07 Kintsugi",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/73925/1x7.mp4"
+		      
+	      },
+	      {
+         "temporada": 1,
+          "numero": 8,
+          "titulo": "T1 Ep08 Phillia",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/73925/1x8.mp4"
+		      
+	      },
+	      {
+         "temporada": 1,
+          "numero": 9,
+          "titulo": "T1 Ep09 Tenente. Picles",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/73925/1x9.mp4"
+		      
+	      },
+	      {
+         "temporada": 1,
+          "numero": 10,
+          "titulo": "T1 Ep10 Algum dia",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/73925/1x10.mp4"
+		      
+	      }
 	      
-        
       ]
     }
   ]
