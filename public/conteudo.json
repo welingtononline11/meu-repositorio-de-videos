@@ -1,5 +1,5 @@
 {
-  "categorias": ["TV", "séries", "Ação", "Comédia", "Drama", "Drama Policial", "Ficção científica", "Suspense", "Terror/Mistério", "Thriller/Mistério","Thriller Psicológico"],
+  "categorias": ["TV", "séries", "Ação", "Comédia", "Drama", "Drama Policial", "Ficção científica", "Mistério", "Suspense", "Terror", "Thriller","Thriller Psicológico"],
   "filmes": [
     {
       "id": "f1",
@@ -18,7 +18,7 @@
       "capa": "https://i.imgur.com/ZqFCO3V.jpeg",
       "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/91/11/43/20228373.jpg",
       "url": "https://download1326.mediafire.com/y1996xcjio3gRMxd4G0kK15inADlVK9oPMp-E9vnx_wCeM4tvnDpNSwaBgYaWDcnOhe53X0ws0X30NzaznaYlmIDSNixU8Z9JeG4hwYANGbwMCRBg-qXgsLjRlpM9AU1oxpR09OgF5qu4xz6g2huDKLHms8q-iXKBakY5w6H0Mpi/wstdszmeb5dgmj8/Poder+Paranormal.mp4",
-      "categoria": "Thriller/Mistério",
+      "categoria": "Suspense",
       "tipo": "filme"
     },
     {
@@ -143,12 +143,12 @@
     },
 	  {
       "id": "f17",
-      "titulo": "",
+      "titulo": "O Orfanato (2007)",
       "descricao": "",
       "capa": "",
       "imagem": "",
       "url": "https://filmesfiz.s3.us-east-005.backblazeb2.com/O%20Orfanato%202007_6537.mp4",
-      "categoria": "",
+      "categoria": "Terror",
       "tipo": "filme"
     }
 	
