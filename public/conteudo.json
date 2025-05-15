@@ -1014,7 +1014,7 @@
           "titulo": "T1 Ep10 Algum dia",
           "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/73925/1x10.mp4"
 
-		      }
+	}
        ]
     },
     { 
@@ -1031,7 +1031,66 @@
           "numero": 1,
           "titulo": "T1 Ep1 A Longa Jornada Noite Adentro",
           "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/73925/1x1.mp4"
-		      
+
+	}
+       ]
+    },
+    { 
+	    "id": "s8",
+      "titulo": "Iluminadas (2022)",
+      "descricao": "Anos depois de um ataque brutal que a deixou em uma realidade em constante mudança, Kirby Mazrachi descobre que um recente assassinato tem relação com o atentado que sofreu. Ela se junta ao veterano repórter Dan Velazquez para entender o seu presente continuamente mutável — e confrontar o seu passado.",
+      "capa": "https://images.justwatch.com/backdrop/282558562/s1440/shining-girls.webp",
+      "imagem": "https://images.justwatch.com/poster/272300433/s592/shining-girls.webp",
+      "categoria": "séries",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "T1 Ep1 Legenda",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Iluminadas_106388/S01/2362922_Iluminadas%20S01E01.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "T1 Ep2 Duradouro",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Iluminadas_106388/S01/3485835_Iluminadas%20S01E02.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "T1 Ep3 Pernoite",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Iluminadas_106388/S01/3485836_Iluminadas%20S01E03.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "T1 Ep4 Atribuição",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Iluminadas_106388/S01/3485837_Iluminadas%20S01E04.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "T1 Ep5 Manchete de jornal",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Iluminadas_106388/S01/3485838_Iluminadas%20S01E05.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 6,
+          "titulo": "T1 Ep6 Luminoso",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Iluminadas_106388/S01/3485839_Iluminadas%20S01E06.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 7,
+          "titulo": "T1 Ep7 Compensação",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Iluminadas_106388/S01/3485840_Iluminadas%20S01E07.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 8,
+          "titulo": "T1 Ep8 30",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Iluminadas_106388/S01/3485841_Iluminadas%20S01E08.mp4"
 	      }
 	      
       ]
