@@ -163,8 +163,34 @@
     }
 	
   ],
+	
   "series": [
     {
+	    "id": "s9",
+      "titulo": "Power Couple Brasil 7",
+      "descricao": "Está de volta o reality que vai colocar 14 casais confinados em uma Mansão Power na disputa por um prêmio milionário. E a sétima temporada vem com a novidade de um casal mais do que Power: Rafa Brites e Felipe Andreoli assumem o comando do game!",
+      "capa": "https://www.dci.com.br/wp-content/uploads/2025/04/power-couple-1130x580.png",
+      "imagem": "https://i.imgur.com/U9lIZyZ.jpeg",
+      "categoria": "séries",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "ESTREIA | 29/04/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x01.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "Episódio 02 | 30/04/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x02.mp4"
+
+	 }
+       ]
+    },
+    { 
+	    
       "id": "s1",
       "titulo": "Mike & Molly: Um Casal de Peso",
       "descricao": "Um casal de obesos, Mike (Billy Gardell), um policial de Chicago, e Molly (Melissa McCarthy), uma professora infantil, se conhecem em uma reunião de Comedores Compulsivos. Juntos, eles lutam contra os problemas de seus pesos, indo uma vez por semana no Comedores Compulsivos.",
@@ -1091,29 +1117,7 @@
           "numero": 8,
           "titulo": "T1 Ep8 30",
           "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Iluminadas_106388/S01/3485841_Iluminadas%20S01E08.mp4"
-	      }
-       ]
-    },
-    { 
-	    "id": "s9",
-      "titulo": "Power Couple Brasil 7",
-      "descricao": "Está de volta o reality que vai colocar 14 casais confinados em uma Mansão Power na disputa por um prêmio milionário. E a sétima temporada vem com a novidade de um casal mais do que Power: Rafa Brites e Felipe Andreoli assumem o comando do game!",
-      "capa": "https://www.dci.com.br/wp-content/uploads/2025/04/power-couple-1130x580.png",
-      "imagem": "https://i.imgur.com/U9lIZyZ.jpeg",
-      "categoria": "séries",
-      "tipo": "serie",
-      "episodios": [
-        {
-          "temporada": 1,
-          "numero": 1,
-          "titulo": "ESTREIA | 29/04/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x01.mp4"
-	      },
-	      {
-          "temporada": 1,
-          "numero": 1,
-          "titulo": "Episódio 02 | 30/04/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x02.mp4"
+	     
 	      }
 	      
       ]
