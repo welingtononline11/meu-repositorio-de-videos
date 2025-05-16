@@ -182,11 +182,110 @@
 	      },
 	      {
           "temporada": 1,
-          "numero": 1,
+          "numero": 2,
           "titulo": "Episódio 02 | 30/04/2025",
           "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x02.mp4"
 
+	 }.
+	      {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "Episódio 03 | 01/05/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x03.mp4"
+
+	 },
+	      {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "Episódio 04 | 02/05/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x04.mp4"
+
+	 },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "Episódio 05 | 03/05/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x05.mp4"
+
+	 },
+	      {
+          "temporada": 1,
+          "numero": 6,
+          "titulo": "Episódio 06 | Quebra Power | 04/05/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x06.mp4"
+
+	 },
+	      {
+          "temporada": 1,
+          "numero": 7,
+          "titulo": "Episódio 07 | 05/05/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x07.mp4"
+
+	 },
+	      {
+          "temporada": 1,
+          "numero": 8,
+          "titulo": "Episódio 08 | 06/05/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x08.mp4"
+
+	 },
+	      {
+          "temporada": 1,
+          "numero": 9,
+          "titulo": "Episódio 09 | 07/05/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x09.mp4"
+
+	 },
+	      {
+          "temporada": 1,
+          "numero": 10,
+          "titulo": "Episódio 10 | 08/05/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x10.mp4"
+
+	 },
+	      {
+          "temporada": 1,
+          "numero": 11,
+          "titulo": "Episódio 11 | 09/05/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x11.mp4"
+
+	 },
+	      {
+          "temporada": 1,
+          "numero": 12,
+          "titulo": "Episódio 12 | 10/05/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x12.mp4"
+
+	 },
+	      {
+          "temporada": 1,
+          "numero": 13,
+          "titulo": "Episódio 13 | Quebra Power | 11/05/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x13.mp4"
+
+	 },
+	      {
+          "temporada": 1,
+          "numero": 14,
+          "titulo": "Episódio 14 | 12/05/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x14.mp4"
+
+	 },
+	      {
+          "temporada": 1,
+          "numero": 15,
+          "titulo": "Episódio 15 | 13/05/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x15.mp4"
+
+	 },
+	      {
+          "temporada": 1,
+          "numero": 16,
+          "titulo": "Episódio 16 | 14/05/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x16.mp4"
+
 	 }
+	      
        ]
     },
     { 
