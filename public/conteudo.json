@@ -1,6 +1,16 @@
 {
   "categorias": ["séries", "Ação", "Comédia", "Drama", "Drama Policial", "Ficção científica", "Mistério", "Suspense", "Terror", "Thriller","Thriller Psicológico", "TV"],
   "filmes": [
+	 {
+      "id": "f19",
+      "titulo": "O Culto (2017)",
+      "descricao": "Dois irmãos foram criados num culto religioso do qual fugiram quando Justin percebeu a possibilidade da ocorrência de um suicídio em massa. Dez anos depois, eles, recebem uma mensagem em vídeo bastante enigmática. Nela, um membro do culto fala de uma ‘ascensão’ iminente e então resolvem regressar ao local aonde eram realizados os cultos em busca de respostas. Mas, ao chegarem, descobrem que o ‘culto’ pode afinal não ser o que pensavam e começam a duvidar, inclusive, se serão bem-vindos.",
+      "capa": "https://static.filmin.es/images/es/media/23471/5/still_0_3_1920x1080.jpg",
+      "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2D0lOSwNAq1jUmeJgrdgPbBY9dK.jpg",
+      "url": "http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt3986820.mp4",
+      "categoria": "Ficção científica",
+      "tipo": "filme"
+    }, 
     {
       "id": "f1",
       "titulo": "Mickey 17",
