@@ -1,5 +1,5 @@
 {
-  "categorias": ["TV", "séries", "Ação", "Comédia", "Drama", "Drama Policial", "Ficção científica", "Mistério", "Suspense", "Terror", "Thriller","Thriller Psicológico"],
+  "categorias": ["séries", "Ação", "Comédia", "Drama", "Drama Policial", "Ficção científica", "Mistério", "Suspense", "Terror", "Thriller","Thriller Psicológico", "TV"],
   "filmes": [
     {
       "id": "f1",
