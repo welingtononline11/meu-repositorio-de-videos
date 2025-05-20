@@ -898,7 +898,27 @@
           "numero": 22,
           "titulo": "T4 Ep22 Oito É Demais",
           "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S04/1001434_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S04E22.mp4"
-        }
+        
+		}
+       ]
+    },
+    { 
+	    "id": "s10",
+      "titulo": "Grimm - Contos de Terror",
+      "descricao": "Nick Burkhardt é um detetive de homicídios que recebe novas responsabilidades após descobrir que é descendente de Grimm, uma sociedade secreta. O seu principal objetivo é conseguir encontrar um ponto de equilíbrio entre a vida real e a mitologia. A nova rotina traz desafios e perigos, sobretudo à noiva de Nick, Juliette Silverton, e ao colega de trabalho, Hank Griffin.",
+      "capa": "https://images.justwatch.com/backdrop/49615507/s1440/grimm.webp",
+      "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5hC8CertBqHbXNPcfm1LZ18VcjD.jpg",
+      "categoria": "séries",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "T1 Ep1 Piloto",
+          "url": "https://video.mp4"
+		
+	}
+
        ]
     },
     {
