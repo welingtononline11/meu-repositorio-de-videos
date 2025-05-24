@@ -1,7 +1,7 @@
 {
   "categorias": ["séries", "Ficção científica", "Mistério", "Suspense", "Terror", "Terror Psicológico", "Thriller","Thriller Psicológico","Drama", "Drama Policial", "Ação", "Comédia", "TV"],
   "filmes": [
-	  
+	 
 	  {
       "id": "f21",
       "titulo": "Noite Passada em Soho (2021)",
@@ -353,8 +353,63 @@
           "titulo": "Power Ep20 - 18/05/2025",
           "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x20.mp4"
 
-	 }
-	      
+		       }
+       ]
+    },
+    { 
+	    "id": "s11",
+      "titulo": "Difamação",
+      "descricao": "Quando um estranho livro aparece ao lado da cama de uma jornalista cuja carreira foi construída revelando delitos, ela se apavora ao se dar conta de que é uma das personagens centrais de uma história enterrada há tempos e que expõe seu segredo mais sombrio. /n/n IMDB 7.5",
+      "capa": "https://i.ytimg.com/vi/vkg45c-rkQ8/maxresdefault.jpg",
+      "imagem": "https://br.web.img3.acsta.net/img/7c/75/7c75fd6c789ff791d965576971467f67.jpg",
+      "categoria": "séries",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "T1 Episódio 1 - I",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Difamacao_147050/S01/3368949_Difamacao%20S01E01.mp4"
+        },
+       {
+         "temporada": 1,
+          "numero": 2,
+          "titulo": "T1 Episódio 2 - II",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Difamacao_147050/S01/5436868_Difamacao%20S01E02.mp4"
+        },
+	      {
+         "temporada": 1,
+          "numero": 3,
+          "titulo": "T1 Episódio 3 - III",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Difamacao_147050/S01/5436869_Difamacao%20S01E03.mp4"
+        },
+	      {
+         "temporada": 1,
+          "numero": 4,
+          "titulo": "T1 Episódio 4 - IV",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Difamacao_147050/S01/5436870_Difamacao%20S01E04.mp4"
+        },
+	      {
+         "temporada": 1,
+          "numero": 5,
+          "titulo": "T1 Episódio 5 - V",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Difamacao_147050/S01/5436871_Difamacao%20S01E05.mp4"
+		      
+	      },
+	      {
+         "temporada": 1,
+          "numero": 6,
+          "titulo": "T1 Episódio 6 - VI",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Difamacao_147050/S01/5436872_Difamacao%20S01E06.mp4"
+		      
+	      },
+	      {
+         "temporada": 1,
+          "numero": 7,
+          "titulo": "T1 Episódio 7 - VII",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Difamacao_147050/S01/5436873_Difamacao%20S01E07.mp4"
+	
+	 }     
        ]
     },
     { 
