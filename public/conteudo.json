@@ -974,8 +974,82 @@
           "numero": 22,
           "titulo": "T4 Ep22 Oito É Demais",
           "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S04/1001434_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S04E22.mp4"
+
+			}
+       ]
+    },
+    {
+      "id": "s11",
+      "titulo": "Continuum (2012)",
+      "descricao": "Em Continuum, uma detetive de 2077, Kiera Cameron, é mandada para o passado (2012) para deter terroristas que escaparam da execução. No entanto, ela fica presa no presente e se vê obrigada a colaborar com um detetive local para impedir que os terroristas mudem o futuro. \n\n IMDB 7.6",
+      "capa": "https://images.justwatch.com/backdrop/293992203/s1440/continuum.webp",
+      "imagem": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqL4jiKHOv4qXn46RRIgcKIk2EE.jpg",
+      "categoria": "séries",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "Temporada": 1,
+          "numero": 1,
+          "titulo": "T1 Ep1 Um ponto no tempo",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Um%20Cavalheiro%20Em%20Moscou_208942/S01/3913063_Um%20Cavalheiro%20Em%20Moscou%20S01E01.mp4"
+        },
+        {
+          "Temporada": 1,
+          "numero": 2,
+          "titulo": "T1 Ep2 Tempos rápidos",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Um%20Cavalheiro%20Em%20Moscou_208942/S01/5131684_Um%20Cavalheiro%20Em%20Moscou%20S01E02.mp4"
+        },
+        {
+          "Temporada": 1,
+          "numero": 3,
+          "titulo": "T1 Ep3 Perdendo tempo",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Um%20Cavalheiro%20Em%20Moscou_208942/S01/5131685_Um%20Cavalheiro%20Em%20Moscou%20S01E03.mp4"
+        },
+        {
+          "Temporada": 1,
+          "numero": 4,
+          "titulo": "T1 Ep4 Uma questão de tempo",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Um%20Cavalheiro%20Em%20Moscou_208942/S01/5197575_Um%20Cavalheiro%20Em%20Moscou%20S01E04.mp4"
+        },
+        {
+          "Temporada": 1,
+          "numero": 5,
+          "titulo": "T1 Ep5 Um teste de tempo",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Um%20Cavalheiro%20Em%20Moscou_208942/S01/5197576_Um%20Cavalheiro%20Em%20Moscou%20S01E05.mp4"
+        },
+        {
+          "Temporada": 1,
+          "numero": 6,
+          "titulo": "T1 Ep6 O tempo acabou",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Um%20Cavalheiro%20Em%20Moscou_208942/S01/5214524_Um%20Cavalheiro%20Em%20Moscou%20S01E06.mp4"
+        },
+        {
+          "Temporada": 1,
+          "numero": 7,
+          "titulo": "T1 Ep7 A Política do Tempo",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Um%20Cavalheiro%20Em%20Moscou_208942/S01/5214525_Um%20Cavalheiro%20Em%20Moscou%20S01E07.mp4"
+        },
+        {
+          "Temporada": 1,
+          "numero": 8,
+          "titulo": "T1 Ep8 Hora de brincar",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Um%20Cavalheiro%20Em%20Moscou_208942/S01/5214526_Um%20Cavalheiro%20Em%20Moscou%20S01E08.mp4"
         
-		}
+	},
+	      {
+          "Temporada": 1,
+          "numero": 9,
+          "titulo": "T1 Ep9 Tempo em família",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Um%20Cavalheiro%20Em%20Moscou_208942/S01/5214526_Um%20Cavalheiro%20Em%20Moscou%20S01E08.mp4"
+        
+	},
+	      {
+          "Temporada": 1,
+          "numero": 10,
+          "titulo": "T1 Ep10 Fim dos tempos",
+          "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Um%20Cavalheiro%20Em%20Moscou_208942/S01/5214526_Um%20Cavalheiro%20Em%20Moscou%20S01E08.mp4"
+        
+	}
        ]
     },
     { 
@@ -994,7 +1068,6 @@
           "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Grimm_39351/S01/867076_Grimm%20S01E01.mp4"
 		
 	}
-
        ]
     },
     {
