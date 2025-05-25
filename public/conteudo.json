@@ -1022,25 +1022,25 @@
       "tipo": "serie",
       "episodios": [
         {
-          "Temporada": 1,
+          "temporada": 1,
           "numero": 1,
           "titulo": "T1 Ep1 Um ponto no tempo",
           "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Continuum_43020/S01/884592_Continuum%20S01E01.mp4"
         },
         {
-          "Temporada": 1,
+          "temporada": 1,
           "numero": 2,
           "titulo": "T1 Ep2 Tempos rápidos",
           "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Continuum_43020/S01/884593_Continuum%20S01E02.mp4"
         },
         {
-          "Temporada": 1,
+          "temporada": 1,
           "numero": 3,
           "titulo": "T1 Ep3 Perdendo tempo",
           "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Continuum_43020/S01/884594_Continuum%20S01E03.mp4"
         },
         {
-          "Temporada": 1,
+          "temporada": 1,
           "numero": 4,
           "titulo": "T1 Ep4 Uma questão de tempo",
           "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Continuum_43020/S01/884596_Continuum%20S01E04.mp4"
