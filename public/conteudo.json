@@ -399,6 +399,20 @@
           "titulo": "Power Ep25 - 23/05/2025",
           "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x25.mp4"
 
+	},
+	      {
+          "temporada": 1,
+          "numero": 26,
+          "titulo": "Power Ep26 - 24/05/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x26.mp4"
+
+	},
+	      {
+          "temporada": 1,
+          "numero": 27,
+          "titulo": "Power Ep27 - 26/05/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x27.mp4"
+
 	}
        ]
     },
