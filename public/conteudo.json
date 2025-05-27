@@ -1,6 +1,17 @@
 {
   "categorias": ["séries", "Ficção científica", "Mistério", "Suspense", "Terror", "Terror Psicológico", "Thriller","Thriller Psicológico","Drama", "Drama Policial", "Ação", "Comédia", "TV"],
   "filmes": [
+
+	  {
+      "id": "f22",
+      "titulo": "E.T. - O Extra-Terrestre (1982)",
+      "descricao": "Um alienígena é deixado para trás na Terra e é salvo por Elliot, um garoto de 10 anos, que decide mantê-lo escondido em sua casa. Enquanto uma força-tarefa caça o extraterrestre, Elliot, seu irmão e sua irmã mais nova, Gertie, formam um vínculo emocional com seu novo amigo e tentam ajudá-lo a encontrar o caminho de casa. \n\n IMDB 7.9",
+      "capa": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+      "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8j5igb0iuV9TYudw9SuMV5GT9K9.jpg",
+      "url": "http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0083866.mp4",
+      "categoria": "Ficção científica",
+      "tipo": "filme"
+    },
 	 
 	  {
       "id": "f21",
