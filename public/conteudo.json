@@ -3,6 +3,16 @@
   "filmes": [
 
 	  {
+      "id": "f24",
+      "titulo": "Esqueceram de Mim (1990)",
+      "descricao": "Uma família de Chicago planeja passar o Natal em Paris. Porém, em meio às confusões da viagem, um dos filhos, Kevin, acaba esquecido em casa. O garoto de apenas oito anos é obrigado a se virar sozinho e defender a casa de dois insistentes ladrões. \n\n IMDB 7.7",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/vaVaNrscmsG8CUKYxiwZGFNqGJo.jpg",
+      "imagem": "https://image.tmdb.org/t/p/original/vmAdyYZE2IJXRuq2icWdiVZVIY3.jpg",
+      "url": "https://filmes-act02.s3.us-east-005.backblazeb2.com/Esqueceram%20de%20Mim%201990_771.mp4",
+      "categoria": "Comédia",
+      "tipo": "filme"
+    },
+	  {
       "id": "f23",
       "titulo": "Mentes Sombrias (2018)",
       "descricao": "Em um mundo apocalíptico, onde uma pandemia mata a maioria das crianças e adolescentes da América, alguns sobreviventes desenvolvem poderes sobrenaturais. Eles então são tirados pelo governo de suas famílias e enviados para campos de custódia. Ruby (Amandla Stenberg), uma das sobreviventes, consegue escapar com outras crianças e sua vida muda para sempre. \n\n IMDB 5.7",
