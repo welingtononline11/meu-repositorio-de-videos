@@ -3,6 +3,16 @@
   "filmes": [
 
 	  {
+      "id": "f25",
+      "titulo": "Kraven, o Caçador (2024)",
+      "descricao": "Kraven, o Caçador é uma história visceral e cheia de ação de como e por que razão surgiu um dos vilões mais icónicos da Marvel. Kraven, um homem cuja complexa relação com o seu cruel pai, Nikolai Kravinoff, o transporta para um caminho de vingança com consequências brutais, motivando-o a tornar-se não só o maior caçador do mundo, mas também um dos mais temidos. \n\n IMDB 5.5",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg",
+      "url": "https://filmesta.s3.us-west-004.backblazeb2.com/Kraven%20O%20Cacador%202024_539972.mp4",
+      "categoria": "Ficção científica",
+      "tipo": "filme"
+    },
+	  {
       "id": "f24",
       "titulo": "Esqueceram de Mim (1990)",
       "descricao": "Uma família de Chicago planeja passar o Natal em Paris. Porém, em meio às confusões da viagem, um dos filhos, Kevin, acaba esquecido em casa. O garoto de apenas oito anos é obrigado a se virar sozinho e defender a casa de dois insistentes ladrões. \n\n IMDB 7.7",
