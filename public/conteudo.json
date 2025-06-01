@@ -3,6 +3,16 @@
   "filmes": [
 
 	  {
+      "id": "f26",
+      "titulo": "Power Couple Ao Vivo",
+      "descricao": "",
+      "capa": "https://www.dci.com.br/wp-content/uploads/2025/04/power-couple-1130x580.png",
+      "imagem": "https://media.fstatic.com/zQ3dqOa1-1fHvNw5dVkMTgn856o=/322x478/smart/filters:format(webp)/media/movies/covers/2020/09/pc2.jpg",
+      "url": "https://sae13.playlist.ttvnw.net/v1/playlist/CrwG9Ka5ozUBQI-S0gU8ZS_JdPLp-rnbFiQ4oSAom4YaN4ee_Mdc6Lq4AKH2rPYaT0WATtr-BwXYVQTtuV45hv9e9Gev8Xm6EE6dj-KqLXt-EVqElE4HrKMcMibXoDe0Lpdk46bDg5HiIh0HXXaYaGs_rX-MxVxOx3IlQy2E7jahrVMwjYJ9Ds55nrv2TxXJcK8uSgB-ylYXUaDU94bnO5I-4FggJVpp-AdM1IhIUceSDi60eszwzT5KjroC0vGIdMNC2vAF8k8Yl9ba-xE56hbqrzXW13Ugv4EO0PYDxiNQtHgAeIB-nSA97zxYXSb2JmPr3JWJaHolK4-J9vOBFXpCtUGzqNs6Azp8RxcS9O4EnQ81eRl0CWM5bMG0bwIgGx4jjklXX0ROwAnOVaOvBYPu1A2UZ0wryL-f48dx704zr4Yl0un_a3tACl96C9Ucb4Rx0gpx5BTPTZTRmvE1OcyRZxnwockcvjXWRUb0Vj8eNJt8mY7QpcMJVfHpMTCzIncIaq-HShK8av1vlLvPkWpM2KkbxWdIspV43iYQnlCWr2fsdMYFY8C69CsFwIpRCJqUvOmNF8ZMa4h_NpP8PbmL9hHx0NWvcd-ibt2LWu6CWxQNT7xfWw1olXoJP2jQx-60S8WLP6PZ986BUfZjR3Jiz_tFuYWecF9Qd1QP7DaI90iGyRlUM6JFrP5aMEhAhIg786lK1y2H1A0UxRxazw8vO6ag0Z37ANmB4ib4DP4YOwh0rxAQysWABDz3G0COSPqNUPQfqPuesHPFTB2Rz2SPRobpyncvtDuf4ctu5h98GLI_xyy3qNuzS1_WRpW90Ap29fIMmTW8EMhdlLo96-uDCI3dXy8qDdDHNJrwyNoAopy1juiv7BSk7o8kYVbYzXX1EumGjf8I1EY5FsiJR5sgHnV-ajzBP2godw_q9DL69YDpdr-tcVX4NCugjZP3DOWgqUP0jU8_GD2LOFLJ4rbJUi3ftC0oAG0lMdE1zQ-5Xe_X5em9ywlJqqeYzeIUVWQ7SH9rEsoY0FBSt0zRGoQbe0x0DaHO0lmzmM2wrzDdcgZ5ThR8YKmjT0uukkS57d6ak0Q-AxldUSZLmd7MGgzzEo9y1uXDLf8p6PQgASoJdXMtZWFzdC0yMLMM.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
       "id": "f25",
       "titulo": "Kraven, o Caçador (2024)",
       "descricao": "Kraven, o Caçador é uma história visceral e cheia de ação de como e por que razão surgiu um dos vilões mais icónicos da Marvel. Kraven, um homem cuja complexa relação com o seu cruel pai, Nikolai Kravinoff, o transporta para um caminho de vingança com consequências brutais, motivando-o a tornar-se não só o maior caçador do mundo, mas também um dos mais temidos. \n\n IMDB 5.5",
