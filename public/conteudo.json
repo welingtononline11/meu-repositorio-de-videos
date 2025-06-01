@@ -1136,7 +1136,20 @@
           "numero": 12,
           "titulo": "T5 Ep12 O Mundo Segundo Peggy",
           "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S05/1041475_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S05E12.mp4"	
+       },
+	      {
+          "temporada": 5,
+          "numero": 13,
+          "titulo": "T5 Ep13 Compre O Livro",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S05/1041476_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S05E13.mp4"	
+       },
+	      {
+          "temporada": 5,
+          "numero": 14,
+          "titulo": "T5 Ep14 O Que Aconteceu Com A Bebê Peggy",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Mike%20e%20Molly%20Um%20Casal%20de%20Peso_32709/S05/1045726_Mike%20e%20Molly%20Um%20Casal%20de%20Peso%20S05E14.mp4"	
        }
+
 	
        ]
     },
