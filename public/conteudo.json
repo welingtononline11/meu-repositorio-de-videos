@@ -3,6 +3,26 @@
   "filmes": [
 
 	  {
+      "id": "f28",
+      "titulo": "Entre Montanhas (2025)",
+      "descricao": "Dois agentes altamente treinados se aproximam à distância após serem enviados para proteger lados opostos de um desfiladeiro misterioso. Quando um mal emerge, eles precisam trabalhar juntos para sobreviver ao que está lá dentro.  \n\n IMDB 6.7",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zL6RxMPmpPSdU5OTdVC4dtiKcr.jpg",
+      "url": "https://filmes-act01.s3.us-east-005.backblazeb2.com/Entre%20Montanhas%202025_950396.mp4",
+      "categoria": "Ficção científica",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f27",
+      "titulo": "Tá Todo Mundo Louco! (2001)",
+      "descricao": "Um dono de cassino de Las Vegas decide organizar uma competição especial. Fichas de cassino premiadas escolherão seis pessoas para uma corrida pela América com prêmio de dois milhões de dólares. Os competidores apelam a tudo para vencer a corrida maluca.  \n\n IMDB 6.5",
+      "capa": "https://image.tmdb.org/t/p/original/9apZfVW7xTcLsW5uus7KnYIg658.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQJ7SwDybGVbYLeiYsbHFZNBIZN.jpg",
+      "url": "https://filmesta.s3.us-west-004.backblazeb2.com/Ta%20Todo%20Mundo%20Louco%202001_9896.mp4",
+      "categoria": "Comédia",
+      "tipo": "filme"
+    },
+	  {
       "id": "f26",
       "titulo": "Power Couple Ao Vivo",
       "descricao": "",
