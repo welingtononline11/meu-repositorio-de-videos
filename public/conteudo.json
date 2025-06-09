@@ -3,6 +3,16 @@
   "filmes": [
 
    {
+      "id": "f30",
+      "titulo": "Pecadore 2025)",
+      "descricao": "Dispostos a deixar suas vidas conturbadas para trás, irmãos gêmeos retornam à sua cidade natal para recomeçar suas vidas do zero, quando descobrem que um mal ainda maior está à espera deles para recebê-los de volta. \n\n IMDB 7.9",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9kYEboW1TQaeilGYUAx1MO0DUp.jpg",
+      "url": "https://filmes-act08.s3.us-east-005.backblazeb2.com/Pecadores%202025_1233413.mp4",
+      "categoria": "Terror",
+      "tipo": "filme"
+    },
+	  {
       "id": "f29",
       "titulo": "Noiva em Fuga (1999)",
       "descricao": "Maggie Carpenter (Julia Roberts) possui um grave problema: não consegue se casar. Já tentou por 3 vezes, mas na hora da cerimônia algo acontece e ela sempre foge do altar. Quando a história chega aos ouvidos de Ike Graham (Richard Gere), um jornalista machista, ele a publica em sua coluna e logo em seguida acaba demitido por não ter confirmações. Decidido a recuperar o emprego, Ike parte para a cidade de Maggie a fim de provar que o conto da noiva fujona é verídico. \n\n IMDB 5.6",
