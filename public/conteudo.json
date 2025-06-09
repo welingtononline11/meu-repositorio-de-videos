@@ -1,6 +1,17 @@
 {
-  "categorias": ["séries", "Ficção científica", "Mistério", "Suspense", "Terror", "Terror Psicológico", "Thriller","Thriller Psicológico","Drama", "Drama Policial", "Ação", "Comédia", "TV"],
+  "categorias": ["séries", "Ficção científica", "Mistério", "Suspense", "Terror", "Terror Psicológico", "Thriller","Thriller Psicológico","Drama", "Drama Policial", "Romance", "Ação", "Comédia", "TV"],
   "filmes": [
+
+   {
+      "id": "f29",
+      "titulo": "Noiva em Fuga (1999)",
+      "descricao": "  \n\n IMDB 5.6",
+      "capa": "https://http2.mlstatic.com/D_NQ_NP_625349-MLA82553664196_032025-C.jpg",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgU6DawZ28WPbyuBeYspf3ISJ8AXv-a5aPE4sPsJFA2i3j11MGfl5vpg&s=10",
+      "url": "https://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0163187.mp4",
+      "categoria": "Romance",
+      "tipo": "filme"
+    },
 
 	  {
       "id": "f28",
