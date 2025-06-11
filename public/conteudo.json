@@ -1820,6 +1820,82 @@
           "url": "https://seriesfiz.s3.us-east-005.backblazeb2.com/Iluminadas_106388/S01/3485841_Iluminadas%20S01E08.mp4"
 	     
 	      }
+
+	      }
+       ]
+    },
+    { 
+	    "id": "s13",
+      "titulo": "Castle Rock",
+      "descricao": "Castle Rock combina a escala mitológica e a narrativa íntima de personagens das obras mais conhecidas de Stephen King, tecendo uma saga épica de luz e escuridão que ganha vida em uma pequena área nos bosques do estado norte-americano de Maine. \n\n IMDB 7.5",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/qyRJPtJkJz7wtS4UJnJez9S3WOM.jpg",
+      "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6dnUpv9ghx84pgxlMOb4uuJrWDs.jpg",
+      "categoria": "séries",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "T1 Ep1 Separação",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1481339_Castle%20Rock%20S01E01.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "T1 Ep2 Habeas Corpus",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1514042_Castle%20Rock%20S01E02.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "T1 Ep3 Local Color",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1514043_Castle%20Rock%20S01E03.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "T1 Ep4 O Caixão",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1515179_Castle%20Rock%20S01E04.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "T1 Ep5 Colheita",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1534662_Castle%20Rock%20S01E05.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 6,
+          "titulo": "T1 Ep6 Filtro",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1534663_Castle%20Rock%20S01E06.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 7,
+          "titulo": "T1 Ep7 A Rainha",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1535089_Castle%20Rock%20S01E07.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 8,
+          "titulo": "T1 Ep8 O Passado Perfeito",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1535090_Castle%20Rock%20S01E08.mp4"
+	     
+	      },
+	      {
+          "temporada": 1,
+          "numero": 9,
+          "titulo": "T1 Ep9 Henry Deaver",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1535091_Castle%20Rock%20S01E09.mp4"
+	     
+	      },
+	      {
+          "temporada": 1,
+          "numero": 10,
+          "titulo": "T1 Ep10 Romanos",
+          "url": "http://vodcinevs.com:80/series/108656.mp4"
+	     
+	      }
 	      
       ]
     }
