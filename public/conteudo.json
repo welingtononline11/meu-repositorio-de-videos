@@ -615,18 +615,12 @@
           "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x44.mp4"
 
 	},
-	      {
-          "temporada": 1,
-          "numero": 45,
-          "titulo": "Power Ep45 - 15/06/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x45.mp4"
 
-	},
 	      {
           "temporada": 1,
           "numero": 46,
-          "titulo": "Power Ep46 - 16/06/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x46.mp4"
+          "titulo": "Power Ep45 - 16/06/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x45.mp4"
 
 	}
        ]
