@@ -56,7 +56,7 @@
     },
 	  {
       "id": "f26",
-      "titulo": "Power Couple Ao Vivo",
+      "titulo": " Couple Ao Vivo",
       "descricao": "",
       "capa": "https://www.dci.com.br/wp-content/uploads/2025/04/power-couple-1130x580.png",
       "imagem": "https://media.fstatic.com/zQ3dqOa1-1fHvNw5dVkMTgn856o=/322x478/smart/filters:format(webp)/media/movies/covers/2020/09/pc2.jpg",
@@ -618,9 +618,16 @@
 
 	      {
           "temporada": 1,
-          "numero": 46,
+          "numero": 45,
           "titulo": "Power Ep45 - 16/06/2025",
           "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x45.mp4"
+
+	},
+	      {
+          "temporada": 1,
+          "numero": 46,
+          "titulo": "Power Ep46 - 17/06/2025",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x46.mp4"
 
 	}
        ]
