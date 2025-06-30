@@ -680,6 +680,80 @@
        ]
     },
     { 
+
+	    "id": "s14",
+      "titulo": "Electric Dreams (2017)",
+"descricao": "Uma série de antologia de ficção científica de episódios independentes épicos, ambiciosos e comoventes - cada um ambientado em um mundo diferente e único, inspirado em um dos renomados contos de Philip K. Dick. \n\n IMDB 7.2",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/22IYgPD2AUAZWkaaVOiJu1tXdGA.jpg",
+      "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cLz7dqSwH4dK1mVrVuh8O6yPp39.jpg",
+      "categoria": "séries",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "T1 Ep1 O fabricante de capuzes",
+          "url": ""
+        },
+       {
+         "temporada": 1,
+          "numero": 2,
+          "titulo": "T1 Ep2 Planeta Impossível",
+          "url": ""
+        },
+	      {
+         "temporada": 1,
+          "numero": 3,
+          "titulo": "T1 Ep3 O viajante",
+          "url": ""
+        },
+	      {
+         "temporada": 1,
+          "numero": 4,
+          "titulo": "T1 Ep4 Diamante Louco",
+          "url": ""
+        },
+	      {
+         "temporada": 1,
+          "numero": 5,
+          "titulo": "T1 Ep5 Vida real",
+          "url": ""
+		      
+	      },
+	      {
+         "temporada": 1,
+          "numero": 6,
+          "titulo": "T1 Ep6 O ser humano é",
+          "url": ""
+		      
+	      },
+	      {
+         "temporada": 1,
+          "numero": 7,
+          "titulo": "T1 Ep7 A Coisa do Pai",
+          "url": "http://shd11.oneplayer.site/token/SHD11/16399/1x7.mp4"
+	      },
+	      {
+         "temporada": 1,
+          "numero": 8,
+          "titulo": "T1 Ep8 Autofac",
+          "url": ""
+              },
+	      {
+         "temporada": 1,
+          "numero": 9,
+          "titulo": "T1 Ep9 Seguro e Sã",
+          "url": ""	
+		},
+	      {
+         "temporada": 1,
+          "numero": 9,
+          "titulo": "T1 Ep9 Mate todos os outros",
+          "url": ""	
+	}     
+       ]
+    },
+    { 
 	    
 	    "id": "s14",
       "titulo": "Além da Imaginação (2002)",
