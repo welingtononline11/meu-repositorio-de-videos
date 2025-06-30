@@ -3,6 +3,16 @@
   "filmes": [
 
 {
+      "id": "f36",
+      "titulo": "Ao Lado de um Assassino (2018)",
+      "descricao": "Tyler é uma boa criança, um escoteiro, criado por uma família pobre, mas feliz, em uma cidadezinha religiosa. Mas quando ele descobre que seu pai, Don, tem uma pornografia perturbadora escondida em sua cabana, ele começa a temer que seu pai pode ser o Clovehitch, um abominável assassino em série que nunca foi pego. Tyler se une com Kassi, uma adolescente nova na cidade que tem uma obsessão mórbida pela lenda do Clovehitch, para descobrir a verdade à tempo de salvar sua família. \n\n IMDB 6.5",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/vSPUZQr6bsvFOJPsd6NPxGkDd2v.jpg",
+      "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3RhycQl6RKfT4GTCReZ0L1nJ4ki.jpg",
+      "url": "",
+      "categoria": "Suspense",
+      "tipo": "filme"
+    },
+	  {
       "id": "f35",
       "titulo": "Verão de 84 (2018)",
       "descricao": "Os adolescentes Davey, Woody, Eaton e Farraday aproveitam os dias do verão de 1984. Mas Davey está invocado com a ideia de que seu vizinho, um policial, possa ser um serial killer. É quando os amigos decidem investigar se isso realmente é verdade. \n\n IMDB 6.7",
