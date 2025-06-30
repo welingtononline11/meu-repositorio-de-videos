@@ -48,18 +48,18 @@
       "descricao": "Uma mulher que consegue se mover entre realidades paralelas perde tragicamente o marido e precisa superar traumas do passado para viajar de volta pelo multiverso e encontrar o caminho para uma realidade em que ele ainda esteja vivo. \n\n IMDB 6.8",
       "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkP_FfFDih52D3ZE0X4c68ObUjNNt46reQ2FKgQusRZRObgQzzTKdQqgh7&s=10",
       "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/wI87tIEyaq9Eed1Gmj4CPX1zmzf.jpg",
-      "url": "https://filmes-act01.s3.us-east-005.backblazeb2.com/Vidas%20Paralelas%202023_1091923.mp4",
+      "url": "https://filmes-act10.s3.us-east-005.backblazeb2.com/Vidas%20Paralelas%202023_1091923.mp4",
       "categoria": "Ficção científica",
       "tipo": "filme"
     },
 
    {
       "id": "f30",
-      "titulo": "Pecadore 2025)",
+      "titulo": "Pecadores 2025)",
       "descricao": "Dispostos a deixar suas vidas conturbadas para trás, irmãos gêmeos retornam à sua cidade natal para recomeçar suas vidas do zero, quando descobrem que um mal ainda maior está à espera deles para recebê-los de volta. \n\n IMDB 7.9",
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
       "imagem": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9kYEboW1TQaeilGYUAx1MO0DUp.jpg",
-      "url": "https://filmes-act08.s3.us-east-005.backblazeb2.com/Pecadores%202025_1233413.mp4",
+      "url": "https://filmes-act10.s3.us-east-005.backblazeb2.com/Pecadores%202025_1233413.mp4",
       "categoria": "Terror",
       "tipo": "filme"
     },
@@ -80,7 +80,7 @@
       "descricao": "Dois agentes altamente treinados se aproximam à distância após serem enviados para proteger lados opostos de um desfiladeiro misterioso. Quando um mal emerge, eles precisam trabalhar juntos para sobreviver ao que está lá dentro.  \n\n IMDB 6.7",
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
       "imagem": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zL6RxMPmpPSdU5OTdVC4dtiKcr.jpg",
-      "url": "https://filmes-act01.s3.us-east-005.backblazeb2.com/Entre%20Montanhas%202025_950396.mp4",
+      "url": "https://filmes-act03.s3.us-east-005.backblazeb2.com/Entre%20Montanhas%202025_950396.mp4",
       "categoria": "Ficção científica",
       "tipo": "filme"
     },
@@ -90,7 +90,7 @@
       "descricao": "Um dono de cassino de Las Vegas decide organizar uma competição especial. Fichas de cassino premiadas escolherão seis pessoas para uma corrida pela América com prêmio de dois milhões de dólares. Os competidores apelam a tudo para vencer a corrida maluca.  \n\n IMDB 6.5",
       "capa": "https://image.tmdb.org/t/p/original/9apZfVW7xTcLsW5uus7KnYIg658.jpg",
       "imagem": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQJ7SwDybGVbYLeiYsbHFZNBIZN.jpg",
-      "url": "https://filmesta.s3.us-west-004.backblazeb2.com/Ta%20Todo%20Mundo%20Louco%202001_9896.mp4",
+      "url": "https://filmes-act08.s3.us-east-005.backblazeb2.com/Ta%20Todo%20Mundo%20Louco%202001_9896.mp4",
       "categoria": "Comédia",
       "tipo": "filme"
     },
