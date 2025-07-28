@@ -362,340 +362,66 @@
   "series": [
     {
 	    "id": "s9",
-      "titulo": "Power Couple Brasil 7",
-      "descricao": "Está de volta o reality que vai colocar 14 casais confinados em uma Mansão Power na disputa por um prêmio milionário. E a sétima temporada vem com a novidade de um casal mais do que Power: Rafa Brites e Felipe Andreoli assumem o comando do game!",
-      "capa": "https://www.dci.com.br/wp-content/uploads/2025/04/power-couple-1130x580.png",
-      "imagem": "https://artworks.thetvdb.com/banners/v4/series/310232/posters/68133df292a66.jpg",
+      "titulo": "LOVE - A História de Lisey",
+      "descricao": "Esta série aterrorizante conta a história da viúva Lisey Landon e os eventos perturbadores que reacendem suas memórias do seu casamento com o escritor Scott Landon e as trevas que o atormentavam.",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/wl0DQUT90o3e9gXHEeB5iyK05jb.jpg",
+      "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3wh5Dwggf0EQOBgxPUvXcCdMtpZ.jpg",
       "categoria": "séries",
       "tipo": "serie",
       "episodios": [
         {
           "temporada": 1,
           "numero": 1,
-          "titulo": "ESTREIA - 29/04/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x01.mp4"
+          "titulo": "Caça ao Bool",
+          "url": "https://series-atc100.s3.us-east-005.backblazeb2.com/Love%20a%20Historia%20de%20Lisey_95839/S01/1995360_Love%20a%20Historia%20de%20Lisey%20S01E01.mp4"
 	      },
 	      {
           "temporada": 1,
           "numero": 2,
-          "titulo": "Power Ep02 - 30/04/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x02.mp4"
+          "titulo": "Bool de sangue",
+          "url": "https://series-atc100.s3.us-east-005.backblazeb2.com/Love%20a%20Historia%20de%20Lisey_95839/S01/2872513_Love%20a%20Historia%20de%20Lisey%20S01E02.mp4"
 
 	 },
 	      {
           "temporada": 1,
           "numero": 3,
-          "titulo": "Power Ep03 - 01/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x03.mp4"
+          "titulo": "Debaixo da árvore Nhami-Nhami",
+          "url": "https://series-atc100.s3.us-east-005.backblazeb2.com/Love%20a%20Historia%20de%20Lisey_95839/S01/2872514_Love%20a%20Historia%20de%20Lisey%20S01E03.mp4"
 
 	 },
 	      {
           "temporada": 1,
           "numero": 4,
-          "titulo": "Power Ep04 - 02/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x04.mp4"
+          "titulo": "Jim Dandy",
+          "url": "https://series-atc100.s3.us-east-005.backblazeb2.com/Love%20a%20Historia%20de%20Lisey_95839/S01/2944247_Love%20a%20Historia%20de%20Lisey%20S01E04.mp4"
 
 	 },
 	      {
           "temporada": 1,
           "numero": 5,
-          "titulo": "Power Ep05 - 03/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x05.mp4"
+          "titulo": "O bom irmão",
+          "url": "https://series-atc100.s3.us-east-005.backblazeb2.com/Love%20a%20Historia%20de%20Lisey_95839/S01/3030881_Love%20a%20Historia%20de%20Lisey%20S01E05.mp4"
 
 	 },
 	      {
           "temporada": 1,
           "numero": 6,
-          "titulo": "Power Ep06 - Quebra Power 04/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x06.mp4"
+          "titulo": "Agora você deve ficar quieto",
+          "url": "https://series-atc100.s3.us-east-005.backblazeb2.com/Love%20a%20Historia%20de%20Lisey_95839/S01/3043336_Love%20a%20Historia%20de%20Lisey%20S01E06.mp4"
 
 	 },
 	      {
           "temporada": 1,
           "numero": 7,
-          "titulo": "Power Ep07 - 05/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x07.mp4"
+          "titulo": "Sem luz, sem faísca",
+          "url": "https://series-atc100.s3.us-east-005.backblazeb2.com/Love%20a%20Historia%20de%20Lisey_95839/S01/3043700_Love%20a%20Historia%20de%20Lisey%20S01E07.mp4"
 
 	 },
 	      {
           "temporada": 1,
           "numero": 8,
-          "titulo": "Power Ep08 - 06/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x08.mp4"
-
-	 },
-	      {
-          "temporada": 1,
-          "numero": 9,
-          "titulo": "Power Ep09 - 07/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x09.mp4"
-
-	 },
-	      {
-          "temporada": 1,
-          "numero": 10,
-          "titulo": "Power Ep10 - 08/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x10.mp4"
-
-	 },
-	      {
-          "temporada": 1,
-          "numero": 11,
-          "titulo": "Power Ep11 - 09/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x11.mp4"
-
-	 },
-	      {
-          "temporada": 1,
-          "numero": 12,
-          "titulo": "Power Ep12 - 10/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x12.mp4"
-
-	 },
-	      {
-          "temporada": 1,
-          "numero": 13,
-          "titulo": "Power Ep13 - Quebra Power 11/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x13.mp4"
-
-	 },
-	      {
-          "temporada": 1,
-          "numero": 14,
-          "titulo": "Power Ep14 - 12/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x14.mp4"
-
-	 },
-	      {
-          "temporada": 1,
-          "numero": 15,
-          "titulo": "Power Ep15 - 13/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x15.mp4"
-
-	 },
-	      {
-          "temporada": 1,
-          "numero": 16,
-          "titulo": "Power Ep16 - 14/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x16.mp4"
-
-	 },
-	      {
-          "temporada": 1,
-          "numero": 17,
-          "titulo": "Power Ep17 - 15/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x17.mp4"
-
-	 },
-	      {
-          "temporada": 1,
-          "numero": 18,
-          "titulo": "Power Ep18 - 16/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x18.mp4"
-
-	 },
-	      {
-          "temporada": 1,
-          "numero": 19,
-          "titulo": "Power Ep19 - 17/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x19.mp4"
-
-	 },
-	      {
-          "temporada": 1,
-          "numero": 20,
-          "titulo": "Power Ep20 - 18/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x20.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 21,
-          "titulo": "Power Ep21 - 19/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x21.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 22,
-          "titulo": "Power Ep22 - 20/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x22.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 23,
-          "titulo": "Power Ep23 - 21/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x23.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 24,
-          "titulo": "Power Ep24 - 22/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x24.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 25,
-          "titulo": "Power Ep25 - 23/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x25.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 26,
-          "titulo": "Power Ep26 - 24/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x26.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 27,
-          "titulo": "Power Ep27 - 26/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x27.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 28,
-          "titulo": "Power Ep28 - 27/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x28.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 29,
-          "titulo": "Power Ep29 - 28/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x29.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 30,
-          "titulo": "Power Ep30 - 29/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x30.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 31,
-          "titulo": "Power Ep31 - 30/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x31.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 32,
-          "titulo": "Power Ep32 - 31/05/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x32.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 33,
-          "titulo": "Power Ep33 - 02/06/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x33.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 34,
-          "titulo": "Power Ep34 - 03/06/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x34.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 35,
-          "titulo": "Power Ep35 - 04/06/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x35.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 36,
-          "titulo": "Power Ep36 - 05/06/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x36.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 37,
-          "titulo": "Power Ep37 - 06/06/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x37.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 38,
-          "titulo": "Power Ep38 - 07/06/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x38.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 39,
-          "titulo": "Power Ep39 - 09/06/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x39.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 40,
-          "titulo": "Power Ep40 - 10/06/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x40.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 41,
-          "titulo": "Power Ep41 - 11/06/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x41.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 42,
-          "titulo": "Power Ep42 - 12/06/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x42.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 43,
-          "titulo": "Power Ep43 - 13/06/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x43.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 44,
-          "titulo": "Power Ep44 - 14/06/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x44.mp4"
-
-	},
-
-	      {
-          "temporada": 1,
-          "numero": 45,
-          "titulo": "Power Ep45 - 16/06/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x45.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 46,
-          "titulo": "Power Ep46 - 17/06/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x46.mp4"
-
-	},
-	      {
-          "temporada": 1,
-          "numero": 47,
-          "titulo": "Power Ep47 - 18/06/2025",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/POWERCOUPLE/POWERCOUPLE7x47.mp4"
+          "titulo": "A história de Lisey",
+          "url": "https://series-atc100.s3.us-east-005.backblazeb2.com/Love%20a%20Historia%20de%20Lisey_95839/S01/3043701_Love%20a%20Historia%20de%20Lisey%20S01E08.mp4"
 
 	}
        ]
