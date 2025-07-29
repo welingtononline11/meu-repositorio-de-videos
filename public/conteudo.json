@@ -626,6 +626,62 @@
        ]
     },
     { 
+	    "id": "s11",
+      "titulo": "O Rei do Bairro",
+      "descricao": "Doug Heffernan trabalha duro o dia inteiro entregando encomendas até voltar para casa e encontrar sua amada esposa Carrie. No entanto, ele também encontra seu sogro maluco, Arthur, que vive com a filha e o genro. \n\n IMDB 7.4",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/xF4zSVyrOBO60Lwu2wDN0dBjEgk.jpg",
+      "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vfayWy5TIQqjqkpIYzQTD1U2huG.jpg",
+      "categoria": "séries",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "Papai vem morar com a gente",
+          "url": "http://shd12.oneplayer.site/token/SHD12/4238/1x1.mp4"
+        },
+       {
+         "temporada": 1,
+          "numero": 2,
+          "titulo": "Os Gordos",
+          "url": "http://shd12.oneplayer.site/token/SHD12/4238/1x2.mp4"
+        },
+	      {
+         "temporada": 1,
+          "numero": 3,
+          "titulo": "Ouve On Celo",
+          "url": "http://shd12.oneplayer.site/token/SHD12/4238/1x3.mp4"
+        },
+	      {
+         "temporada": 1,
+          "numero": 4,
+          "titulo": "T1 Episódio 4 - IV",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Difamacao_147050/S01/5436870_Difamacao%20S01E04.mp4"
+        },
+	      {
+         "temporada": 1,
+          "numero": 5,
+          "titulo": "T1 Episódio 5 - V",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Difamacao_147050/S01/5436871_Difamacao%20S01E05.mp4"
+		      
+	      },
+	      {
+         "temporada": 1,
+          "numero": 6,
+          "titulo": "T1 Episódio 6 - VI",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Difamacao_147050/S01/5436872_Difamacao%20S01E06.mp4"
+		      
+	      },
+	      {
+         "temporada": 1,
+          "numero": 7,
+          "titulo": "T1 Episódio 7 - VII",
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Difamacao_147050/S01/5436873_Difamacao%20S01E07.mp4"
+	
+	 }     
+       ]
+    },
+    { 
 	    
       "id": "s1",
       "titulo": "Mike & Molly: Um Casal de Peso",
