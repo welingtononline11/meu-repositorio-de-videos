@@ -371,7 +371,70 @@
 	
   "series": [
     {
-            "id": "s16",
+            "id": "s18",
+      "titulo": "Invasão",
+      "descricao": "Uma visita extraterrestre ameaça a existência humana. Os impactos dessa chegada são acompanhados em tempo real por cinco pessoas comuns. Em cantos diferentes do planeta, elas tentam encontrar sentido em meio ao caos.",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/i9IEOD1Li1y89xRHKH9kiE8dt9z.jpg",
+      "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2faxNZj5iHQOiDdPzCHCDvjTEnW.jpg",
+      "categoria": "séries",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "T1 Ep1 Aqueles que deixamos para trás",
+          "url": "https://series-atc38.s3.us-east-005.backblazeb2.com/Invasao_127235/S03/6355097_Invasao%20S03E01.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 6,
+          "titulo": "",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 7,
+          "titulo": "",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 8,
+          "titulo": "",
+          "url": ""
+	     
+
+	      }
+       ]
+    },
+    { 
+		
+		
+		"id": "s16",
       "titulo": "O Instituto (2025)",
       "descricao": "Luke Ellis, um adolescente gênio, é sequestrado e desperta no Instituto, um local misterioso onde outras crianças com habilidades extraordinárias estão passando pelo mesmo. Paralelamente, em uma cidade vizinha, o ex-policial Tim Jamieson, atormentado por seu passado, tenta construir uma nova vida. No entanto, a tranquilidade é passageira, já que suas histórias estão predestinadas a colidir com a de Luke.",
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/9LALiE3I9dInFmMlI1BvzlhFMmP.jpg",
@@ -2028,67 +2091,7 @@
        ]
     },
     { 
-		"id": "s18",
-      "titulo": "Invasão",
-      "descricao": "Uma visita extraterrestre ameaça a existência humana. Os impactos dessa chegada são acompanhados em tempo real por cinco pessoas comuns. Em cantos diferentes do planeta, elas tentam encontrar sentido em meio ao caos.",
-      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/i9IEOD1Li1y89xRHKH9kiE8dt9z.jpg",
-      "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2faxNZj5iHQOiDdPzCHCDvjTEnW.jpg",
-      "categoria": "séries",
-      "tipo": "serie",
-      "episodios": [
-        {
-          "temporada": 1,
-          "numero": 1,
-          "titulo": "T1 Ep1 Aqueles que deixamos para trás",
-          "url": "https://series-atc38.s3.us-east-005.backblazeb2.com/Invasao_127235/S03/6355097_Invasao%20S03E01.mp4"
-	      },
-	      {
-          "temporada": 1,
-          "numero": 2,
-          "titulo": "",
-          "url": ""
-	      },
-	      {
-          "temporada": 1,
-          "numero": 3,
-          "titulo": "",
-          "url": ""
-	      },
-	      {
-          "temporada": 1,
-          "numero": 4,
-          "titulo": "",
-          "url": ""
-	      },
-	      {
-          "temporada": 1,
-          "numero": 5,
-          "titulo": "",
-          "url": ""
-	      },
-	      {
-          "temporada": 1,
-          "numero": 6,
-          "titulo": "",
-          "url": ""
-	      },
-	      {
-          "temporada": 1,
-          "numero": 7,
-          "titulo": "",
-          "url": ""
-	      },
-	      {
-          "temporada": 1,
-          "numero": 8,
-          "titulo": "",
-          "url": ""
-	     
-
-	      }
-       ]
-    },
-    { 
+		
 		
 	    "id": "s13",
       "titulo": "Castle Rock",
