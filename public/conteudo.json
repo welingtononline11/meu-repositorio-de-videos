@@ -371,7 +371,69 @@
 	
   "series": [
     {
-            "id": "s18",
+            "id": "s20",
+      "titulo": "A Fazenda 17",
+      "descricao": "Famosos com personalidades totalmente diferentes aceitam o desafio de serem confinados em uma fazenda e passar 3 meses sem nenhum contato com o mundo exterior. Além de lidar com a convivência, eles vão ter de encarar o trato com os animais e provas de tirar o fôlego.",
+      "capa": "blob:chrome-extension://agionbommeaifngbhincahgmoflcikhm/3a293c2b-e972-426e-965b-080c32b7787d",
+      "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cJc8hNQP4lWouAzD0duQ4inktin.jpg",
+      "categoria": "séries",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "EP 1",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/FAZENDA/FAZENDA17x001.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "Ep2",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/FAZENDA/FAZENDA17x002.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "EP3",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/FAZENDA/FAZENDA17x003.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "EP4",
+          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/FAZENDA/FAZENDA17x004.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 6,
+          "titulo": "",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 7,
+          "titulo": "",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 8,
+          "titulo": "",
+          "url": ""
+	     
+
+	      }
+       ]
+    },
+    { 
+		
+		"id": "s18",
       "titulo": "Invasão",
       "descricao": "Uma visita extraterrestre ameaça a existência humana. Os impactos dessa chegada são acompanhados em tempo real por cinco pessoas comuns. Em cantos diferentes do planeta, elas tentam encontrar sentido em meio ao caos.",
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/i9IEOD1Li1y89xRHKH9kiE8dt9z.jpg",
@@ -394,20 +456,20 @@
 	      {
           "temporada": 1,
           "numero": 3,
-          "titulo": "Infinitas",
+          "titulo": "T1 Ep3 Infinitas",
           "url": "https://cdn.iageni.com/m/Invasion.S03E03.1080p.WEB-DL.DUAL.5.1.mp4"
 	      },
 	      {
           "temporada": 1,
           "numero": 4,
-          "titulo": "",
-          "url": ""
+          "titulo": "T1 Ep4 A missão",
+          "url": "https://series-afc41.s3.us-east-005.backblazeb2.com/Invasao_127235/S03/6357923_Invasao%20S03E04.mp4"
 	      },
 	      {
           "temporada": 1,
           "numero": 5,
-          "titulo": "",
-          "url": ""
+          "titulo": "T1 Ep5 Ponto sem volta",
+          "url": "https://series-afc41.s3.us-east-005.backblazeb2.com/Invasao_127235/S03/6357925_Invasao%20S03E05.mp4"
 	      },
 	      {
           "temporada": 1,
