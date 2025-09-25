@@ -382,52 +382,68 @@
         {
           "temporada": 1,
           "numero": 1,
-          "titulo": "EP 1",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/FAZENDA/FAZENDA17x001.mp4"
+          "titulo": "EP1 - 15_09_2025",
+          "url": "https://img.vdkix.com:9001/?6620250915&x"
 	      },
 	      {
           "temporada": 1,
           "numero": 2,
-          "titulo": "Ep2",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/FAZENDA/FAZENDA17x002.mp4"
+          "titulo": "Ep2 - 16_09_2025",
+          "url": "https://img.vdkix.com:9001/?6620250916"
 	      },
 	      {
           "temporada": 1,
           "numero": 3,
-          "titulo": "EP3",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/FAZENDA/FAZENDA17x003.mp4"
+          "titulo": "EP3 - 17_09_2025",
+          "url": "https://img.vdkix.com:9001/?6620250917&x"
 	      },
 	      {
           "temporada": 1,
           "numero": 4,
-          "titulo": "EP4",
-          "url": "https://cdn-novflix.com/storagePSN/PROGRAMAS/FAZENDA/FAZENDA17x004.mp4"
+          "titulo": "EP4 - 18_09_2025",
+          "url": "https://img.vdkix.com:9001/?6620250918&x"
 	      },
 	      {
           "temporada": 1,
           "numero": 5,
-          "titulo": "",
-          "url": ""
+          "titulo": "EP5 - 19_09_2025",
+          "url": "https://img.vdkix.com:9001/?6620250919&x"
 	      },
 	      {
           "temporada": 1,
           "numero": 6,
-          "titulo": "",
-          "url": ""
+          "titulo": "EP6 - 20_09_2025",
+          "url": "https://img.vdkix.com:9001/?6620250920&x"
 	      },
 	      {
           "temporada": 1,
           "numero": 7,
-          "titulo": "",
-          "url": ""
+          "titulo": "EP7 - 21_09_2025",
+          "url": "https://img.vdkix.com:9001/?6620250921&x"
 	      },
 	      {
           "temporada": 1,
           "numero": 8,
-          "titulo": "",
+          "titulo": "EP8 - 22_09_2025",
+          "url": "https://img.vdkix.com:9001/?6620250922&x"
+	      },
+		  {
+          "temporada": 1,
+          "numero": 9,
+          "titulo": "EP9 - 23_09_2025",
+          "url": "https://img.vdkix.com:9001/?6620250923&x"
+	      },
+		  {
+          "temporada": 1,
+          "numero": 10,
+          "titulo": "EP10 - 24_09_2025",
           "url": ""
-	     
-
+	      },
+		  {
+          "temporada": 1,
+          "numero": 11,
+          "titulo": "EP - 2_09_2025",
+          "url": ""
 	      }
        ]
     },
