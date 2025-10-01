@@ -2254,32 +2254,38 @@
         {
           "temporada": 1,
           "numero": 1,
-          "titulo": "Principal1",
-          "url": "https://canais.fazoeli.co.za/secret_key/7239bad03d9a8e02f9c49cf3c7421557.m3u8"
+          "titulo": "Sinal 1",
+          "url": "http://kobe.kaseline.shop:2095/live5/afazenda171/chunks.m3u8?token=1759445255_ce4f68693aad4781bcc573a4890660ab91d4761e"
 	      },
 	      {
           "temporada": 1,
           "numero": 2,
-          "titulo": "Secundária",
-          "url": "https://canais.fazoeli.co.za/secret_key/55d2f4c2cd5aafa75bd3d5f1b0901394.m3u8"
+          "titulo": "Sinal 2",
+          "url": "http://kobe.kaseline.shop:2095/live5/afazenda172/chunks.m3u8?token=1759445255_615b067ba4b4a2f7e12ca498c63c2b61fc651e90"
 	      },
 	      {
           "temporada": 1,
           "numero": 3,
-          "titulo": "Cozinha",
-          "url": "https://canais.fazoeli.co.za/secret_key/2411797db613f54720a9a97f64661360.m3u8"
+          "titulo": "Sinal 3",
+          "url": "http://kobe.kaseline.shop:2095/live5/afazenda173/chunks.m3u8?token=1759445255_97dffb1a4a4c0e43fd3406f05566b84befa980f1"
 	      },
 	      {
           "temporada": 1,
           "numero": 4,
-          "titulo": "Quarto",
-          "url": "https://canais.fazoeli.co.za/secret_key/e62c28245167e75c71521b52193484d6.m3u8"
+          "titulo": "Sinal 4",
+          "url": "http://kobe.kaseline.shop:2095/live5/afazenda174/chunks.m3u8?token=1759445255_88570fe111bcbe1de67f0ba04728bf07d5a73bbb"
 	      },
 	      {
           "temporada": 1,
           "numero": 5,
-          "titulo": "Piscina",
-          "url": "https://canais.fazoeli.co.za/secret_key/641ab63c86ac451e2ed13833ca316fbe.m3u8"
+          "titulo": "Sinal 5",
+          "url": "http://kobe.kaseline.shop:2095/live5/afazenda175/chunks.m3u8?token=1759445255_9bea0d313ab9b72ac73c94a7cd516697c9fe98c4"
+			  },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "Sinal 6",
+          "url": "http://kobe.kaseline.shop:2095/live5/afazenda176/chunks.m3u8?token=1759445255_8251d9a411ea3f205554cc69b171da763fd9bf9a"
 	     
 	      }   
       ]
