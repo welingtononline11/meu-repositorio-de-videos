@@ -1,5 +1,5 @@
 {
-  "categorias": ["séries", "Ficção científica", "Mistério", "Suspense", "Terror", "Terror Psicológico", "Thriller", "Thriller Policial", "Thriller Psicológico", "Drama", "Drama Policial", "Romance", "Ação", "Comédia", "TV"],
+  "categorias": ["A Fazenda Ao Vivo","séries", "Ficção científica", "Mistério", "Suspense", "Terror", "Terror Psicológico", "Thriller", "Thriller Policial", "Thriller Psicológico", "Drama", "Drama Policial", "Romance", "Ação", "Comédia", "TV"],
   "filmes": [
 
 {
@@ -2169,8 +2169,6 @@
        ]
     },
     { 
-		
-		
 	    "id": "s13",
       "titulo": "Castle Rock",
       "descricao": "Castle Rock combina a escala mitológica e a narrativa íntima de personagens das obras mais conhecidas de Stephen King, tecendo uma saga épica de luz e escuridão que ganha vida em uma pequena área nos bosques do estado norte-americano de Maine. \n\n IMDB 7.5",
@@ -2240,9 +2238,50 @@
           "numero": 10,
           "titulo": "T1 Ep10 Romanos",
           "url": "http://vodcinevs.com:80/series/108656.mp4"
+
+			  }
+       ]
+    },
+    { 
+	    "id": "s13",
+      "titulo": "A Fazenda Ao Vivo",
+      "descricao": "",
+      "capa": "https://i.imgur.com/n4pf4mx.jpeg",
+      "imagem": "https://i.imgur.com/GYnv82V.jpeg",
+      "categoria": "A Fazenda Ao Vivo",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "Principal1",
+          "url": "https://canais.fazoeli.co.za/secret_key/7239bad03d9a8e02f9c49cf3c7421557.m3u8"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "Secundária",
+          "url": "https://canais.fazoeli.co.za/secret_key/55d2f4c2cd5aafa75bd3d5f1b0901394.m3u8"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "Cozinha",
+          "url": "https://canais.fazoeli.co.za/secret_key/2411797db613f54720a9a97f64661360.m3u8"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "Quarto",
+          "url": "https://canais.fazoeli.co.za/secret_key/e62c28245167e75c71521b52193484d6.m3u8"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "Piscina",
+          "url": "https://canais.fazoeli.co.za/secret_key/641ab63c86ac451e2ed13833ca316fbe.m3u8"
 	     
-	      }
-	      
+	      }   
       ]
     }
   ]
