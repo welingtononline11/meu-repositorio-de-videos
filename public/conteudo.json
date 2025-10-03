@@ -444,6 +444,48 @@
           "numero": 11,
           "titulo": "EP11 - 25_09_2025",
           "url": "https://img.vdkix.com:9001/?6620250925&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 12,
+          "titulo": "EP12 - 26_09_2025",
+          "url": "https://img.vdkix.com:9001/?6620250926&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 13,
+          "titulo": "EP13 - 27_09_2025",
+          "url": "https://img.vdkix.com:9001/?6620250927&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 14,
+          "titulo": "EP14 - 28_09_2025",
+          "url": "https://img.vdkix.com:9001/?6620250928&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 15,
+          "titulo": "EP15 - 29_09_2025",
+          "url": "https://img.vdkix.com:9001/?6620250929&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 16,
+          "titulo": "EP16 - 30_09_2025",
+          "url": "https://img.vdkix.com:9001/?6620250930&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 17,
+          "titulo": "EP17 - 01_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251001&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 18,
+          "titulo": "EP18 - 2_09_2025",
+          "url": "https://img.vdkix.com:9001/?6620251002&x"
 	      }
        ]
     },
