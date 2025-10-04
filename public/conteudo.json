@@ -484,8 +484,14 @@
 		  {
           "temporada": 1,
           "numero": 18,
-          "titulo": "EP18 - 2_09_2025",
+          "titulo": "EP18 - 02_09_2025",
           "url": "https://img.vdkix.com:9001/?6620251002&x"
+			   },
+		  {
+          "temporada": 1,
+          "numero": 19,
+          "titulo": "EP19 - 03_09_2025",
+          "url": "https://img.vdkix.com:9001/?6620251003&x"
 	      }
        ]
     },
