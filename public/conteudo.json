@@ -371,6 +371,57 @@
 	
   "series": [
     {
+
+	
+	    "id": "s13",
+      "titulo": "A Fazenda Ao Vivo",
+      "descricao": "Sinais ao vivo do programa A Fazenda",
+      "capa": "https://cdn.atarde.com.br/img/Artigo-Destaque/1340000/1200x720/A-Fazenda-17-Vaza-lista-com-nomes-de-participante-0134952400202509031533-ScaleDownProportional.webp?fallback=https%3A%2F%2Fcdn.atarde.com.br%2Fimg%2FArtigo-Destaque%2F1340000%2FA-Fazenda-17-Vaza-lista-com-nomes-de-participante-0134952400202509031533.jpg%3Fxid%3D6787219%26resize%3D1000%252C500%26t%3D1758462139&xid=6787219",
+      "imagem": "https://i.imgur.com/GYnv82V.jpeg",
+      "categoria": "A Fazenda Ao Vivo",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "Sinal 1",
+          "url": "https://canais.fazoeli.co.za/secret_key/577361e281b9ff02278752598fd6c973.m3u8"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "Sinal 2",
+          "url": "http://kobe.kaseline.shop:2095/live5/afazenda171/chunks.m3u8?token=1760400276_0b43d6618ed01d216f8c0114f052fcc2a6025d70"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "Sinal 3",
+          "url": "https://canais.fazoeli.co.za/secret_key/873c19771ec99bfe682189f149f36fdb.m3u8"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "Sinal 4",
+          "url": "http://kobe.kaseline.shop:2095/live5/afazenda174/chunks.m3u8?token=1759445255_88570fe111bcbe1de67f0ba04728bf07d5a73bbb"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "Sinal 5",
+          "url": "http://kobe.kaseline.shop:2095/live5/afazenda175/chunks.m3u8?token=1759445255_9bea0d313ab9b72ac73c94a7cd516697c9fe98c4"
+			  },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "Sinal 6",
+          "url": "http://kobe.kaseline.shop:2095/live5/afazenda176/chunks.m3u8?token=1759445255_8251d9a411ea3f205554cc69b171da763fd9bf9a"
+
+			  }
+       ]
+    },
+    { 
+		
             "id": "s20",
       "titulo": "A Fazenda 17",
       "descricao": "Famosos com personalidades totalmente diferentes aceitam o desafio de serem confinados em uma fazenda e passar 3 meses sem nenhum contato com o mundo exterior. Além de lidar com a convivência, eles vão ter de encarar o trato com os animais e provas de tirar o fôlego.",
@@ -2287,53 +2338,7 @@
           "titulo": "T1 Ep10 Romanos",
           "url": "http://vodcinevs.com:80/series/108656.mp4"
 
-			  }
-       ]
-    },
-    { 
-	    "id": "s13",
-      "titulo": "A Fazenda Ao Vivo",
-      "descricao": "Sinais ao vivo do programa A Fazenda",
-      "capa": "https://cdn.atarde.com.br/img/Artigo-Destaque/1340000/1200x720/A-Fazenda-17-Vaza-lista-com-nomes-de-participante-0134952400202509031533-ScaleDownProportional.webp?fallback=https%3A%2F%2Fcdn.atarde.com.br%2Fimg%2FArtigo-Destaque%2F1340000%2FA-Fazenda-17-Vaza-lista-com-nomes-de-participante-0134952400202509031533.jpg%3Fxid%3D6787219%26resize%3D1000%252C500%26t%3D1758462139&xid=6787219",
-      "imagem": "https://i.imgur.com/GYnv82V.jpeg",
-      "categoria": "A Fazenda Ao Vivo",
-      "tipo": "serie",
-      "episodios": [
-        {
-          "temporada": 1,
-          "numero": 1,
-          "titulo": "Sinal 1",
-          "url": "https://canais.fazoeli.co.za/secret_key/577361e281b9ff02278752598fd6c973.m3u8"
-	      },
-	      {
-          "temporada": 1,
-          "numero": 2,
-          "titulo": "Sinal 2",
-          "url": "http://kobe.kaseline.shop:2095/live5/afazenda171/chunks.m3u8?token=1760400276_0b43d6618ed01d216f8c0114f052fcc2a6025d70"
-	      },
-	      {
-          "temporada": 1,
-          "numero": 3,
-          "titulo": "Sinal 3",
-          "url": "https://canais.fazoeli.co.za/secret_key/873c19771ec99bfe682189f149f36fdb.m3u8"
-	      },
-	      {
-          "temporada": 1,
-          "numero": 4,
-          "titulo": "Sinal 4",
-          "url": "http://kobe.kaseline.shop:2095/live5/afazenda174/chunks.m3u8?token=1759445255_88570fe111bcbe1de67f0ba04728bf07d5a73bbb"
-	      },
-	      {
-          "temporada": 1,
-          "numero": 5,
-          "titulo": "Sinal 5",
-          "url": "http://kobe.kaseline.shop:2095/live5/afazenda175/chunks.m3u8?token=1759445255_9bea0d313ab9b72ac73c94a7cd516697c9fe98c4"
-			  },
-	      {
-          "temporada": 1,
-          "numero": 5,
-          "titulo": "Sinal 6",
-          "url": "http://kobe.kaseline.shop:2095/live5/afazenda176/chunks.m3u8?token=1759445255_8251d9a411ea3f205554cc69b171da763fd9bf9a"
+			  
 	     
 	      }   
       ]
