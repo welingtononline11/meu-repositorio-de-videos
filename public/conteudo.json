@@ -535,20 +535,164 @@
 		  {
           "temporada": 1,
           "numero": 18,
-          "titulo": "EP18 - 02_09_2025",
+          "titulo": "EP18 - 02_10_2025",
           "url": "https://img.vdkix.com:9001/?6620251002&x"
 			   },
 		  {
           "temporada": 1,
           "numero": 19,
-          "titulo": "EP19 - 03_09_2025",
+          "titulo": "EP19 - 03_10_2025",
           "url": "https://img.vdkix.com:9001/?6620251003&x"
 	      },
 		  {
           "temporada": 1,
           "numero": 20,
-          "titulo": "EP20 - 24_10_2025",
-          "url": "https://vod3.cf.dmcdn.net/sec2(52UkbOYBS4cG767EtfVLVBsgKM5VLiwhTA-b_JF5Qwoig206QNf1y_rfUYaT3sBhdsTabipcO2LMDCXRI1tjL1vxdM27rVWj2FqaA-MAZxqhYvzMs5YaEYuz9wtDLUwDF_msWJIcaYCXz71p75TlJS9kRaBC4A8b1QqWzykZP7BZZtRedQ_2F53BhwbibtF0)/video/fmp4/592300956/h264_aac_hd/1/manifest.m3u8"
+          "titulo": "EP20 - 04_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251004&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 21,
+          "titulo": "EP21 - 05_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251005&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 22,
+          "titulo": "EP22 - 06_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251006&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 23,
+          "titulo": "EP23 - 07_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251007&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 24,
+          "titulo": "EP24 - 08_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251008&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 25,
+          "titulo": "EP25 - 09_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251009&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 26,
+          "titulo": "EP26 - 10_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251010&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 27,
+          "titulo": "EP27 - 11_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251011&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 28,
+          "titulo": "EP28 - 12_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251012&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 29,
+          "titulo": "EP29 - 13_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251013&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 30,
+          "titulo": "EP30 - 14_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251014&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 31,
+          "titulo": "EP31 - 15_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251015&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 32,
+          "titulo": "EP32 - 16_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251016&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 33,
+          "titulo": "EP33 - 17_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251017&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 34,
+          "titulo": "EP34 - 18_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251018&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 35,
+          "titulo": "EP35 - 19_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251019&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 36,
+          "titulo": "EP36 - 20_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251020&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 37,
+          "titulo": "EP37 - 21_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251021&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 38,
+          "titulo": "EP38 - 22_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251022&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 39,
+          "titulo": "EP39 - 23_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251023&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 40,
+          "titulo": "EP40 - 24_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251024&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 41,
+          "titulo": "EP41 - 25_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251025&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 42,
+          "titulo": "EP42 - 26_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251026&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 43,
+          "titulo": "EP43 - 27_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251027&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 44,
+          "titulo": "EP44 - 28_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251028&x"
 	      }
        ]
     },
