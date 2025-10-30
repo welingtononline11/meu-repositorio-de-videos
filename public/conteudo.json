@@ -697,7 +697,60 @@
        ]
     },
     {
+		"id": "s20",
+      "titulo": "A Última Fronteira ",
+      "descricao": "Dezenas de prisioneiros violentos são libertados após o avião que os transportava cair numa remota região do Alasca. O único representante da lei no local deve proteger a cidade que ele jurou manter em segurança.",
+      "capa": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/tppoXtkKVh26oEsMdkIGmUqdgVL.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxwc8QKPLc2PkeJZNGdz8fn5LmH.jpg",
+      "categoria": "séries",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "Céu azul",
+          "url": "https://series-ta07.s3.us-east-005.backblazeb2.com/A%20Ultima%20Fronteira_221079/S01/4254940_A%20Ultima%20Fronteira%20S01E01.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "Vento da mudança",
+          "url": "https://series-ta07.s3.us-east-005.backblazeb2.com/A%20Ultima%20Fronteira_221079/S01/6404444_A%20Ultima%20Fronteira%20S01E02.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "País do Car*lho",
+          "url": "https://series-ta07.s3.us-east-005.backblazeb2.com/A%20Ultima%20Fronteira_221079/S01/6404445_A%20Ultima%20Fronteira%20S01E03.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "Sonho americano",
+          "url": "https://series-ta07.s3.us-east-005.backblazeb2.com/A%20Ultima%20Fronteira_221079/S01/6404446_A%20Ultima%20Fronteira%20S01E04.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "Arnaq (indisponível)",
+          "url": ""
+			  },
+	      {
+          "temporada": 1,
+          "numero": 6,
+          "titulo": "Episódio 6 (indisponível)",
+          "url": ""
+			  },
+	      {
+          "temporada": 1,
+          "numero": 7,
+          "titulo": "Episódio 7 (indisponível)",
+          "url": ""
 
+			  }
+       ]
+    },
+    { 
 
 		
 		"id": "s18",
