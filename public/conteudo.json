@@ -703,6 +703,31 @@
           "numero": 44,
           "titulo": "EP44 - 28_10_2025",
           "url": "https://embed-cloudfront.wistia.com/deliveries/14acfcb32e659addf70267f101eb4b8cba037e2f.m3u8"
+},
+		  {
+          "temporada": 1,
+          "numero": 45,
+          "titulo": "EP45 - 29_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251029&x"
+},
+		  {
+          "temporada": 1,
+          "numero": 46,
+          "titulo": "EP46 - 30_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251030&x"
+},
+		  {
+          "temporada": 1,
+          "numero": 47,
+          "titulo": "EP47 - 31_10_2025",
+          "url": "https://img.vdkix.com:9001/?6620251031&x"
+},
+		  {
+          "temporada": 1,
+          "numero": 48,
+          "titulo": "EP48 - 01_11_2025",
+          "url": "https://img.vdkix.com:9001/?6620251101&x"
+
 	      }
        ]
     },
