@@ -765,14 +765,14 @@
       "descricao": "Sinais ao vivo do programa A Fazenda",
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/qV2REPQ7pPlmQT7Mljkca0wi4Bx.jpg",
       "imagem": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWoZDnP8eu4bpEnKF0WQ6VNF2j4.jpg",
-      "categoria": "suspense",
+      "categoria": "Suspense",
       "tipo": "serie",
       "episodios": [
         {
           "temporada": 1,
           "numero": 1,
           "titulo": "Wildcat Caiu",
-          "url": ""
+          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5134413_Paradise S01E01.mp4"
 	      },
 	      {
           "temporada": 1,
