@@ -381,9 +381,7 @@
 	
   "series": [
     {
-
-	
-	    "id": "s13",
+	  "id": "s13",
       "titulo": "A Fazenda Ao Vivo",
       "descricao": "Sinais ao vivo do programa A Fazenda",
       "capa": "https://canais.fazoeli.co.za/secret_key/33952d8007a717f5a466ba140f2dd213.m3u8",
@@ -745,12 +743,83 @@
           "numero": 51,
           "titulo": "EP51 - 04_11_2025",
           "url": "https://img.vdkix.com:9001/?6620251104&x"
-			  
-
+			  },
+		  {
+          "temporada": 1,
+          "numero": 52,
+          "titulo": "EP52 - 05_11_2025",
+          "url": "https://img.vdkix.com:9001/?6620251105&x"
+			  },
+		  {
+          "temporada": 1,
+          "numero": 53,
+          "titulo": "EP53 - 06_11_2025",
+          "url": "https://img.vdkix.com:9001/?6620251106&x"
 	      }
        ]
     },
     {
+
+		"id": "s21",
+      "titulo": "Paradise",
+      "descricao": "Sinais ao vivo do programa A Fazenda",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/qV2REPQ7pPlmQT7Mljkca0wi4Bx.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWoZDnP8eu4bpEnKF0WQ6VNF2j4.jpg",
+      "categoria": "suspense",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "Wildcat Caiu",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "Sinatra",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "A Arquiteta do Bem-estar Social",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "Agente Billy Pace",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "Nos Palácios de Reis Coroados",
+          "url": ""
+			  },
+	      {
+          "temporada": 1,
+          "numero": 6,
+          "titulo": "Você Pediu Milagres",
+          "url": ""
+			  },
+	      {
+          "temporada": 1,
+          "numero": 7,
+          "titulo": "O Dia Fatídico",
+          "url": ""
+			  },
+	      {
+          "temporada": 1,
+          "numero": 8,
+          "titulo": "O Homem que Guardava os Segredos",
+          "url": ""
+
+			  }
+       ]
+    },
+    { 
 		"id": "s20",
       "titulo": "A Última Fronteira ",
       "descricao": "Dezenas de prisioneiros violentos são libertados após o avião que os transportava cair numa remota região do Alasca. O único representante da lei no local deve proteger a cidade que ele jurou manter em segurança.",
