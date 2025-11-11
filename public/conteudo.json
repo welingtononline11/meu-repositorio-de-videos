@@ -755,6 +755,25 @@
           "numero": 53,
           "titulo": "EP53 - 06_11_2025",
           "url": "https://img.vdkix.com:9001/?6620251106&x"
+},
+		  {
+          "temporada": 1,
+          "numero": 54,
+          "titulo": "EP54 - 07_11_2025",
+          "url": "https://img.vdkix.com:9001/?6620251107&x"
+},
+		  {
+          "temporada": 1,
+          "numero": 55,
+          "titulo": "EP55 - 08_11_2025",
+          "url": "https://img.vdkix.com:9001/?6620251108&x"
+},
+		  {
+          "temporada": 1,
+          "numero": 56,
+          "titulo": "EP56 - 09_11_2025",
+          "url": "https://img.vdkix.com:9001/?6620251109&x"
+
 	      }
        ]
     },
