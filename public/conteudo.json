@@ -1,6 +1,27 @@
 {
-  "categorias": ["A Fazenda Ao Vivo","séries", "Ficção científica", "Mistério", "Suspense", "Terror", "Terror Psicológico", "Thriller", "Thriller Policial", "Thriller Psicológico", "Drama", "Drama Policial", "Romance", "Ação", "Comédia", "TV"],
+  "categorias": ["A Fazenda","séries", "Ficção científica", "Mistério", "Suspense", "Terror", "Terror Psicológico", "Thriller", "Thriller Policial", "Thriller Psicológico", "Drama", "Drama Policial", "Romance", "Ação", "Comédia", "TV"],
   "filmes": [
+
+	  {
+      "id": "f11",
+      "titulo": "ESPN",
+      "descricao": "",
+      "capa": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+      "imagem": "https://i.imgur.com/AmgHmyK.jpeg",
+      "url": "https://series-ta39.s3.us-east-005.backblazeb2.com/Haven_33001/S01/773292_Haven S01E01.mp4",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f12",
+      "titulo": "Food Network",
+      "descricao": "",
+      "capa": "https://i.imgur.com/Z5kIbf7.jpeg",
+      "imagem": "https://i.imgur.com/2WVnt3Y.jpeg",
+      "url": "https://series-ta51.s3.us-east-005.backblazeb2.com/Misterio em Cemetery Road_252000/S01/6415088_Misterio em Cemetery Road S01E03.mp4",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
 
 {
       "id": "f39",
@@ -307,26 +328,6 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f11",
-      "titulo": "ESPN",
-      "descricao": "",
-      "capa": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
-      "imagem": "https://i.imgur.com/AmgHmyK.jpeg",
-      "url": "https://series-ta39.s3.us-east-005.backblazeb2.com/Haven_33001/S01/773292_Haven S01E01.mp4",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f12",
-      "titulo": "Food Network",
-      "descricao": "",
-      "capa": "https://i.imgur.com/Z5kIbf7.jpeg",
-      "imagem": "https://i.imgur.com/2WVnt3Y.jpeg",
-      "url": "https://series-ta51.s3.us-east-005.backblazeb2.com/Misterio em Cemetery Road_252000/S01/6415088_Misterio em Cemetery Road S01E03.mp4",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
       "id": "f13",
       "titulo": "A Princesa (2022)",
       "descricao": "Uma princesa obstinada recusa se casar com um cruel sociopata e por isso, acaba sequestrada e trancada em uma torre. Seu pretendente desprezado e vingativo quer tomar o trono, então a princesa corre para proteger sua família e salvar o reino.\n\n IMDB 5.7",
@@ -384,9 +385,9 @@
 	  "id": "s13",
       "titulo": "A Fazenda Ao Vivo",
       "descricao": "Sinais ao vivo do programa A Fazenda",
-      "capa": "https://canais.fazoeli.co.za/secret_key/33952d8007a717f5a466ba140f2dd213.m3u8",
+      "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/zvNMbGzc2Z3khr7sAU2hBzydvaR.jpg",
       "imagem": "https://i.imgur.com/GYnv82V.jpeg",
-      "categoria": "A Fazenda Ao Vivo",
+      "categoria": "A Fazenda",
       "tipo": "serie",
       "episodios": [
         {
@@ -433,9 +434,9 @@
             "id": "s20",
       "titulo": "A Fazenda 17",
       "descricao": "Famosos com personalidades totalmente diferentes aceitam o desafio de serem confinados em uma fazenda e passar 3 meses sem nenhum contato com o mundo exterior. Além de lidar com a convivência, eles vão ter de encarar o trato com os animais e provas de tirar o fôlego.",
-      "capa": "blob:chrome-extension://agionbommeaifngbhincahgmoflcikhm/3a293c2b-e972-426e-965b-080c32b7787d",
+      "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/zvNMbGzc2Z3khr7sAU2hBzydvaR.jpg",
       "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cJc8hNQP4lWouAzD0duQ4inktin.jpg",
-      "categoria": "séries",
+      "categoria": "A Fazenda",
       "tipo": "serie",
       "episodios": [
         {
@@ -780,10 +781,93 @@
           "titulo": "EP57 - 10_11_2025",
           "url": "https://img.vdkix.com:9001/?6620251110&x"
 
+	      },
+		  {
+          "temporada": 1,
+          "numero": 58,
+          "titulo": "EP58 - 11_11_2025",
+          "url": "https://img.vdkix.com:9001/?6620251111&x"
+
+	      },
+		  {
+          "temporada": 1,
+          "numero": 59,
+          "titulo": "EP59 - 12_11_2025",
+          "url": "https://img.vdkix.com:9001/?6620251112&x"
+
+	      },
+		  {
+          "temporada": 1,
+          "numero": 60,
+          "titulo": "EP60 - 13_11_2025",
+          "url": "https://img.vdkix.com:9001/?6620251113&x"
+
+	      },
+		  {
+          "temporada": 1,
+          "numero": 61,
+          "titulo": "EP61- 14_11_2025",
+          "url": "https://img.vdkix.com:9001/?6620251114&x"
+
+	      },
+		  {
+          "temporada": 1,
+          "numero": 62,
+          "titulo": "EP62 - 15_11_2025",
+          "url": "https://img.vdkix.com:9001/?6620251115&x"
+
 	      }
        ]
     },
     {
+		"id": "s22",
+      "titulo": "Mistério em Cemetery Road",
+      "descricao": "Quando uma criança desaparece após a explosão de uma casa, uma vizinha preocupada se alia a uma investigadora particular para encontrá-la. Segredos são descobertos e uma conspiração militar é revelada nos subúrbios tranquilos de South Oxford.",
+      "capa": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/hEVVpOX2VeUbHfY97qnYF2F5SlD.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w500/s3vkC7S2uPQdgLhz6gS8pEuGg3r.jpg",
+      "categoria": "Suspense",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "Quase Verdade",
+          "url": "http://shd13.oneplayer.site/SHD13/252000/1x1.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "Um Tipo de Luto",
+          "url": "http://shd13.oneplayer.site/SHD13/252000/1x2.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "Trabalho Sujo",
+          "url": "http://shd13.oneplayer.site/SHD13/252000/1x3.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "Meus Amigos Não Gostam de Mim",
+          "url": "http://shd13.oneplayer.site/SHD13/252000/1x4.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "Morte Lenta",
+          "url": ""
+			  },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "",
+          "url": ""
+
+			  }
+       ]
+    },
+    { 
 
 		"id": "s21",
       "titulo": "Paradise",
