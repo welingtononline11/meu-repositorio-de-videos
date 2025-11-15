@@ -820,6 +820,102 @@
        ]
     },
     {
+		"id": "s24",
+      "titulo": "A Mulher do Viajante no Tempo",
+      "descricao": "Desde os seis anos de idade, ela via um amigo que considerava imaginário: um homem gentil e engraçado, às vezes velho, às vezes jovem, que aparecia na floresta atrás de sua casa para lhe contar histórias do futuro. Mas conforme os anos passaram e ela se tornou uma bela jovem, Clare começou a perceber que seu amigo não era imaginário, mas um viajante do tempo vindo do futuro. E não apenas de um futuro qualquer, mas de seu próprio futuro. Após reencontrar Henry DeTamble como adulta, ela entende que se tornará a esposa do viajante no tempo. \n\n IMDB 7.7",
+      "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/3MFzsf900Drv8Jv6klv7Qm59YnA.jpg",
+      "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/y5pmoeuAsc9CvGRcs8kzIKmoneI.jpg",
+      "categoria": "Ficção científica",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "",
+          "url": ""
+			  },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "",
+          "url": ""
+
+			  }
+       ]
+    },
+    { 
+		"id": "s23",
+      "titulo": "Pluribus",
+      "descricao": "A pessoa mais triste da Terra deve salvar o mundo da felicidade. \n\n IMDB 8.8",
+      "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/ulm1ex4JFYJByyaPyqTr47MFyEQ.jpg",
+      "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/p9J7CXVI5gjkyUo6trV7m85gssW.jpg",
+      "categoria": "Ficção científica",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "Nós somos nós",
+          "url": "http://shd13.oneplayer.site/SHD13/225171/1x1.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "Moça Pirata",
+          "url": "http://shd13.oneplayer.site/SHD13/225171/1x2.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "Granada(Indisponível)",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "Por favor, Carol(Indisponível)",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "",
+          "url": ""
+			  },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "",
+          "url": ""
+
+			  }
+       ]
+    },
+    { 
 		"id": "s22",
       "titulo": "Mistério em Cemetery Road",
       "descricao": "Quando uma criança desaparece após a explosão de uma casa, uma vizinha preocupada se alia a uma investigadora particular para encontrá-la. Segredos são descobertos e uma conspiração militar é revelada nos subúrbios tranquilos de South Oxford.",
