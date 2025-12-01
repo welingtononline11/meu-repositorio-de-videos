@@ -18,7 +18,7 @@
       "descricao": "",
       "capa": "https://i.imgur.com/Z5kIbf7.jpeg",
       "imagem": "https://i.imgur.com/2WVnt3Y.jpeg",
-      "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger Things_66732/S05/5477828_Stranger Things S05E01.mp4",
+      "url": "",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -842,7 +842,7 @@
         {
           "temporada": 2,
           "numero": 1,
-          "titulo": "T2 Ep1Capítulo um: Mad Max",
+          "titulo": "T2 Ep1 Capítulo um: Mad Max",
           "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250983_Stranger%20Things%20S02E01.mp4"
 	      },
 	      {
@@ -874,6 +874,26 @@
           "numero": 6,
           "titulo": "T2 Ep6 Capítulo seis: O espião",
           "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250988_Stranger%20Things%20S02E06.mp4"
+
+			  },
+	      {
+          "temporada": 2,
+          "numero": 7,
+          "titulo": "T2 Ep7 Capítulo sete: A irmã perdida",
+          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250989_Stranger%20Things%20S02E07.mp4"
+
+			  },
+	      {
+          "temporada": 2,
+          "numero": 8,
+          "titulo": "T2 Ep8 Capítulo oito: O Devorador de Mentes",
+          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250990_Stranger%20Things%20S02E08.mp4"
+			  },
+	      {
+          "temporada": 2,
+          "numero": 9,
+          "titulo": "T2 Ep9 Capítulo nove: O portal",
+          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250991_Stranger%20Things%20S02E09.mp4"
 
 			  }
        ]
