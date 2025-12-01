@@ -834,7 +834,7 @@
 		"id": "s25",
       "titulo": "Stranger Things",
       "descricao": "Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.",
-      "capa": "https://images.justwatch.com/backdrop/102141616/s640/stranger-things.jpg,%20https://images.justwatch.com/backdrop/102141616/s1440/stranger-things.jpg",
+      "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_face/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
       "imagem": "https://image.tmdb.org/t/p/w440_and_h660_face/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg",
       "categoria": "séries",
       "tipo": "serie",
@@ -894,7 +894,55 @@
           "numero": 9,
           "titulo": "T2 Ep9 Capítulo nove: O portal",
           "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250991_Stranger%20Things%20S02E09.mp4"
-
+			  },
+	      {
+          "temporada": 3,
+          "numero": 1,
+          "titulo": "T3 Ep1 Capítulo um: Está me ouvindo, Suzie?",
+          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S03/1657328_Stranger%20Things%20S03E01.mp4"
+			   },
+	      {
+          "temporada": 3,
+          "numero": 2,
+          "titulo": "T3 Ep2 Capítulo dois: O caso dos ratos",
+          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S03/1657329_Stranger%20Things%20S03E02.mp4"
+			   },
+	      {
+          "temporada": 3,
+          "numero": 3,
+          "titulo": "T3 Ep3 Capítulo três: A salva-vidas desaparecida",
+          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S03/1657330_Stranger%20Things%20S03E03.mp4"
+			   },
+	      {
+          "temporada": 3,
+          "numero": 4,
+          "titulo": "T3 Ep4 Capítulo quatro: A prova da sauna",
+          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S03/1657331_Stranger%20Things%20S03E04.mp4"
+			   },
+	      {
+          "temporada": 3,
+          "numero": 5,
+          "titulo": "T3 Ep5 Capítulo cinco: Os devorados",
+          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S03/1657332_Stranger%20Things%20S03E05.mp4"
+			   },
+	      {
+          "temporada": 3,
+          "numero": 6,
+          "titulo": "T3 Ep6 Capítulo seis: E pluribus unum",
+          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S03/1657333_Stranger%20Things%20S03E06.mp4"
+			   },
+	      {
+          "temporada": 3,
+          "numero": 7,
+          "titulo": "T3 Ep7 Capítulo sete: A mordida",
+          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S03/1657334_Stranger%20Things%20S03E07.mp4"
+			   },
+	      {
+          "temporada": 3,
+          "numero": 8,
+          "titulo": "T3 Ep8 Capítulo oito: A batalha de Starcourt",
+          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S03/1657335_Stranger%20Things%20S03E08.mp4"
+			  
 			  }
        ]
     },
