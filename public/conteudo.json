@@ -433,7 +433,7 @@
 			  },
 	      {
           "temporada": 1,
-          "numero": 5,
+          "numero": 6,
           "titulo": "Sinal 6",
           "url": "http://kobe.kaseline.shop:2095/live5/afazenda176/chunks.m3u8?token=1759445255_8251d9a411ea3f205554cc69b171da763fd9bf9a"
 
@@ -831,6 +831,55 @@
        ]
     },
     {
+		"id": "s25",
+      "titulo": "Stranger Things",
+      "descricao": "Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.",
+      "capa": "https://images.justwatch.com/backdrop/102141616/s1440/temporada-2.avif",
+      "imagem": "https://image.tmdb.org/t/p/w440_and_h660_face/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg",
+      "categoria": "séries",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 2,
+          "numero": 1,
+          "titulo": "T2 Ep1Capítulo um: Mad Max",
+          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250983_Stranger%20Things%20S02E01.mp4"
+	      },
+	      {
+          "temporada": 2,
+          "numero": 2,
+          "titulo": "T2 EP2 Capítulo dois: Gostosura ou travessura, aberração",
+          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250984_Stranger%20Things%20S02E02.mp4"
+	      },
+	      {
+          "temporada": 2,
+          "numero": 3,
+          "titulo": "T2 Ep3 Capítulo três: O girino",
+          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250985_Stranger%20Things%20S02E03.mp4"
+	      },
+	      {
+          "temporada": 2,
+          "numero": 4,
+          "titulo": "T2 Ep4 Capítulo quatro: Will, o sábio",
+          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250986_Stranger%20Things%20S02E04.mp4"
+	      },
+	      {
+          "temporada": 2,
+          "numero": 5,
+          "titulo": "T2 Ep5 Capítulo cinco: Dig Dug",
+          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250987_Stranger%20Things%20S02E05.mp4"
+			  },
+	      {
+          "temporada": 2,
+          "numero": 6,
+          "titulo": "T2 Ep6 Capítulo seis: O espião",
+          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250988_Stranger%20Things%20S02E06.mp4"
+
+			  }
+       ]
+    },
+    { 
+		
 		"id": "s24",
       "titulo": "A Mulher do Viajante no Tempo",
       "descricao": "Desde os seis anos de idade, ela via um amigo que considerava imaginário: um homem gentil e engraçado, às vezes velho, às vezes jovem, que aparecia na floresta atrás de sua casa para lhe contar histórias do futuro. Mas conforme os anos passaram e ela se tornou uma bela jovem, Clare começou a perceber que seu amigo não era imaginário, mas um viajante do tempo vindo do futuro. E não apenas de um futuro qualquer, mas de seu próprio futuro. Após reencontrar Henry DeTamble como adulta, ela entende que se tornará a esposa do viajante no tempo. \n\n IMDB 7.7",
