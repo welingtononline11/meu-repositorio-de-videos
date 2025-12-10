@@ -831,6 +831,55 @@
        ]
     },
     {
+		"id": "s26",
+      "titulo": "Percy Jackson e os Olimpianos",
+      "descricao": "Percy Jackson terá uma missão perigosa. Enquanto enfrenta monstros e engana deuses, ele terá uma jornada através dos EUA para devolver o raio-mestre de Zeus e impedir uma guerra iminente. Com a ajuda de seus colegas de missão, Annabeth e Grover, a jornada de Percy o deixará mais próximo das respostas das seguintes perguntas: como se encaixar num mundo onde ele se sente deslocado? e qual será o seu futuro?",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_face/danN2NzJTMouaBEkDWTnyDjDxUt.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w600_and_h900_face/63zVMAA4oxz9N8EnkNdR8gpyjKf.jpg",
+      "categoria": "séries",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "Meu Jogo de Queimada com Canibais",
+          "url": "https://series-vz100.s3.us-east-005.backblazeb2.com/Percy%20Jackson%20e%20os%20Olimpianos_103540/S02/6404323_Percy%20Jackson%20e%20os%20Olimpianos%20S02E01.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "O Ataque de Pombos Demoníacos",
+          "url": "https://series-vz100.s3.us-east-005.backblazeb2.com/Percy%20Jackson%20e%20os%20Olimpianos_103540/S02/6662151_Percy%20Jackson%20e%20os%20Olimpianos%20S02E02.mp4"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "",
+          "url": ""
+	      },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "",
+          "url": ""
+			  },
+	      {
+          "temporada": 1,
+          "numero": 6,
+          "titulo": "",
+          "url": ""
+
+			  }
+       ]
+    },
+    { 
+		
 		"id": "s25",
       "titulo": "Stranger Things",
       "descricao": "Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.",
