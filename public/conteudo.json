@@ -24,6 +24,16 @@
     },
 
 	  {
+      "id": "f41",
+      "titulo": "O Grande Truque",
+      "descricao": "No século 19, em Londres, dois amigos ilusionistas e mágicos, Alfred Borden e Rupert Angier, acabam construindo uma rivalidade, uma batalha por supremacia, que se estende ao longo dos anos e que se transforma em obsessão, cujos resultados serão inevitavelmente trágicos.",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_face/z3br1ub7spqGMkxgjgJSdM4DC21.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w500/4AUW2bGbQjWACUREckGJWXmyF0d.jpg",
+      "url": "https://filmes-ar08.s3.us-east-005.backblazeb2.com/O%20Grande%20Truque%202006_1124.mp4",
+      "categoria": "Ficção científica",
+      "tipo": "filme"
+    },
+	  {
       "id": "f40",
       "titulo": "O Telefone Preto 2",
       "descricao": "Quatro anos após escapar de The Grabber, Finney Blake luta com sua vida após o cativeiro. Quando sua irmã Gwen começa a receber ligações em sonhos do telefone preto e a ter visões perturbadoras de três garotos sendo perseguidos em um acampamento de inverno conhecido como Alpine Lake, os irmãos se determinam a desvendar o mistério e confrontar um assassino que se tornou mais poderoso na morte e mais significativo para eles do que qualquer um poderia imaginar.",
