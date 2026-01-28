@@ -853,38 +853,43 @@
           "temporada": 1,
           "numero": 1,
           "titulo": "Meu Jogo de Queimada com Canibais",
-          "url": "https://series-vz100.s3.us-east-005.backblazeb2.com/Percy%20Jackson%20e%20os%20Olimpianos_103540/S02/6404323_Percy%20Jackson%20e%20os%20Olimpianos%20S02E01.mp4"
+          "url": "https://series-vz100.s3.us-east-005.backblazeb2.com/Percy%20Jackson%20e%20os%20Olimpianos_103540/S02/6404323_Percy%20Jackson%20e%20os%20Olimpianos%20S02E01.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/dUNti4mQNig3MtC0BcpH5QPek8U.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 2,
           "titulo": "O Ataque de Pombos Demoníacos",
-          "url": "https://series-vz100.s3.us-east-005.backblazeb2.com/Percy%20Jackson%20e%20os%20Olimpianos_103540/S02/6662151_Percy%20Jackson%20e%20os%20Olimpianos%20S02E02.mp4"
+          "url": "https://series-vz100.s3.us-east-005.backblazeb2.com/Percy%20Jackson%20e%20os%20Olimpianos_103540/S02/6662151_Percy%20Jackson%20e%20os%20Olimpianos%20S02E02.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/rYoocDNgP1Yfy9J80elvMtwkV0t.jpg"	  
 	      },
 	      {
           "temporada": 1,
           "numero": 3,
-          "titulo": "",
-          "url": ""
-	      },
+          "titulo": "Nós Embarcamos a Princesa Andrômeda",
+          "url": "",
+	      "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/t63IO1kDdiXe8NLzIz4oZKfGAfb.jpg"	
+		  },
 	      {
           "temporada": 1,
           "numero": 4,
-          "titulo": "",
-          "url": ""
-	      },
+          "titulo": "Clarisse Detona Tudo",
+          "url": "",
+	      "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/Ud7fBs4GBUrnRuiqo7CNmBDzDY.jpg"	
+		  },
 	      {
           "temporada": 1,
           "numero": 5,
-          "titulo": "",
-          "url": ""
-			  },
+          "titulo": "Nossa Estadia no Spa e Resort de C.C",
+          "url": "",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/2XYCq4DDoGk748Ce6UIHFKs5uzJ.jpg"	
+		  },
 	      {
           "temporada": 1,
           "numero": 6,
-          "titulo": "",
-          "url": ""
-
+          "titulo": "Ninguém Consegue o Velocino",
+          "url": "",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/m04SYhVZFYcIMj68gYmiLzs5Oay.jpg"	  
 			  }
        ]
     },
