@@ -403,7 +403,75 @@
 	
   "series": [
     {
-	  "id": "s13",
+	  "id": "s27",
+      "titulo": "Magnum",
+      "descricao": "O aspirante a ator de Hollywood Simon Williams está lutando para decolar. Durante um encontro casual com Trevor Slattery, um ator cujos maiores papéis podem já ter ficado no passado, Simon descobre que o lendário diretor Von Kovak está fazendo um remake do filme do super-herói Magnum. Esses dois atores, em extremos opostos de suas carreiras, buscam obstinadamente papéis transformadores nesse filme, enquanto o público dá uma espiadinha nos bastidores da indústria do entretenimento.",
+      "capa": "https://images.justwatch.com/backdrop/322126078/s1920/wonder-man-0.webp",
+      "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/zf6P1MoickMplupklydA2zfCguO.jpg",
+      "categoria": "Ficção científica",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "Matinê",
+          "url": "https://series-ar100.s3.us-east-005.backblazeb2.com/Magnum_198178/S01/3678093_Magnum%20S01E01.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/2A3kWJ31dTBgoKKKNcN7CdGMGEW.jpg"
+	      },
+	      {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "Self-Tape",
+          "url": "https://series-ar100.s3.us-east-005.backblazeb2.com/Magnum_198178/S01/4924078_Magnum%20S01E02.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/70EKlIWAu8fWjbRufqJouHVb4Ca.jpg"	  
+	      },
+	      {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "Pacoima",
+          "url": "https://series-ar100.s3.us-east-005.backblazeb2.com/Magnum_198178/S01/6594785_Magnum%20S01E03.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/9WdCvYevrOCJ0BTMsEQ8Sh5pRCV.jpg"	  
+	      },
+	      {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "O Porta",
+          "url": "https://series-ar100.s3.us-east-005.backblazeb2.com/Magnum_198178/S01/6594786_Magnum%20S01E04.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/rP2wAtWGiRxHB3C4eM9Z1rEdIkk.jpg"	  
+	      },
+	      {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "Filmagem Encontrada",
+          "url": "",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/8G11kvZAjgP9oEcIOxTg7Kjtj2H.jpg"	  
+			  },
+	      {
+          "temporada": 1,
+          "numero": 6,
+          "titulo": "Retorno",
+          "url": "",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/e9hw2EXMKX377zRBMrg0iVlgVc6.jpg"	  
+			  },
+	      {
+          "temporada": 1,
+          "numero": 7,
+          "titulo": "Kathy Friedman",
+          "url": "",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/oyUdIN5KAfQpvia6WYFs1TpE8Kg.jpg"	  
+			  },
+	      {
+          "temporada": 1,
+          "numero": 8,
+          "titulo": "Yucca Valley",
+          "url": "",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/368YSOe3vDJrrkuWwcYznOxZvq2.jpg"	  
+
+			  }
+       ]
+    },
+    { 
+		"id": "s13",
       "titulo": "A Fazenda Ao Vivo",
       "descricao": "Sinais ao vivo do programa A Fazenda",
       "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/zvNMbGzc2Z3khr7sAU2hBzydvaR.jpg",
