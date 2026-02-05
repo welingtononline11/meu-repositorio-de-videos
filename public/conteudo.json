@@ -22,6 +22,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	   {
+      "id": "f44",
+      "titulo": "SPORTV 2",
+      "descricao": "SporTV 2 é um canal esportivo dedicado à transmissão ao vivo e à cobertura completa de grandes eventos nacionais e internacionais. A programação inclui partidas de futebol, vôlei, basquete, esportes olímpicos, análises táticas, debates, entrevistas exclusivas e programas jornalísticos que aprofundam os principais acontecimentos do esporte. Ideal para quem quer acompanhar competições de alto nível com informação, opinião e qualidade técnica.",
+      "capa": "https://i.imgur.com/obXgYWt.jpeg",
+      "imagem": "https://i.imgur.com/obXgYWt.jpeg",
+      "url": "https://s1.micineovs.com/SPTV2/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
 
 	  {
       "id": "f43",
