@@ -3,17 +3,87 @@
   "filmes": [
 
 	  {
-      "id": "f11",
+      "id": "f44",
+      "titulo": "BBB - Câmera 1",
+      "descricao": "Big Brother Brasil é um reality show em que um grupo de participantes convive isolado em uma casa cheia de câmeras, competindo por provas, prêmios e imunidades. Cada semana, os confinados enfrentam eliminações decididas pelo público, em um jogo de estratégia, convivência e emoção, combinando entretenimento, polêmicas e surpresas.",
+      "capa": "https://i.imgur.com/YczUUX4.jpeg",
+      "imagem": "https://i.imgur.com/YczUUX4.jpeg",
+      "url": "https://s2.micineovs.com/BBB_01/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f45",
+      "titulo": "BBB - Câmera 2",
+      "descricao": "Big Brother Brasil é um reality show em que um grupo de participantes convive isolado em uma casa cheia de câmeras, competindo por provas, prêmios e imunidades. Cada semana, os confinados enfrentam eliminações decididas pelo público, em um jogo de estratégia, convivência e emoção, combinando entretenimento, polêmicas e surpresas.",
+      "capa": "https://i.imgur.com/4EU6ino.jpeg",
+      "imagem": "https://i.imgur.com/4EU6ino.jpeg",
+      "url": "https://s1.micineovs.com/BBB_02/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f46",
+      "titulo": "BBB - Câmera 3",
+      "descricao": "Big Brother Brasil é um reality show em que um grupo de participantes convive isolado em uma casa cheia de câmeras, competindo por provas, prêmios e imunidades. Cada semana, os confinados enfrentam eliminações decididas pelo público, em um jogo de estratégia, convivência e emoção, combinando entretenimento, polêmicas e surpresas.",
+      "capa": "https://i.imgur.com/Ye5miAY.jpeg",
+      "imagem": "https://i.imgur.com/Ye5miAY.jpeg",
+      "url": "https://s1.micineovs.com/BBB_03/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f47",
+      "titulo": "BBB - Mosaico",
+      "descricao": "Big Brother Brasil é um reality show em que um grupo de participantes convive isolado em uma casa cheia de câmeras, competindo por provas, prêmios e imunidades. Cada semana, os confinados enfrentam eliminações decididas pelo público, em um jogo de estratégia, convivência e emoção, combinando entretenimento, polêmicas e surpresas.",
+      "capa": "https://i.imgur.com/hkioCWm.jpeg",
+      "imagem": "https://i.imgur.com/hkioCWm.jpeg",
+      "url": "https://s2.micineovs.com/BBB_04/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+{
+      "id": "f48",
+      "titulo": "BAND",
+      "descricao": "Band (Rede Bandeirantes) é uma emissora brasileira de televisão aberta com programação diversificada que combina jornalismo, esportes, entretenimento e variedades. O canal se destaca pela cobertura esportiva, programas de debates, atrações ao vivo, realities, culinária e informação, oferecendo conteúdo dinâmico e atual para diferentes públicos.",
+      "capa": "https://i.imgur.com/Uw3Srp0.jpeg",
+      "imagem": "https://i.imgur.com/Uw3Srp0.jpeg",
+      "url": "https://s1.micineovs.com/BAND/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f49",
+      "titulo": "CARTOON NETWORK",
+      "descricao": "Cartoon Network é um canal de televisão voltado para crianças e jovens, oferecendo uma programação divertida e criativa com desenhos animados, séries originais, animações clássicas e programas de humor. O canal combina entretenimento leve, aventuras e personagens icônicos que conquistam diferentes gerações.",
+      "capa": "https://i.imgur.com/30huQ5Z.jpeg",
+      "imagem": "https://i.imgur.com/30huQ5Z.jpeg",
+      "url": "https://s1.micineovs.com/CARTOONNETWORK/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f50",
       "titulo": "ESPN",
-      "descricao": "",
-      "capa": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
-      "imagem": "https://i.imgur.com/AmgHmyK.jpeg",
+      "descricao": "ESPN é um canal esportivo por assinatura que oferece cobertura completa de esportes nacionais e internacionais. A programação inclui transmissões ao vivo, notícias, análises, programas de debate, documentários e especiais sobre futebol, basquete, tênis, lutas, automobilismo e muito mais, conectando os fãs ao mundo do esporte 24 horas por dia.",
+      "capa": "https://i.imgur.com/lDTfLB1.jpeg",
+      "imagem": "https://i.imgur.com/lDTfLB1.jpeg",
       "url": "https://s2.micineovs.com/ESPN1/index.m3u8?token=16FOTt9Ae2m8",
       "categoria": "TV",
       "tipo": "filme"
     },
-	  {
-      "id": "f12",
+	{
+      "id": "f51",
+      "titulo": "EU A PATROA E AS CRIANÇAS",
+      "descricao": "Eu, a Patroa e as Crianças é uma série de comédia familiar que acompanha Michael Kyle, um pai divertido e bem-humorado, tentando equilibrar sua vida profissional com os desafios de criar três filhos com personalidades muito diferentes. Entre confusões, mal-entendidos e lições de vida, cada episódio traz humor leve e situações do dia a dia de uma típica família americana.",
+      "capa": "https://i.imgur.com/AK4l1MK.jpeg",
+      "imagem": "https://i.imgur.com/AK4l1MK.jpeg",
+      "url": "https://s2.micineovs.com/EPC/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f52",
       "titulo": "Food Network",
       "descricao": "",
       "capa": "https://i.imgur.com/Z5kIbf7.jpeg",
@@ -22,17 +92,116 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f53",
+      "titulo": "GLOBO",
+      "descricao": "TV Globo é a maior emissora de televisão do Brasil, com uma programação diversificada que inclui novelas, séries, filmes, jornalismo, esportes, realities e grandes eventos ao vivo. Reconhecida pela alta qualidade de produção e alcance nacional, a Globo acompanha o cotidiano do país com informação, entretenimento e conteúdos que marcam gerações.",
+      "capa": "https://i.imgur.com/U4kS4bz.jpeg",
+      "imagem": "https://i.imgur.com/U4kS4bz.jpeg",
+      "url": "https://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f54",
+      "titulo": "MEGAPIX",
+      "descricao": "Megapix é um canal de televisão por assinatura dedicado exclusivamente a filmes, com uma programação variada que reúne grandes sucessos de bilheteria, clássicos do cinema e produções populares de ação, comédia, aventura e drama. O canal se destaca por suas sessões temáticas e maratonas especiais.",
+      "capa": "https://i.imgur.com/JgYTKHg.jpeg",
+      "imagem": "https://i.imgur.com/JgYTKHg.jpeg",
+      "url": "https://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f55",
+      "titulo": "PREMIERE CLUBES",
+      "descricao": "Premiere Clubes é um canal de pay-per-view dedicado à transmissão ao vivo de jogos de futebol dos principais campeonatos nacionais, com foco em clubes específicos. Oferece cobertura completa, narrações, comentários e análises, permitindo que os torcedores acompanhem cada lance de seus times favoritos em tempo real.",
+      "capa": "https://i.imgur.com/bsDf0Z4.jpeg",
+      "imagem": "https://i.imgur.com/bsDf0Z4.jpeg",
+      "url": "https://s1.micineovs.com/PREMIERECLUBES/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f56",
+      "titulo": "RECORD",
+      "descricao": "Record TV é uma emissora brasileira de televisão aberta com programação variada voltada ao entretenimento, informação e fé. Exibe novelas, realities, programas jornalísticos, atrações de auditório, séries, filmes e conteúdos religiosos, além de transmissões esportivas e eventos especiais. É uma das principais redes de TV do país, com alcance nacional.",
+      "capa": "https://i.imgur.com/0AoH2n4.jpeg",
+      "imagem": "https://i.imgur.com/0AoH2n4.jpeg",
+      "url": "https://s1.micineovs.com/RECORD/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f57",
+      "titulo": "SBT",
+      "descricao": "SBT (Sistema Brasileiro de Televisão) é um canal aberto de entretenimento com uma programação variada voltada para toda a família. Exibe novelas, programas de auditório, realities, humorísticos, jornalismo, filmes, séries e transmissões esportivas. Reconhecido por seu conteúdo popular e carismático, o SBT é uma das principais emissoras da televisão brasileira, levando informação e diversão para milhões de espectadores.",
+      "capa": "https://i.imgur.com/TRmZn0y.jpeg",
+      "imagem": "https://i.imgur.com/TRmZn0y.jpeg",
+      "url": "https://s2.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f58",
+      "titulo": "SPORTV1",
+      "descricao": "SporTV é um canal esportivo por assinatura dedicado à transmissão ao vivo e à cobertura completa dos principais eventos esportivos do Brasil e do mundo. A programação inclui futebol, esportes olímpicos, debates, análises, entrevistas e programas jornalísticos, oferecendo informação, profundidade e emoção para os fãs de esporte.",
+      "capa": "https://i.imgur.com/yyoqhv3.jpeg",
+      "imagem": "https://i.imgur.com/yyoqhv3.jpeg",
+      "url": "https://s1.micineovs.com/SPTV1/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
 	   {
-      "id": "f44",
+      "id": "f59",
       "titulo": "SPORTV 2",
       "descricao": "SporTV 2 é um canal esportivo dedicado à transmissão ao vivo e à cobertura completa de grandes eventos nacionais e internacionais. A programação inclui partidas de futebol, vôlei, basquete, esportes olímpicos, análises táticas, debates, entrevistas exclusivas e programas jornalísticos que aprofundam os principais acontecimentos do esporte. Ideal para quem quer acompanhar competições de alto nível com informação, opinião e qualidade técnica.",
-      "capa": "https://i.imgur.com/obXgYWt.jpeg",
-      "imagem": "https://i.imgur.com/obXgYWt.jpeg",
+      "capa": "https://i.imgur.com/UjroRwv.jpeg",
+      "imagem": "https://i.imgur.com/UjroRwv.jpeg",
       "url": "https://s1.micineovs.com/SPTV2/index.m3u8?token=16FOTt9Ae2m8",
       "categoria": "TV",
       "tipo": "filme"
     },
-
+	{
+      "id": "f4",
+      "titulo": "TELECINE PIPOCA",
+      "descricao": "Telecine Pipoca é um canal de televisão por assinatura dedicado a filmes populares e grandes sucessos do cinema, com destaque para comédias, romances, aventuras e produções leves para toda a família. A programação traz títulos consagrados e sessões especiais perfeitas para curtir um bom filme a qualquer hora.",
+      "capa": "https://i.imgur.com/fuLkYjG.jpeg",
+      "imagem": "https://i.imgur.com/fuLkYjG.jpeg",
+      "url": "https://s1.micineovs.com/TELECINEPIPOCA/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f60",
+      "titulo": "TELECINE PREMIUM",
+      "descricao": "Telecine Premium é o principal canal da rede Telecine, dedicado à exibição de grandes estreias do cinema e sucessos recentes de bilheteria. A programação reúne filmes de alto destaque dos mais variados gêneros, oferecendo entretenimento de qualidade, lançamentos exclusivos e sessões especiais para quem busca os títulos mais aguardados.",
+      "capa": "https://i.imgur.com/GQJLLgx.jpeg",
+      "imagem": "https://i.imgur.com/GQJLLgx.jpeg",
+      "url": "https://s1.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f61",
+      "titulo": "TNT",
+      "descricao": "TNT é um canal de televisão por assinatura voltado ao entretenimento, com foco em filmes de sucesso, grandes franquias de Hollywood, séries populares e especiais temáticos. A programação traz ação, aventura, comédia e drama, além de eventos exclusivos e maratonas que agradam a diferentes públicos.",
+      "capa": "https://i.imgur.com/EKNRiW2.jpeg",
+      "imagem": "https://i.imgur.com/EKNRiW2.jpeg",
+      "url": "https://s1.micineovs.com/TNT/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },  
+	  {
+      "id": "f62",
+      "titulo": "TODO MUNDO ODEIA O CHRIS",
+      "descricao": "Todo Mundo Odeia o Chris é uma série de comédia inspirada na adolescência do comediante Chris Rock. Acompanhamos Chris, um adolescente inteligente e sarcástico, lidando com os desafios da escola, da família e dos amigos na década de 1980, sempre com muito humor e situações hilárias que misturam realidade e exagero cômico.",
+      "capa": "https://i.imgur.com/L8dIJgO.jpeg",
+      "imagem": "https://i.imgur.com/L8dIJgO.jpeg",
+      "url": "https://s2.micineovs.com/Chris24h/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
 	  {
       "id": "f43",
       "titulo": "A Empregada",
