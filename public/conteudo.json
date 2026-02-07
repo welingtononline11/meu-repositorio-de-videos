@@ -62,8 +62,18 @@
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
+	  {
       "id": "f50",
+      "titulo": "CAZETV",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1770501796/ei/RGKHadmUO7-b1sQPzKGsqAQ/ip/200.3.29.178/id/Mu84Y6VP0Ws.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr1---sn-xn25jv-bpbl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ctier/SPL/playlist_duration/30/manifest_duration/30/gcr/br/bui/AW-iu_obwGibo7a12uFWojaX8mXxqq5hSfFNCqbq3qJCw5teAhy3GkHA_rK16nBlFEAq8uwLmiKOVrhb/spc/q5xjPHnAgLXhKXnUoCRcfR4sjQAYduwiJBSRFAe3sl-TWeuGVIuUZEuQT7LV4Ube/vprv/1/playlist_type/DVR/initcwndbps/2035000/met/1770480197,/mh/v0/mm/44/mn/sn-xn25jv-bpbl/ms/lva/mv/m/mvi/1/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565681,51580968/mt/1770479814/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ctier,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJEij0EwRgIhALG9akhQ3vT0yzaVlX5aK_mc6uFiJp2FE5LmWrd5np-1AiEA2HpT5fOzTPNuU1EIcLwCf1o1FAJYIS3cc-SPpjhS2vw%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgWzkYgWkS2fJ6OkWmW_Z4jrYXiqr3b5Dqvf_paa5whukCIERYBef9DpWQrs0UdK9BUN3uIdFCMtHalMdESB9OISwA/playlist/index.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f51",
       "titulo": "ESPN",
       "descricao": "ESPN é um canal esportivo por assinatura que oferece cobertura completa de esportes nacionais e internacionais. A programação inclui transmissões ao vivo, notícias, análises, programas de debate, documentários e especiais sobre futebol, basquete, tênis, lutas, automobilismo e muito mais, conectando os fãs ao mundo do esporte 24 horas por dia.",
       "capa": "https://i.imgur.com/lDTfLB1.jpeg",
@@ -73,7 +83,7 @@
       "tipo": "filme"
     },
 	{
-      "id": "f51",
+      "id": "f52",
       "titulo": "EU A PATROA E AS CRIANÇAS",
       "descricao": "Eu, a Patroa e as Crianças é uma série de comédia familiar que acompanha Michael Kyle, um pai divertido e bem-humorado, tentando equilibrar sua vida profissional com os desafios de criar três filhos com personalidades muito diferentes. Entre confusões, mal-entendidos e lições de vida, cada episódio traz humor leve e situações do dia a dia de uma típica família americana.",
       "capa": "https://i.imgur.com/AK4l1MK.jpeg",
@@ -83,7 +93,7 @@
       "tipo": "filme"
     },
 	{
-      "id": "f52",
+      "id": "f53",
       "titulo": "Food Network",
       "descricao": "",
       "capa": "https://i.imgur.com/Z5kIbf7.jpeg",
@@ -93,7 +103,7 @@
       "tipo": "filme"
     },
 	{
-      "id": "f53",
+      "id": "f54",
       "titulo": "GLOBO",
       "descricao": "TV Globo é a maior emissora de televisão do Brasil, com uma programação diversificada que inclui novelas, séries, filmes, jornalismo, esportes, realities e grandes eventos ao vivo. Reconhecida pela alta qualidade de produção e alcance nacional, a Globo acompanha o cotidiano do país com informação, entretenimento e conteúdos que marcam gerações.",
       "capa": "https://i.imgur.com/U4kS4bz.jpeg",
@@ -103,7 +113,7 @@
       "tipo": "filme"
     },
 	{
-      "id": "f54",
+      "id": "f55",
       "titulo": "MEGAPIX",
       "descricao": "Megapix é um canal de televisão por assinatura dedicado exclusivamente a filmes, com uma programação variada que reúne grandes sucessos de bilheteria, clássicos do cinema e produções populares de ação, comédia, aventura e drama. O canal se destaca por suas sessões temáticas e maratonas especiais.",
       "capa": "https://i.imgur.com/JgYTKHg.jpeg",
@@ -113,7 +123,7 @@
       "tipo": "filme"
     },
 	{
-      "id": "f55",
+      "id": "f56",
       "titulo": "PREMIERE CLUBES",
       "descricao": "Premiere Clubes é um canal de pay-per-view dedicado à transmissão ao vivo de jogos de futebol dos principais campeonatos nacionais, com foco em clubes específicos. Oferece cobertura completa, narrações, comentários e análises, permitindo que os torcedores acompanhem cada lance de seus times favoritos em tempo real.",
       "capa": "https://i.imgur.com/bsDf0Z4.jpeg",
@@ -123,7 +133,7 @@
       "tipo": "filme"
     },
 	{
-      "id": "f56",
+      "id": "f57",
       "titulo": "RECORD",
       "descricao": "Record TV é uma emissora brasileira de televisão aberta com programação variada voltada ao entretenimento, informação e fé. Exibe novelas, realities, programas jornalísticos, atrações de auditório, séries, filmes e conteúdos religiosos, além de transmissões esportivas e eventos especiais. É uma das principais redes de TV do país, com alcance nacional.",
       "capa": "https://i.imgur.com/0AoH2n4.jpeg",
@@ -133,7 +143,7 @@
       "tipo": "filme"
     },
 	{
-      "id": "f57",
+      "id": "f58",
       "titulo": "SBT",
       "descricao": "SBT (Sistema Brasileiro de Televisão) é um canal aberto de entretenimento com uma programação variada voltada para toda a família. Exibe novelas, programas de auditório, realities, humorísticos, jornalismo, filmes, séries e transmissões esportivas. Reconhecido por seu conteúdo popular e carismático, o SBT é uma das principais emissoras da televisão brasileira, levando informação e diversão para milhões de espectadores.",
       "capa": "https://i.imgur.com/TRmZn0y.jpeg",
@@ -143,7 +153,7 @@
       "tipo": "filme"
     },
 	{
-      "id": "f58",
+      "id": "f59",
       "titulo": "SPORTV1",
       "descricao": "SporTV é um canal esportivo por assinatura dedicado à transmissão ao vivo e à cobertura completa dos principais eventos esportivos do Brasil e do mundo. A programação inclui futebol, esportes olímpicos, debates, análises, entrevistas e programas jornalísticos, oferecendo informação, profundidade e emoção para os fãs de esporte.",
       "capa": "https://i.imgur.com/yyoqhv3.jpeg",
@@ -153,7 +163,7 @@
       "tipo": "filme"
     },
 	   {
-      "id": "f59",
+      "id": "f60",
       "titulo": "SPORTV 2",
       "descricao": "SporTV 2 é um canal esportivo dedicado à transmissão ao vivo e à cobertura completa de grandes eventos nacionais e internacionais. A programação inclui partidas de futebol, vôlei, basquete, esportes olímpicos, análises táticas, debates, entrevistas exclusivas e programas jornalísticos que aprofundam os principais acontecimentos do esporte. Ideal para quem quer acompanhar competições de alto nível com informação, opinião e qualidade técnica.",
       "capa": "https://i.imgur.com/UjroRwv.jpeg",
@@ -163,7 +173,7 @@
       "tipo": "filme"
     },
 	{
-      "id": "f4",
+      "id": "f61",
       "titulo": "TELECINE PIPOCA",
       "descricao": "Telecine Pipoca é um canal de televisão por assinatura dedicado a filmes populares e grandes sucessos do cinema, com destaque para comédias, romances, aventuras e produções leves para toda a família. A programação traz títulos consagrados e sessões especiais perfeitas para curtir um bom filme a qualquer hora.",
       "capa": "https://i.imgur.com/fuLkYjG.jpeg",
@@ -173,7 +183,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f60",
+      "id": "f62",
       "titulo": "TELECINE PREMIUM",
       "descricao": "Telecine Premium é o principal canal da rede Telecine, dedicado à exibição de grandes estreias do cinema e sucessos recentes de bilheteria. A programação reúne filmes de alto destaque dos mais variados gêneros, oferecendo entretenimento de qualidade, lançamentos exclusivos e sessões especiais para quem busca os títulos mais aguardados.",
       "capa": "https://i.imgur.com/GQJLLgx.jpeg",
@@ -183,7 +193,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f61",
+      "id": "f63",
       "titulo": "TNT",
       "descricao": "TNT é um canal de televisão por assinatura voltado ao entretenimento, com foco em filmes de sucesso, grandes franquias de Hollywood, séries populares e especiais temáticos. A programação traz ação, aventura, comédia e drama, além de eventos exclusivos e maratonas que agradam a diferentes públicos.",
       "capa": "https://i.imgur.com/EKNRiW2.jpeg",
@@ -193,7 +203,7 @@
       "tipo": "filme"
     },  
 	  {
-      "id": "f62",
+      "id": "f64",
       "titulo": "TODO MUNDO ODEIA O CHRIS",
       "descricao": "Todo Mundo Odeia o Chris é uma série de comédia inspirada na adolescência do comediante Chris Rock. Acompanhamos Chris, um adolescente inteligente e sarcástico, lidando com os desafios da escola, da família e dos amigos na década de 1980, sempre com muito humor e situações hilárias que misturam realidade e exagero cômico.",
       "capa": "https://i.imgur.com/L8dIJgO.jpeg",
