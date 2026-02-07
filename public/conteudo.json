@@ -67,7 +67,7 @@
       "titulo": "CAZETV",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/V6n0AHB.jpeg",
       "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1770501796/ei/RGKHadmUO7-b1sQPzKGsqAQ/ip/200.3.29.178/id/Mu84Y6VP0Ws.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr1---sn-xn25jv-bpbl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ctier/SPL/playlist_duration/30/manifest_duration/30/gcr/br/bui/AW-iu_obwGibo7a12uFWojaX8mXxqq5hSfFNCqbq3qJCw5teAhy3GkHA_rK16nBlFEAq8uwLmiKOVrhb/spc/q5xjPHnAgLXhKXnUoCRcfR4sjQAYduwiJBSRFAe3sl-TWeuGVIuUZEuQT7LV4Ube/vprv/1/playlist_type/DVR/initcwndbps/2035000/met/1770480197,/mh/v0/mm/44/mn/sn-xn25jv-bpbl/ms/lva/mv/m/mvi/1/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565681,51580968/mt/1770479814/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ctier,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJEij0EwRgIhALG9akhQ3vT0yzaVlX5aK_mc6uFiJp2FE5LmWrd5np-1AiEA2HpT5fOzTPNuU1EIcLwCf1o1FAJYIS3cc-SPpjhS2vw%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgWzkYgWkS2fJ6OkWmW_Z4jrYXiqr3b5Dqvf_paa5whukCIERYBef9DpWQrs0UdK9BUN3uIdFCMtHalMdESB9OISwA/playlist/index.m3u8",
       "categoria": "TV",
       "tipo": "filme"
