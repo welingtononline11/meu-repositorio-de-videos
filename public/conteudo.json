@@ -738,6 +738,7 @@
       "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/zvNMbGzc2Z3khr7sAU2hBzydvaR.jpg",
       "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cJc8hNQP4lWouAzD0duQ4inktin.jpg",
       "categoria": "A Fazenda",
+		"genero": "A Fazenda",
       "tipo": "serie",
       "episodios": [
         {
@@ -1182,7 +1183,7 @@
       "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_face/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
       "imagem": "https://image.tmdb.org/t/p/w440_and_h660_face/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg",
       "categoria": "séries",
-		"genero": "Ficção ciantífica",
+		"genero": "Ficção científica",
       "tipo": "serie",
       "episodios": [
         {
