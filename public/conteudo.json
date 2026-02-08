@@ -619,6 +619,7 @@
       "capa": "https://images.justwatch.com/backdrop/322126078/s1920/wonder-man-0.webp",
       "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_face/zf6P1MoickMplupklydA2zfCguO.jpg",
       "categoria": "séries",
+		"genero": "Ficção científica",
       "tipo": "serie",
       "episodios": [
         {
@@ -687,6 +688,7 @@
       "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/zvNMbGzc2Z3khr7sAU2hBzydvaR.jpg",
       "imagem": "https://i.imgur.com/GYnv82V.jpeg",
       "categoria": "A Fazenda",
+		"genero": "A Fazenda",
       "tipo": "serie",
       "episodios": [
         {
@@ -1125,6 +1127,7 @@
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_face/danN2NzJTMouaBEkDWTnyDjDxUt.jpg",
       "imagem": "https://image.tmdb.org/t/p/w600_and_h900_face/63zVMAA4oxz9N8EnkNdR8gpyjKf.jpg",
       "categoria": "séries",
+	  "genero": "Fantasia",
       "tipo": "serie",
       "episodios": [
         {
@@ -1179,6 +1182,7 @@
       "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_face/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
       "imagem": "https://image.tmdb.org/t/p/w440_and_h660_face/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg",
       "categoria": "séries",
+		"genero": "Ficção ciantífica",
       "tipo": "serie",
       "episodios": [
         {
@@ -1373,6 +1377,7 @@
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/qyRJPtJkJz7wtS4UJnJez9S3WOM.jpg",
       "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6dnUpv9ghx84pgxlMOb4uuJrWDs.jpg",
       "categoria": "séries",
+		"genero": "Terror Psicológico",
       "tipo": "serie",
       "episodios": [
         {
@@ -1509,6 +1514,7 @@
       "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/3MFzsf900Drv8Jv6klv7Qm59YnA.jpg",
       "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/y5pmoeuAsc9CvGRcs8kzIKmoneI.jpg",
       "categoria": "séries",
+		"genero": "Ficção científica",
       "tipo": "serie",
       "episodios": [
         {
@@ -1557,6 +1563,7 @@
       "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/ulm1ex4JFYJByyaPyqTr47MFyEQ.jpg",
       "imagem": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/p9J7CXVI5gjkyUo6trV7m85gssW.jpg",
       "categoria": "séries",
+		"genero": "Ficção científica",
       "tipo": "serie",
       "episodios": [
         {
@@ -1605,6 +1612,7 @@
       "capa": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/hEVVpOX2VeUbHfY97qnYF2F5SlD.jpg",
       "imagem": "https://image.tmdb.org/t/p/w500/s3vkC7S2uPQdgLhz6gS8pEuGg3r.jpg",
       "categoria": "séries",
+		"genero": "Mistério",
       "tipo": "serie",
       "episodios": [
         {
@@ -1654,6 +1662,7 @@
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/qV2REPQ7pPlmQT7Mljkca0wi4Bx.jpg",
       "imagem": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWoZDnP8eu4bpEnKF0WQ6VNF2j4.jpg",
       "categoria": "séries",
+		"genero": "Ficção científica",
       "tipo": "serie",
       "episodios": [
         {
@@ -1714,6 +1723,7 @@
       "capa": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/tppoXtkKVh26oEsMdkIGmUqdgVL.jpg",
       "imagem": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxwc8QKPLc2PkeJZNGdz8fn5LmH.jpg",
       "categoria": "séries",
+		"genero": "Suspense",
       "tipo": "serie",
       "episodios": [
         {
@@ -1770,6 +1780,7 @@
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/i9IEOD1Li1y89xRHKH9kiE8dt9z.jpg",
       "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2faxNZj5iHQOiDdPzCHCDvjTEnW.jpg",
       "categoria": "séries",
+		"genero": "Ficção científica",
       "tipo": "serie",
       "episodios": [
         {
@@ -1844,6 +1855,7 @@
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/9LALiE3I9dInFmMlI1BvzlhFMmP.jpg",
       "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qAKTcetmDruSH1Cp5pPcIWZPQOJ.jpg",
       "categoria": "séries",
+		"genero": "Ficção científica",
       "tipo": "serie",
       "episodios": [
         {
@@ -1911,6 +1923,7 @@
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/wl0DQUT90o3e9gXHEeB5iyK05jb.jpg",
       "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3wh5Dwggf0EQOBgxPUvXcCdMtpZ.jpg",
       "categoria": "séries",
+		"genero": "Ficção científica",
       "tipo": "serie",
       "episodios": [
         {
@@ -1978,6 +1991,7 @@
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/22IYgPD2AUAZWkaaVOiJu1tXdGA.jpg",
       "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cLz7dqSwH4dK1mVrVuh8O6yPp39.jpg",
       "categoria": "séries",
+		"genero": "Ficção científica",
       "tipo": "serie",
       "episodios": [
         {
@@ -2052,6 +2066,7 @@
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/gTUHsbKX20VAx9YJKEMWBD7prrH.jpg",
       "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sS1ykUhvyurff4CohExIh8qYO99.jpg",
       "categoria": "séries",
+		"genero": "Ficção científica",
       "tipo": "serie",
       "episodios": [
         {
@@ -2120,6 +2135,7 @@
       "capa": "https://i.ytimg.com/vi/vkg45c-rkQ8/maxresdefault.jpg",
       "imagem": "https://br.web.img3.acsta.net/img/7c/75/7c75fd6c789ff791d965576971467f67.jpg",
       "categoria": "séries",
+		"genero": "Suspense",
       "tipo": "serie",
       "episodios": [
         {
@@ -2176,6 +2192,7 @@
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/xF4zSVyrOBO60Lwu2wDN0dBjEgk.jpg",
       "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vfayWy5TIQqjqkpIYzQTD1U2huG.jpg",
       "categoria": "séries",
+		"genero": "Comédia",
       "tipo": "serie",
       "episodios": [
         {
@@ -2233,6 +2250,7 @@
       "capa": "https://images.justwatch.com/backdrop/302760566/s1440/mike-and-molly,%2520",
       "imagem": "https://images.justwatch.com/poster/302760551/s718/mike-and-molly.jpg",
       "categoria": "séries",
+		"genero": "Comédia",
       "tipo": "serie",
       "episodios": [
         {
@@ -3009,6 +3027,7 @@
       "capa": "https://images.justwatch.com/backdrop/293992203/s1440/continuum.webp",
       "imagem": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqL4jiKHOv4qXn46RRIgcKIk2EE.jpg",
       "categoria": "séries",
+		"genero": "Ficção científica",
       "tipo": "serie",
       "episodios": [
         {
@@ -3045,6 +3064,7 @@
       "capa": "https://images.justwatch.com/backdrop/49615507/s1440/grimm.webp",
       "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5hC8CertBqHbXNPcfm1LZ18VcjD.jpg",
       "categoria": "séries",
+		"genero": "Fantasia",
       "tipo": "serie",
       "episodios": [
         {
@@ -3063,6 +3083,7 @@
       "capa": "https://i.imgur.com/5exA3m8.jpeg",
       "imagem": "https://i.imgur.com/DAVuUfj.jpeg",
       "categoria": "séries",
+		"genero": "Drama",
       "tipo": "serie",
       "episodios": [
         {
@@ -3122,6 +3143,7 @@
       "capa": "https://i.imgur.com/BSsRO9c.jpeg",
       "imagem": "https://i.imgur.com/yLUN3Ym.jpeg",
       "categoria": "séries",
+		"genero": "Thriller psicológico",
       "tipo": "serie",
       "episodios": [
         {
@@ -3163,6 +3185,7 @@
       "capa": "https://i.imgur.com/lc9oSjK.jpeg",
       "imagem": "https://image.tmdb.org/t/p/w500/3yiwAUNGn1rsPSVmFgVwPVJFtYf.jpg",
       "categoria": "séries",
+		"genero": "Crime",
       "tipo": "serie",
       "episodios": [
         {
@@ -3204,6 +3227,7 @@
       "capa": "https://i.imgur.com/pWTixB8.jpeg",
       "imagem": "https://i.imgur.com/XKjFdUT.jpeg",
       "categoria": "séries",
+		"genero": "Ficção científica",
       "tipo": "serie",
       "episodios": [
         {
@@ -3275,6 +3299,7 @@
       "capa": "https://image.tmdb.org/t/p/w780/4cRHAgqMQTtx6Ncw8cphjOR7lnS.jpg",
       "imagem": "https://br.web.img2.acsta.net/pictures/18/08/07/00/23/5524103.jpg",
       "categoria": "séries",
+		"genero": "Drama",
       "tipo": "serie",
       "episodios": [
         {
@@ -3422,6 +3447,7 @@
       "capa": "https://images.justwatch.com/backdrop/260563926/s1920/from.webp",
       "imagem": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg",
       "categoria": "séries",
+		"genero": "Terror",
       "tipo": "serie",
       "episodios": [
         {
@@ -3440,6 +3466,7 @@
       "capa": "https://images.justwatch.com/backdrop/282558562/s1440/shining-girls.webp",
       "imagem": "https://images.justwatch.com/poster/272300433/s592/shining-girls.webp",
       "categoria": "séries",
+		"genero": "Terror psicológico",
       "tipo": "serie",
       "episodios": [
         {
