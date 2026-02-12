@@ -112,6 +112,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	  {
+      "id": "f5565",
+      "titulo": "GOSPEL MOVIES TELEVISION",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/O9HNwxo.jpeg",
+      "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
 	{
       "id": "f54",
       "titulo": "GLOBO",
@@ -122,6 +132,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	  {
+      "id": "f666",
+      "titulo": "MASTERCHEF BRASIL",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/aQBW6UunAhsHeeTSnDPUjjx8HSZ.jpg",
+      "url": "https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
 	{
       "id": "f55",
       "titulo": "MEGAPIX",
@@ -129,6 +149,26 @@
       "capa": "https://i.imgur.com/JgYTKHg.jpeg",
       "imagem": "https://i.imgur.com/JgYTKHg.jpeg",
       "url": "https://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f5555",
+      "titulo": "MR BEAN",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg",
+      "url": "https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f777",
+      "titulo": "OS JETSONS",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/o0QVwZr7fDPQKF36HWt44mPrweL.jpg",
+      "url": "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -260,6 +300,16 @@
       "capa": "https://i.imgur.com/L8dIJgO.jpeg",
       "imagem": "https://i.imgur.com/L8dIJgO.jpeg",
       "url": "https://s1.micineovs.com/Chris24h/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f5589",
+      "titulo": "TRAVEL E FOOD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/3BdeAmO.jpeg",
+      "url": "https://pop.uniquetv.com.br/travelfood/tracks-v1a1/mono.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
