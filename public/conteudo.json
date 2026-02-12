@@ -174,6 +174,37 @@
     },
 	{
       "id": "f61",
+      "titulo": "SPORTV 3",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/Yyldxve.jpeg",
+      "url": "https://agropesca.live/live/sportv3/index.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	
+	{
+      "id": "f62",
+      "titulo": "TELECINE ACTION",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/FUWB3d4.jpeg",
+      "url": "https://image-storage-3005.imgcontent.xyz/live/telecineaction/index.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	
+      "id": "f63",
+      "titulo": "TELECINE CULT",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/SNrmO50.jpeg",
+      "url": "https://image-storage-3005.imgcontent.xyz/live/telecinecult/index.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f64",
       "titulo": "TELECINE PIPOCA",
       "descricao": "Telecine Pipoca é um canal de televisão por assinatura dedicado a filmes populares e grandes sucessos do cinema, com destaque para comédias, romances, aventuras e produções leves para toda a família. A programação traz títulos consagrados e sessões especiais perfeitas para curtir um bom filme a qualquer hora.",
       "capa": "https://i.imgur.com/fuLkYjG.jpeg",
@@ -183,7 +214,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f62",
+      "id": "f65",
       "titulo": "TELECINE PREMIUM",
       "descricao": "Telecine Premium é o principal canal da rede Telecine, dedicado à exibição de grandes estreias do cinema e sucessos recentes de bilheteria. A programação reúne filmes de alto destaque dos mais variados gêneros, oferecendo entretenimento de qualidade, lançamentos exclusivos e sessões especiais para quem busca os títulos mais aguardados.",
       "capa": "https://i.imgur.com/GQJLLgx.jpeg",
@@ -192,8 +223,18 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f66",
+      "titulo": "TELECINE TOUCH",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/5Q5M7qE.jpeg",
+      "url": "https://image-storage-3005.imgcontent.xyz/live/telecinetouch/index.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
 	  {
-      "id": "f63",
+      "id": "f67",
       "titulo": "TNT",
       "descricao": "TNT é um canal de televisão por assinatura voltado ao entretenimento, com foco em filmes de sucesso, grandes franquias de Hollywood, séries populares e especiais temáticos. A programação traz ação, aventura, comédia e drama, além de eventos exclusivos e maratonas que agradam a diferentes públicos.",
       "capa": "https://i.imgur.com/EKNRiW2.jpeg",
@@ -203,7 +244,7 @@
       "tipo": "filme"
     },  
 	  {
-      "id": "f64",
+      "id": "f68",
       "titulo": "TODO MUNDO ODEIA O CHRIS",
       "descricao": "Todo Mundo Odeia o Chris é uma série de comédia inspirada na adolescência do comediante Chris Rock. Acompanhamos Chris, um adolescente inteligente e sarcástico, lidando com os desafios da escola, da família e dos amigos na década de 1980, sempre com muito humor e situações hilárias que misturam realidade e exagero cômico.",
       "capa": "https://i.imgur.com/L8dIJgO.jpeg",
@@ -212,8 +253,18 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f69",
+      "titulo": "UNIVERSAL TV",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/lMHcFpD.jpeg",
+      "url": "https://image-storage-3005.imgcontent.xyz/live/universal/index.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
 	  {
-      "id": "f65",
+      "id": "f70",
       "titulo": "A Vastidão da Noite",
       "descricao": "No período da Guerra Fria, enquanto acontece a corrida espacial entre os Estados Unidos e a União Soviética, dois adolescentes de uma cidadezinha americana são obcecados pelo rádio. Quando eles descobrem uma estranha frequência de ondas aéreas, suas vidas e o mundo inteiro podem estar prestes a mudar drasticamente.",
       "capa": "https://images.justwatch.com/backdrop/183771822/s640/the-vast-of-night.webp,%20https://images.justwatch.com/backdrop/183771822/s1440/the-vast-of-night.webp%202x",
