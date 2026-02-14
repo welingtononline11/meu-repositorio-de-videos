@@ -326,6 +326,37 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+
+	  {
+      "id": "f7002",
+      "titulo": "Sharper - Uma Vida de Trapaças",
+      "descricao": "Madeline é uma golpista envolvida em trapaças do mundo dos bilionários de Manhattan, nos Estados Unidos. Enquanto isso, Max é um especialista em complexos planos fraudulentos que costumam render muito dinheiro. Juntos eles viverão uma trama cheia de traições, roubos, conflitos familiares, manipulações e jogos cruéis de poder.",
+      "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_face/cG5QZHyIRJXqo53YA41gbNMlpIM.jpg",
+      "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg",
+      "url": "https://filmes-as78.s3.us-east-005.backblazeb2.com/Sharper%20Uma%20Vida%20de%20Trapacas%202023_717980.mp4",
+      "categoria": "Suspense",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f7001",
+      "titulo": "Instinto Materno",
+      "descricao": "As donas de casa Alice e Celine são melhores amigas e vizinhas que parecem ter tudo. No entanto, quando um trágico acidente destrói a harmonia de suas vidas, a culpa, a suspeita e a paranoia começam a desfazer seu vínculo.",
+      "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_face/2ak94bJfXxHR5vBxwrpkycwOKv3.jpg",
+      "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/5ft87E9fosb9O9zLtdR9Cu5tiCa.jpg",
+      "url": "https://filmes-as51.s3.us-east-005.backblazeb2.com/Instinto%20Materno%202024_758679.mp4",
+      "categoria": "Terror Psicológico",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f7000",
+      "titulo": "Predador: Terras Selvagens",
+      "descricao": "No futuro, em um planeta remoto, um jovem Predador, rejeitado por seu clã, encontra em Thia uma aliada improvável e embarca em uma jornada traiçoeira em busca do adversário supremo.",
+      "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_face/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w500/7AYPGnLTmU6zDtMMAWqeUkCi7Tw.jpg",
+      "url": "https://filmes-as100.s3.us-east-005.backblazeb2.com/Predador%20Terras%20Selvagens%202025_1242898.mp4",
+      "categoria": "Ficção científica",
+      "tipo": "filme"
+    },
 	  {
       "id": "f70",
       "titulo": "A Vastidão da Noite",
