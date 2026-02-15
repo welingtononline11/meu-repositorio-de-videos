@@ -327,6 +327,16 @@
       "tipo": "filme"
     },
 	  {
+      "id": "f690001",
+      "titulo": "Superbad: É Hoje",
+      "descricao": "Os estudantes adolescentes Seth e Evan têm grandes esperanças para uma festa de formatura. Os adolescentes co-dependentes pretendem beber e conquistar garotas para que eles possam se tornar parte da multidão popular da escola, mas a ansiedade de separação e dois policiais entediados complicam a auto-missão proclamada dos amigos.",
+      "capa": "https://media.themoviedb.org/t/p/w533_and_h300_face/giYuvpmpZbwkT3NtX4WdNYqGhxw.jpg",
+      "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/rABcQMa8m67EJslknSlMfE3BP8L.jpg",
+      "url": "https://filmes-as78.s3.us-east-005.backblazeb2.com/Superbad%20E%20Hoje%202007_8363.mp4",
+      "categoria": "Comédia",
+      "tipo": "filme"
+    },
+	  {
       "id": "70039",
       "titulo": "Meninas Malvadas",
       "descricao": "Criada na selva africana por seus pais zoólogos, Cady acha que sabe tudo sobre sobrevivência dos mais bem dotados. Mas a lei da selva toma um significado totalmente novo, quando a garota, entra na escola pública.",
