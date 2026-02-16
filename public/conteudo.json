@@ -5,329 +5,9 @@
   "categorias": ["séries", "Ficção científica", "Mistério", "Suspense", "Terror", "Terror Psicológico", "Thriller", "Thriller Policial", "Thriller Psicológico", "Drama", "Drama Policial", "Romance", "Ação", "Comédia", "TV", "A Fazenda"],
   "filmes": [
 
+	  
 	  {
-      "id": "f44",
-      "titulo": "BBB - Câmera 1",
-      "descricao": "Big Brother Brasil é um reality show em que um grupo de participantes convive isolado em uma casa cheia de câmeras, competindo por provas, prêmios e imunidades. Cada semana, os confinados enfrentam eliminações decididas pelo público, em um jogo de estratégia, convivência e emoção, combinando entretenimento, polêmicas e surpresas.",
-      "capa": "https://i.imgur.com/Q6LDXGq.jpeg",
-      "imagem": "https://i.imgur.com/YczUUX4.jpeg",
-      "url": "https://s2.micineovs.com/BBB_01/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f45",
-      "titulo": "BBB - Câmera 2",
-      "descricao": "Big Brother Brasil é um reality show em que um grupo de participantes convive isolado em uma casa cheia de câmeras, competindo por provas, prêmios e imunidades. Cada semana, os confinados enfrentam eliminações decididas pelo público, em um jogo de estratégia, convivência e emoção, combinando entretenimento, polêmicas e surpresas.",
-      "capa": "https://i.imgur.com/Q6LDXGq.jpeg",
-      "imagem": "https://i.imgur.com/4EU6ino.jpeg",
-      "url": "https://s1.micineovs.com/BBB_02/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f46",
-      "titulo": "BBB - Câmera 3",
-      "descricao": "Big Brother Brasil é um reality show em que um grupo de participantes convive isolado em uma casa cheia de câmeras, competindo por provas, prêmios e imunidades. Cada semana, os confinados enfrentam eliminações decididas pelo público, em um jogo de estratégia, convivência e emoção, combinando entretenimento, polêmicas e surpresas.",
-      "capa": "https://i.imgur.com/Q6LDXGq.jpeg",
-      "imagem": "https://i.imgur.com/Ye5miAY.jpeg",
-      "url": "https://s1.micineovs.com/BBB_03/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f47",
-      "titulo": "BBB - Mosaico",
-      "descricao": "Big Brother Brasil é um reality show em que um grupo de participantes convive isolado em uma casa cheia de câmeras, competindo por provas, prêmios e imunidades. Cada semana, os confinados enfrentam eliminações decididas pelo público, em um jogo de estratégia, convivência e emoção, combinando entretenimento, polêmicas e surpresas.",
-      "capa": "https://i.imgur.com/Q6LDXGq.jpeg",
-      "imagem": "https://i.imgur.com/hkioCWm.jpeg",
-      "url": "https://s2.micineovs.com/BBB_04/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-{
-      "id": "f48",
-      "titulo": "BAND",
-      "descricao": "Band (Rede Bandeirantes) é uma emissora brasileira de televisão aberta com programação diversificada que combina jornalismo, esportes, entretenimento e variedades. O canal se destaca pela cobertura esportiva, programas de debates, atrações ao vivo, realities, culinária e informação, oferecendo conteúdo dinâmico e atual para diferentes públicos.",
-      "capa": "https://i.imgur.com/Uw3Srp0.jpeg",
-      "imagem": "https://i.imgur.com/Uw3Srp0.jpeg",
-      "url": "https://s1.micineovs.com/BAND/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f49",
-      "titulo": "CARTOON NETWORK",
-      "descricao": "Cartoon Network é um canal de televisão voltado para crianças e jovens, oferecendo uma programação divertida e criativa com desenhos animados, séries originais, animações clássicas e programas de humor. O canal combina entretenimento leve, aventuras e personagens icônicos que conquistam diferentes gerações.",
-      "capa": "https://i.imgur.com/XwFlLFC.jpeg",
-      "imagem": "https://i.imgur.com/30huQ5Z.jpeg",
-      "url": "https://s1.micineovs.com/CARTOONNETWORK/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f50",
-      "titulo": "CAZETV",
-      "descricao": "",
-      "capa": "https://static.poder360.com.br/2025/07/cazetv-logo-848x477.png",
-      "imagem": "https://i.imgur.com/V6n0AHB.jpeg",
-      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1770501796/ei/RGKHadmUO7-b1sQPzKGsqAQ/ip/200.3.29.178/id/Mu84Y6VP0Ws.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr1---sn-xn25jv-bpbl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ctier/SPL/playlist_duration/30/manifest_duration/30/gcr/br/bui/AW-iu_obwGibo7a12uFWojaX8mXxqq5hSfFNCqbq3qJCw5teAhy3GkHA_rK16nBlFEAq8uwLmiKOVrhb/spc/q5xjPHnAgLXhKXnUoCRcfR4sjQAYduwiJBSRFAe3sl-TWeuGVIuUZEuQT7LV4Ube/vprv/1/playlist_type/DVR/initcwndbps/2035000/met/1770480197,/mh/v0/mm/44/mn/sn-xn25jv-bpbl/ms/lva/mv/m/mvi/1/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565681,51580968/mt/1770479814/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ctier,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJEij0EwRgIhALG9akhQ3vT0yzaVlX5aK_mc6uFiJp2FE5LmWrd5np-1AiEA2HpT5fOzTPNuU1EIcLwCf1o1FAJYIS3cc-SPpjhS2vw%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgWzkYgWkS2fJ6OkWmW_Z4jrYXiqr3b5Dqvf_paa5whukCIERYBef9DpWQrs0UdK9BUN3uIdFCMtHalMdESB9OISwA/playlist/index.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f51",
-      "titulo": "ESPN",
-      "descricao": "ESPN é um canal esportivo por assinatura que oferece cobertura completa de esportes nacionais e internacionais. A programação inclui transmissões ao vivo, notícias, análises, programas de debate, documentários e especiais sobre futebol, basquete, tênis, lutas, automobilismo e muito mais, conectando os fãs ao mundo do esporte 24 horas por dia.",
-      "capa": "https://i.imgur.com/z7mVzPV.jpeg",
-      "imagem": "https://i.imgur.com/lDTfLB1.jpeg",
-      "url": "https://s2.micineovs.com/ESPN1/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f52",
-      "titulo": "EU A PATROA E AS CRIANÇAS",
-      "descricao": "Eu, a Patroa e as Crianças é uma série de comédia familiar que acompanha Michael Kyle, um pai divertido e bem-humorado, tentando equilibrar sua vida profissional com os desafios de criar três filhos com personalidades muito diferentes. Entre confusões, mal-entendidos e lições de vida, cada episódio traz humor leve e situações do dia a dia de uma típica família americana.",
-      "capa": "https://i.imgur.com/acazdNK.jpeg",
-      "imagem": "https://i.imgur.com/AK4l1MK.jpeg",
-      "url": "https://s2.micineovs.com/EPC/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f53",
-      "titulo": "Food Network",
-      "descricao": "",
-      "capa": "https://i.imgur.com/Gxr5KEC.jpeg",
-      "imagem": "https://i.imgur.com/2WVnt3Y.jpeg",
-      "url": "https://load.fazoeli.co.za/token/3b21321b08a54591a2a9581829cae572/foodnetwork.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f541",
-      "titulo": "GOSPEL CARTOON",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/RBTcKkH.jpeg",
-      "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f5565",
-      "titulo": "GOSPEL MOVIES TELEVISION",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/O9HNwxo.jpeg",
-      "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f54",
-      "titulo": "GLOBO",
-      "descricao": "TV Globo é a maior emissora de televisão do Brasil, com uma programação diversificada que inclui novelas, séries, filmes, jornalismo, esportes, realities e grandes eventos ao vivo. Reconhecida pela alta qualidade de produção e alcance nacional, a Globo acompanha o cotidiano do país com informação, entretenimento e conteúdos que marcam gerações.",
-      "capa": "https://i.imgur.com/7IAHTd2.jpeg",
-      "imagem": "https://i.imgur.com/U4kS4bz.jpeg",
-      "url": "https://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f666",
-      "titulo": "MASTERCHEF BRASIL",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/aQBW6UunAhsHeeTSnDPUjjx8HSZ.jpg",
-      "url": "https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f55",
-      "titulo": "MEGAPIX",
-      "descricao": "Megapix é um canal de televisão por assinatura dedicado exclusivamente a filmes, com uma programação variada que reúne grandes sucessos de bilheteria, clássicos do cinema e produções populares de ação, comédia, aventura e drama. O canal se destaca por suas sessões temáticas e maratonas especiais.",
-      "capa": "https://i.imgur.com/JgYTKHg.jpeg",
-      "imagem": "https://i.imgur.com/JgYTKHg.jpeg",
-      "url": "https://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f5555",
-      "titulo": "MR BEAN",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg",
-      "url": "https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f777",
-      "titulo": "OS JETSONS",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/o0QVwZr7fDPQKF36HWt44mPrweL.jpg",
-      "url": "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f56",
-      "titulo": "PREMIERE CLUBES",
-      "descricao": "Premiere Clubes é um canal de pay-per-view dedicado à transmissão ao vivo de jogos de futebol dos principais campeonatos nacionais, com foco em clubes específicos. Oferece cobertura completa, narrações, comentários e análises, permitindo que os torcedores acompanhem cada lance de seus times favoritos em tempo real.",
-      "capa": "https://i.imgur.com/bsDf0Z4.jpeg",
-      "imagem": "https://i.imgur.com/bsDf0Z4.jpeg",
-      "url": "https://s1.micineovs.com/PREMIERECLUBES/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f57",
-      "titulo": "RECORD",
-      "descricao": "Record TV é uma emissora brasileira de televisão aberta com programação variada voltada ao entretenimento, informação e fé. Exibe novelas, realities, programas jornalísticos, atrações de auditório, séries, filmes e conteúdos religiosos, além de transmissões esportivas e eventos especiais. É uma das principais redes de TV do país, com alcance nacional.",
-      "capa": "https://i.imgur.com/0AoH2n4.jpeg",
-      "imagem": "https://i.imgur.com/0AoH2n4.jpeg",
-      "url": "https://s1.micineovs.com/RECORD/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f58",
-      "titulo": "SBT",
-      "descricao": "SBT (Sistema Brasileiro de Televisão) é um canal aberto de entretenimento com uma programação variada voltada para toda a família. Exibe novelas, programas de auditório, realities, humorísticos, jornalismo, filmes, séries e transmissões esportivas. Reconhecido por seu conteúdo popular e carismático, o SBT é uma das principais emissoras da televisão brasileira, levando informação e diversão para milhões de espectadores.",
-      "capa": "https://i.imgur.com/TRmZn0y.jpeg",
-      "imagem": "https://i.imgur.com/TRmZn0y.jpeg",
-      "url": "https://s2.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f59",
-      "titulo": "SPORTV1",
-      "descricao": "SporTV é um canal esportivo por assinatura dedicado à transmissão ao vivo e à cobertura completa dos principais eventos esportivos do Brasil e do mundo. A programação inclui futebol, esportes olímpicos, debates, análises, entrevistas e programas jornalísticos, oferecendo informação, profundidade e emoção para os fãs de esporte.",
-      "capa": "https://i.imgur.com/yyoqhv3.jpeg",
-      "imagem": "https://i.imgur.com/yyoqhv3.jpeg",
-      "url": "https://s1.micineovs.com/SPTV1/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	   {
-      "id": "f60",
-      "titulo": "SPORTV 2",
-      "descricao": "SporTV 2 é um canal esportivo dedicado à transmissão ao vivo e à cobertura completa de grandes eventos nacionais e internacionais. A programação inclui partidas de futebol, vôlei, basquete, esportes olímpicos, análises táticas, debates, entrevistas exclusivas e programas jornalísticos que aprofundam os principais acontecimentos do esporte. Ideal para quem quer acompanhar competições de alto nível com informação, opinião e qualidade técnica.",
-      "capa": "https://i.imgur.com/UjroRwv.jpeg",
-      "imagem": "https://i.imgur.com/UjroRwv.jpeg",
-      "url": "https://s1.micineovs.com/SPTV2/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f61",
-      "titulo": "SPORTV 3",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/Yyldxve.jpeg",
-      "url": "https://agropesca.live/live/sportv3/index.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	
-	{
-      "id": "f62",
-      "titulo": "TELECINE ACTION",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/FUWB3d4.jpeg",
-      "url": "https://image-storage-3005.imgcontent.xyz/live/telecineaction/index.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f63",
-      "titulo": "TELECINE CULT",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/SNrmO50.jpeg",
-      "url": "https://image-storage-3005.imgcontent.xyz/live/telecinecult/index.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f64",
-      "titulo": "TELECINE PIPOCA",
-      "descricao": "Telecine Pipoca é um canal de televisão por assinatura dedicado a filmes populares e grandes sucessos do cinema, com destaque para comédias, romances, aventuras e produções leves para toda a família. A programação traz títulos consagrados e sessões especiais perfeitas para curtir um bom filme a qualquer hora.",
-      "capa": "https://i.imgur.com/fuLkYjG.jpeg",
-      "imagem": "https://i.imgur.com/fuLkYjG.jpeg",
-      "url": "https://s1.micineovs.com/TELECINEPIPOCA/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f65",
-      "titulo": "TELECINE PREMIUM",
-      "descricao": "Telecine Premium é o principal canal da rede Telecine, dedicado à exibição de grandes estreias do cinema e sucessos recentes de bilheteria. A programação reúne filmes de alto destaque dos mais variados gêneros, oferecendo entretenimento de qualidade, lançamentos exclusivos e sessões especiais para quem busca os títulos mais aguardados.",
-      "capa": "https://i.imgur.com/GQJLLgx.jpeg",
-      "imagem": "https://i.imgur.com/GQJLLgx.jpeg",
-      "url": "https://s1.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f66",
-      "titulo": "TELECINE TOUCH",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/5Q5M7qE.jpeg",
-      "url": "https://image-storage-3005.imgcontent.xyz/live/telecinetouch/index.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f67",
-      "titulo": "TNT",
-      "descricao": "TNT é um canal de televisão por assinatura voltado ao entretenimento, com foco em filmes de sucesso, grandes franquias de Hollywood, séries populares e especiais temáticos. A programação traz ação, aventura, comédia e drama, além de eventos exclusivos e maratonas que agradam a diferentes públicos.",
-      "capa": "https://i.imgur.com/EKNRiW2.jpeg",
-      "imagem": "https://i.imgur.com/EKNRiW2.jpeg",
-      "url": "https://s1.micineovs.com/TNT/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },  
-	  {
-      "id": "f68",
-      "titulo": "TODO MUNDO ODEIA O CHRIS",
-      "descricao": "Todo Mundo Odeia o Chris é uma série de comédia inspirada na adolescência do comediante Chris Rock. Acompanhamos Chris, um adolescente inteligente e sarcástico, lidando com os desafios da escola, da família e dos amigos na década de 1980, sempre com muito humor e situações hilárias que misturam realidade e exagero cômico.",
-      "capa": "https://i.imgur.com/L8dIJgO.jpeg",
-      "imagem": "https://i.imgur.com/L8dIJgO.jpeg",
-      "url": "https://s1.micineovs.com/Chris24h/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f5589",
-      "titulo": "TRAVEL E FOOD",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/3BdeAmO.jpeg",
-      "url": "https://pop.uniquetv.com.br/travelfood/tracks-v1a1/mono.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f69",
-      "titulo": "UNIVERSAL TV",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/lMHcFpD.jpeg",
-      "url": "https://image-storage-3005.imgcontent.xyz/live/universal/index.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f690001",
+      "id": "f77",
       "titulo": "Superbad: É Hoje",
       "descricao": "Os estudantes adolescentes Seth e Evan têm grandes esperanças para uma festa de formatura. Os adolescentes co-dependentes pretendem beber e conquistar garotas para que eles possam se tornar parte da multidão popular da escola, mas a ansiedade de separação e dois policiais entediados complicam a auto-missão proclamada dos amigos.",
       "capa": "https://media.themoviedb.org/t/p/w533_and_h300_face/giYuvpmpZbwkT3NtX4WdNYqGhxw.jpg",
@@ -337,7 +17,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "70039",
+      "id": "f76",
       "titulo": "Meninas Malvadas",
       "descricao": "Criada na selva africana por seus pais zoólogos, Cady acha que sabe tudo sobre sobrevivência dos mais bem dotados. Mas a lei da selva toma um significado totalmente novo, quando a garota, entra na escola pública.",
       "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_face/6DqzZaTAzFrT53JtRt3MLKs0Y9i.jpg",
@@ -348,7 +28,7 @@
     },
 
 	  {
-      "id": "f7002",
+      "id": "f75",
       "titulo": "Sharper - Uma Vida de Trapaças",
       "descricao": "Madeline é uma golpista envolvida em trapaças do mundo dos bilionários de Manhattan, nos Estados Unidos. Enquanto isso, Max é um especialista em complexos planos fraudulentos que costumam render muito dinheiro. Juntos eles viverão uma trama cheia de traições, roubos, conflitos familiares, manipulações e jogos cruéis de poder.",
       "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_face/cG5QZHyIRJXqo53YA41gbNMlpIM.jpg",
@@ -358,7 +38,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f7001",
+      "id": "f74",
       "titulo": "Instinto Materno",
       "descricao": "As donas de casa Alice e Celine são melhores amigas e vizinhas que parecem ter tudo. No entanto, quando um trágico acidente destrói a harmonia de suas vidas, a culpa, a suspeita e a paranoia começam a desfazer seu vínculo.",
       "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_face/2ak94bJfXxHR5vBxwrpkycwOKv3.jpg",
@@ -368,7 +48,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f7000",
+      "id": "f73",
       "titulo": "Predador: Terras Selvagens",
       "descricao": "No futuro, em um planeta remoto, um jovem Predador, rejeitado por seu clã, encontra em Thia uma aliada improvável e embarca em uma jornada traiçoeira em busca do adversário supremo.",
       "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_face/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
@@ -378,7 +58,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f70",
+      "id": "f72",
       "titulo": "A Vastidão da Noite",
       "descricao": "No período da Guerra Fria, enquanto acontece a corrida espacial entre os Estados Unidos e a União Soviética, dois adolescentes de uma cidadezinha americana são obcecados pelo rádio. Quando eles descobrem uma estranha frequência de ondas aéreas, suas vidas e o mundo inteiro podem estar prestes a mudar drasticamente.",
       "capa": "https://images.justwatch.com/backdrop/183771822/s640/the-vast-of-night.webp,%20https://images.justwatch.com/backdrop/183771822/s1440/the-vast-of-night.webp%202x",
@@ -388,7 +68,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f43",
+      "id": "f71",
       "titulo": "A Empregada",
       "descricao": "Millie é uma mulher passando por dificuldades que se sente aliviada com a chance de um novo começo como empregada doméstica de Nina e Andrew, um casal rico. Logo, ela descobre que os segredos da família são muito mais perigosos do que os seus.",
       "capa": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/gEHDCtR9PNZvLG70sFBYJCFznRY.jpg",
@@ -399,7 +79,7 @@
     },
 
 	  {
-      "id": "f42",
+      "id": "f70",
       "titulo": "Destruição Final: O Último Refúgio",
       "descricao": "Quando cientistas descobrem que um cometa atingirá a Terra em poucos dias e provavelmente causará a extinção da humanidade, uma família tenta cruzar o país para chegar a sua única esperança de sobrevivência: um grupo de abrigos subterrâneos em Greenland.",
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_face/2Fk3AB8E9dYIBc2ywJkxk8BTyhc.jpg",
@@ -409,7 +89,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f41",
+      "id": "f69",
       "titulo": "O Grande Truque",
       "descricao": "No século 19, em Londres, dois amigos ilusionistas e mágicos, Alfred Borden e Rupert Angier, acabam construindo uma rivalidade, uma batalha por supremacia, que se estende ao longo dos anos e que se transforma em obsessão, cujos resultados serão inevitavelmente trágicos.",
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_face/z3br1ub7spqGMkxgjgJSdM4DC21.jpg",
@@ -419,7 +99,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f40",
+      "id": "f68",
       "titulo": "O Telefone Preto 2",
       "descricao": "Quatro anos após escapar de The Grabber, Finney Blake luta com sua vida após o cativeiro. Quando sua irmã Gwen começa a receber ligações em sonhos do telefone preto e a ter visões perturbadoras de três garotos sendo perseguidos em um acampamento de inverno conhecido como Alpine Lake, os irmãos se determinam a desvendar o mistério e confrontar um assassino que se tornou mais poderoso na morte e mais significativo para eles do que qualquer um poderia imaginar.",
       "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_face/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
@@ -430,7 +110,7 @@
     },
 
 {
-      "id": "f39",
+      "id": "f67",
       "titulo": "A Longa Marcha: Caminhe ou Morra",
       "descricao": "Um grupo de adolescentes compete em uma competição anual conhecida como A Longa Marcha, onde eles devem manter uma certa velocidade de caminhada ou levar um tiro. \n\n IMDB 6.9",
       "capa": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/zf7BQY4k5RNFI1sD4n9EVLnEG8m.jpg",
@@ -440,7 +120,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f38",
+      "id": "f66",
       "titulo": "Jurassic World: Recomeço",
       "descricao": "(2025)\n\nCinco anos após os eventos de Jurassic World: Domínio, poucos dinossauros sobrevivem em regiões isoladas. Zora Bennett lidera uma missão para coletar DNA de três grandes criaturas, visando criar um medicamento revolucionário. Porém, a operação se complica ao cruzar com uma família náufraga, levando todos a uma ilha proibida repleta de dinossauros. \n\n IMDB 6.1",
       "capa": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/fncHijpWjitFBmj7SX5z148XEhP.jpg",
@@ -450,7 +130,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f37",
+      "id": "f65",
       "titulo": "Memórias de Um Assassino (2003)",
       "descricao": "Província de Gyunggi, 1986. O corpo de uma jovem mulher brutalmente estuprada e depois assassinada, é encontrado no campo. Dois meses depois, ocorreram outros crimes semelhantes. Em um país que nunca havia conhecido tais atrocidades, o boato de um assassino em série crescia a cada dia. Uma unidade especial da polícia é então criada na região para encontrar o culpado rapidamente. \n\n IMDB 8.1",
       "capa": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/njaw7QZy5ni8ZDydx3b1EDpEfwk.jpg",
@@ -461,7 +141,7 @@
     },
 	  
 	  {
-      "id": "f36",
+      "id": "f64",
       "titulo": "Ao Lado de um Assassino (2018)",
       "descricao": "Tyler é uma boa criança, um escoteiro, criado por uma família pobre, mas feliz, em uma cidadezinha religiosa. Mas quando ele descobre que seu pai, Don, tem uma pornografia perturbadora escondida em sua cabana, ele começa a temer que seu pai pode ser o Clovehitch, um abominável assassino em série que nunca foi pego. Tyler se une com Kassi, uma adolescente nova na cidade que tem uma obsessão mórbida pela lenda do Clovehitch, para descobrir a verdade à tempo de salvar sua família. \n\n IMDB 6.5",
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/vSPUZQr6bsvFOJPsd6NPxGkDd2v.jpg",
@@ -471,7 +151,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f35",
+      "id": "f63",
       "titulo": "Verão de 84 (2018)",
       "descricao": "Os adolescentes Davey, Woody, Eaton e Farraday aproveitam os dias do verão de 1984. Mas Davey está invocado com a ideia de que seu vizinho, um policial, possa ser um serial killer. É quando os amigos decidem investigar se isso realmente é verdade. \n\n IMDB 6.7",
       "capa": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/iEYDBciiuW68Q5bLCzkVBgKnfi7.jpg",
@@ -481,7 +161,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f34",
+      "id": "f62",
       "titulo": "Desconhecidos (2024)",
       "descricao": "Um predador implacável rastreia uma mulher ferida pela natureza selvagem doe Oregon, nos EUA. A mulher faz o possível para ser mais esperta que seu agressor, mas a cada momento de tensão ela fica mais fraca e menos capaz. Ele é um homem com uma missão e é apenas uma questão de tempo até capturar sua presa. Mas nada é o que parece, neste filme recheado de reviravoltas interessantes. \n\n IMDB 7.0",
       "capa": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/2ANHqBhbAhyIBRTLSVfENskpxon.jpg",
@@ -491,7 +171,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f33",
+      "id": "f61",
       "titulo": "A Linha da Extinção (2024)",
       "descricao": "A humanidade foi destruída por bestas alienígenas. Os sobreviventes se escondem no alto de montanhas, onde as criaturas não conseguem sobreviver. Mas o grupo é forçado a se arriscar na zona dominada pelos predadores em busca de suprimentos. \n\n IMDB 5.6",
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/au3o84ub27qTZiMiEc9UYzN74V3.jpg",
@@ -501,7 +181,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f32",
+      "id": "f60",
       "titulo": "Os Agentes do Destino (2011)",
       "descricao": "David Norris é um jovem político com uma carreira promissora, mas um escândalo atrapalhou a sua corrida ao Senado. Tão logo perde a disputa pela vaga ele conhece Elise, bailarina por quem se apaixona. Contudo, homens com estranhos poderes de interferir no futuro aparecem do nada e começam a pressioná-lo para que ele não dê continuidade a este romance, porque isso poderá atrapalhar o futuro de ambos. Sem saber ao certo quem são essas pessoas, a única certeza que David possui é que precisará reunir forças para enfrentá-los e encarar o que o destino lhe reserva. \n\n IMDB 7.0",
       "capa": "https://media.themoviedb.org/t/p/w1000_and_h563_face/jE3deh9kkOKgl3MISqmpWpqLUjl.jpg",
@@ -511,7 +191,7 @@
       "tipo": "filme"
     },
 {
-      "id": "f31",
+      "id": "f59",
       "titulo": "Vidas Paralelas (2023)",
       "descricao": "Uma mulher que consegue se mover entre realidades paralelas perde tragicamente o marido e precisa superar traumas do passado para viajar de volta pelo multiverso e encontrar o caminho para uma realidade em que ele ainda esteja vivo. \n\n IMDB 6.8",
       "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkP_FfFDih52D3ZE0X4c68ObUjNNt46reQ2FKgQusRZRObgQzzTKdQqgh7&s=10",
@@ -522,7 +202,7 @@
     },
 
    {
-      "id": "f30",
+      "id": "f58",
       "titulo": "Pecadores 2025)",
       "descricao": "Dispostos a deixar suas vidas conturbadas para trás, irmãos gêmeos retornam à sua cidade natal para recomeçar suas vidas do zero, quando descobrem que um mal ainda maior está à espera deles para recebê-los de volta. \n\n IMDB 7.9",
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
@@ -532,7 +212,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f29",
+      "id": "f57",
       "titulo": "Noiva em Fuga (1999)",
       "descricao": "Maggie Carpenter (Julia Roberts) possui um grave problema: não consegue se casar. Já tentou por 3 vezes, mas na hora da cerimônia algo acontece e ela sempre foge do altar. Quando a história chega aos ouvidos de Ike Graham (Richard Gere), um jornalista machista, ele a publica em sua coluna e logo em seguida acaba demitido por não ter confirmações. Decidido a recuperar o emprego, Ike parte para a cidade de Maggie a fim de provar que o conto da noiva fujona é verídico. \n\n IMDB 5.6",
       "capa": "https://is1-ssl.mzstatic.com/image/thumb/jbSL6AxWPjox7A-1Ll4cRw/1200x675.jpg",
@@ -543,7 +223,7 @@
     },
 
 	  {
-      "id": "f28",
+      "id": "f56",
       "titulo": "Entre Montanhas (2025)",
       "descricao": "Dois agentes altamente treinados se aproximam à distância após serem enviados para proteger lados opostos de um desfiladeiro misterioso. Quando um mal emerge, eles precisam trabalhar juntos para sobreviver ao que está lá dentro.  \n\n IMDB 6.7",
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
@@ -553,7 +233,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f27",
+      "id": "f55",
       "titulo": "Tá Todo Mundo Louco! (2001)",
       "descricao": "Um dono de cassino de Las Vegas decide organizar uma competição especial. Fichas de cassino premiadas escolherão seis pessoas para uma corrida pela América com prêmio de dois milhões de dólares. Os competidores apelam a tudo para vencer a corrida maluca.  \n\n IMDB 6.5",
       "capa": "https://i.imgur.com/TYmou6c.jpeg",
@@ -563,7 +243,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f26",
+      "id": "f54",
       "titulo": " Couple Ao Vivo",
       "descricao": "",
       "capa": "https://www.dci.com.br/wp-content/uploads/2025/04/power-couple-1130x580.png",
@@ -573,7 +253,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f25",
+      "id": "f53",
       "titulo": "Kraven, o Caçador (2024)",
       "descricao": "Kraven, o Caçador é uma história visceral e cheia de ação de como e por que razão surgiu um dos vilões mais icónicos da Marvel. Kraven, um homem cuja complexa relação com o seu cruel pai, Nikolai Kravinoff, o transporta para um caminho de vingança com consequências brutais, motivando-o a tornar-se não só o maior caçador do mundo, mas também um dos mais temidos. \n\n IMDB 5.5",
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
@@ -583,7 +263,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f24",
+      "id": "f52",
       "titulo": "Esqueceram de Mim (1990)",
       "descricao": "Uma família de Chicago planeja passar o Natal em Paris. Porém, em meio às confusões da viagem, um dos filhos, Kevin, acaba esquecido em casa. O garoto de apenas oito anos é obrigado a se virar sozinho e defender a casa de dois insistentes ladrões. \n\n IMDB 7.7",
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/vaVaNrscmsG8CUKYxiwZGFNqGJo.jpg",
@@ -593,7 +273,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f23",
+      "id": "f51",
       "titulo": "Mentes Sombrias (2018)",
       "descricao": "Em um mundo apocalíptico, onde uma pandemia mata a maioria das crianças e adolescentes da América, alguns sobreviventes desenvolvem poderes sobrenaturais. Eles então são tirados pelo governo de suas famílias e enviados para campos de custódia. Ruby (Amandla Stenberg), uma das sobreviventes, consegue escapar com outras crianças e sua vida muda para sempre. \n\n IMDB 5.7",
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/5BxrMNGl3YDiWgHCVJu8iLQoJDM.jpg",
@@ -603,7 +283,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f22",
+      "id": "f50",
       "titulo": "E.T. - O Extra-Terrestre (1982)",
       "descricao": "Um alienígena é deixado para trás na Terra e é salvo por Elliot, um garoto de 10 anos, que decide mantê-lo escondido em sua casa. Enquanto uma força-tarefa caça o extraterrestre, Elliot, seu irmão e sua irmã mais nova, Gertie, formam um vínculo emocional com seu novo amigo e tentam ajudá-lo a encontrar o caminho de casa. \n\n IMDB 7.9",
       "capa": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
@@ -614,7 +294,7 @@
     },
 	 
 	  {
-      "id": "f21",
+      "id": "f49",
       "titulo": "Noite Passada em Soho (2021)",
       "descricao": "Uma jovem apaixonada por moda misteriosamente ganha a chance de voltar aos anos 60 e encontrar sua ídola, uma encantadora cantora aspirante. Mas a Londres dessa década não é o que parece e logo o tempo começa a desmoronar com perigosas consequências. \n\n IMDB 7.0",
       "capa": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/nPWy5KISy7BbUOQcg588dflKzTL.jpg",
@@ -624,7 +304,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f20",
+      "id": "f48",
       "titulo": "Antes de Dormir",
       "descricao": "Dia após dia, Christine Lucas desperta sem se lembrar de absolutamente nada que aconteceu em sua vida nos últimos 20 anos. Isto acontece devido a um acidente sofrido uma década atrás, que fez com que seu cérebro não consiga reter as informações recebidas ao longo do dia. Com isso, cabe ao seu marido Ben a tarefa de relembrá-la de sua vida, através de um mural de fotos e detalhes do passado. Além disto, ela passa por uma terapia sigilosa com o dr. Nasch, que procura incitá-la a ter lembranças sobre o que aconteceu. Só que, aos poucos, ela percebe que nem tudo é o que parece ser. \n\n IMDB 6.3",
       "capa": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/psHB4pXjyXXKIyJ9ObXf5JB28P9.jpg",
@@ -634,7 +314,7 @@
       "tipo": "filme"
     },
 	 {
-      "id": "f19",
+      "id": "f47",
       "titulo": "O Culto (2017)",
       "descricao": "Dois irmãos foram criados num culto religioso do qual fugiram quando Justin percebeu a possibilidade da ocorrência de um suicídio em massa. Dez anos depois, eles, recebem uma mensagem em vídeo bastante enigmática. Nela, um membro do culto fala de uma ‘ascensão’ iminente e então resolvem regressar ao local aonde eram realizados os cultos em busca de respostas. Mas, ao chegarem, descobrem que o ‘culto’ pode afinal não ser o que pensavam e começam a duvidar, inclusive, se serão bem-vindos. \n\n IMDB 6.5",
       "capa": "https://static.filmin.es/images/es/media/23471/5/still_0_3_1920x1080.jpg",
@@ -644,7 +324,7 @@
       "tipo": "filme"
      }, 
 	{
-      "id": "f20",
+      "id": "f46",
       "titulo": "Amnésia (2000)",
       "descricao": "Leonard está caçando o homem que estuprou e matou sua esposa. Ele tem dificuldades em encontrar o assassino pois sofre de uma forma intratável de perda de memória. Mesmo que ele possa lembrar detalhes da vida antes do acidente, Leonard não consegue lembrar o que aconteceu quinze minutos atrás, onde está indo ou a razão.\n\n IMDB 8.4",
       "capa": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
@@ -654,7 +334,7 @@
       "tipo": "filme"
     }, 
     {
-      "id": "f1",
+      "id": "f45",
       "titulo": "Mickey 17",
       "descricao": "Mickey faz parte de um programa espacial de colonização e sempre é enviado para missões perigosas, quase suicidas. Se morrer, ele é clonado e boa parte de suas memórias são recuperadas. Mas, após seis mortes, ele começa a entender o porquê de seu cargo nunca ter sido ocupado antes.\n\n IMDB 6.8",
       "capa": "https://hospicionerd.com.br/wp-content/uploads/2025/01/Mickey17.jpg",
@@ -664,7 +344,7 @@
       "tipo": "filme"
     },
     {
-      "id": "f2",
+      "id": "f44",
       "titulo": "Poder Paranormal",
       "descricao": "Margaret Matheson e Tom Buckley se especializam em desmascarar aqueles que afirmam possuir poderes psíquicos. Quando um vidente cego de fama internacional resolve retornar depois de 30 anos, os cientistas têm a missão de desacreditá-lo.\n\n IMDB 6.2",
       "capa": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/qrTDCybpf9vSg8RupxbwSd9SBcG.jpg",
@@ -674,7 +354,7 @@
       "tipo": "filme"
     },
     {
-      "id": "f3",
+      "id": "f43",
       "titulo": "O Convite",
       "descricao": "Uma tragédia abala o casal formado por Will e Eden. Eles perdem o filho pequeno e, desolada, Eden vai embora sem dar notícias. Dois anos mais tarde, ela volta a procurar o marido, acompanhada de outro homem, e totalmente diferente de como era antes. Durante um jantar, com Will, Eden e o novo companheiro de sua esposa, Will começa a suspeitar que os visitantes têm planos sinistros contra ele.\n\n IMDB 6.6",
       "capa": "https://www.em.com.br/emfoco/wp-content/uploads/2025/03/Demolidor-Renascido-DisneyPlus-1024x576.jpg",
@@ -684,7 +364,7 @@
       "tipo": "filme"
     },
     {
-    "id": "f4",
+    "id": "f42",
       "titulo": "The Shift - O Deslocamento",
       "descricao": "Kevin viaja por mundos para se reunir com o amor de sua vida, Molly. Quando um indivíduo misterioso conhecido apenas como O Benfeitor ameaça a sobrevivência de Kevin, ele luta para retornar ao mundo que conhece e à mulher que ama.\n\n IMDB 5.5",
       "capa": "https://i.imgur.com/FOszzXY.jpeg",
@@ -694,7 +374,7 @@
       "tipo": "filme"
     },
      {
-    "id": "f5",
+    "id": "f41",
       "titulo": "A Vila (2004)",
       "descricao": "Os habitantes de uma comunidade cercada por uma floresta temem que perigosas criaturas vivam lá. Eles acreditam que se ficarem fora da floresta nada vai acontecer. Quando uma das moradoras da vila fica doente, o menino que a ama ignora os mais velhos e decide ir até a cidade mais próxima em busca de remédio.\n\n IMDB 6.6",
       "capa": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/rVOv0FPIAPY8KNhjwhU47rubxwV.jpg",
@@ -704,7 +384,7 @@
       "tipo": "filme"
     },
      {
-    "id": "f6",
+    "id": "f40",
       "titulo": "Red Rooms: Obsessão Doentia",
       "descricao": "Kelly-Anne é uma modelo que fica obcecada pelo caso do serial killer Ludovic Chevalier. Ela busca o vídeo de uma das vítimas que se parece com ela, mas essa obsessão vai levá-la para um caminho sombrio.\n\n IMDB 7.1",
       "capa": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/83g3gkDw6oc2mxkyB8DSoXQZJHl.jpg",
@@ -714,7 +394,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f8",
+      "id": "f39",
       "titulo": "Mistério da Rua 7 (2010)",
       "descricao": "Um blecaute deixa a cidade de Detroit com apenas um grupo de pessoas que lutam para sobreviver, deixando sempre uma fonte de luz por perto.\n\n IMDB 4.9",
       "capa": "https://images.justwatch.com/backdrop/9618995/s1920/misterio-da-rua-7.webp",
@@ -724,7 +404,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f10",
+      "id": "f38",
       "titulo": "Extermínio (2002)",
       "descricao": "Uma praga transforma a maioria da humanidade em zumbis sedentos de sangue. Um grupo ainda não afetado se prepara para a mais perigosa jornada de suas vidas: tentar chegar a uma fortaleza militar em Manchester.\n\n IMDB 7.5",
       "capa": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/x085XrfEmU31QeXgMFttmuoGr0Y.jpg",
@@ -734,7 +414,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f13",
+      "id": "f37",
       "titulo": "A Princesa (2022)",
       "descricao": "Uma princesa obstinada recusa se casar com um cruel sociopata e por isso, acaba sequestrada e trancada em uma torre. Seu pretendente desprezado e vingativo quer tomar o trono, então a princesa corre para proteger sua família e salvar o reino.\n\n IMDB 5.7",
       "capa": "https://images.justwatch.com/backdrop/285848886/s1440/the-princess.webp",
@@ -744,7 +424,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f14",
+      "id": "f36",
       "titulo": "Um Contratempo (2017",
       "descricao": "Adrian acroda em um hotel, e encontra sua amante morta coberta de dinheiro. Ele recorre a melhor advogada de defesa, e eles tentam descobrir o que realmente aconteceu na noite anterior.\n\n IMDB 8.0",
       "capa": "https://images.justwatch.com/backdrop/5236870/s1440/contratiempo.webp%25202x",
@@ -754,7 +434,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f15",
+      "id": "f35",
       "titulo": "Refúgio do Medo (2014)",
       "descricao": "Um médico recém-formado em Harvard aceita um emprego em uma instituição mental. Logo, ele se apaixona por uma de suas colegas, o que não o permite perceber uma terrível mudança no quadro de funcionários.\n\n IMDB 6.8",
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/7t4OgKvzqfvDcB2nA6oPyEHWd2G.jpg",
@@ -764,7 +444,7 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f17",
+      "id": "f34",
       "titulo": "O Orfanato (2007)",
       "descricao": "Laura cresceu em um orfanato. Após seu casamento, ela adota Simón. Os três passam a morar na antiga casa que servia de orfanato para Laura. Depois que Simón desaparece misteriosamente, Laura começa a ouvir vozes. Ela acredita que podem ser vozes de espíritos, e são os únicos que podem ajudá-la a encontrar seu filho.\n\n IMDB 7.4",
       "capa": "https://images.justwatch.com/backdrop/11006157/s1440/o-orfanato.webp",
@@ -774,13 +454,334 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f18",
+      "id": "f33",
       "titulo": "Complicações do Amor (2014)",
       "descricao": "O casal Ethan e Sophie está junto há muitos anos, mas o casamento passa por um momento de crise. Tentando recuperar a intimidade, eles decidem fazer uma viagem durante um fim de semana, mas encontram algo muito diferente do que imaginavam.\n\n IMDB 7.0",
       "capa": "https://cinemaemcena.com.br/uploads/artigos/20180111194752.jpg",
       "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3PTrmfVegs3a2UOgjNJbkwHB1NA.jpg",
       "url": "http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt2756032.mp4",
       "categoria": "Drama",
+      "tipo": "filme"
+    }
+	  {
+      "id": "f32",
+      "titulo": "BBB - Câmera 1",
+      "descricao": "Big Brother Brasil é um reality show em que um grupo de participantes convive isolado em uma casa cheia de câmeras, competindo por provas, prêmios e imunidades. Cada semana, os confinados enfrentam eliminações decididas pelo público, em um jogo de estratégia, convivência e emoção, combinando entretenimento, polêmicas e surpresas.",
+      "capa": "https://i.imgur.com/Q6LDXGq.jpeg",
+      "imagem": "https://i.imgur.com/YczUUX4.jpeg",
+      "url": "https://s2.micineovs.com/BBB_01/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f31",
+      "titulo": "BBB - Câmera 2",
+      "descricao": "Big Brother Brasil é um reality show em que um grupo de participantes convive isolado em uma casa cheia de câmeras, competindo por provas, prêmios e imunidades. Cada semana, os confinados enfrentam eliminações decididas pelo público, em um jogo de estratégia, convivência e emoção, combinando entretenimento, polêmicas e surpresas.",
+      "capa": "https://i.imgur.com/Q6LDXGq.jpeg",
+      "imagem": "https://i.imgur.com/4EU6ino.jpeg",
+      "url": "https://s1.micineovs.com/BBB_02/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f30",
+      "titulo": "BBB - Câmera 3",
+      "descricao": "Big Brother Brasil é um reality show em que um grupo de participantes convive isolado em uma casa cheia de câmeras, competindo por provas, prêmios e imunidades. Cada semana, os confinados enfrentam eliminações decididas pelo público, em um jogo de estratégia, convivência e emoção, combinando entretenimento, polêmicas e surpresas.",
+      "capa": "https://i.imgur.com/Q6LDXGq.jpeg",
+      "imagem": "https://i.imgur.com/Ye5miAY.jpeg",
+      "url": "https://s1.micineovs.com/BBB_03/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f29",
+      "titulo": "BBB - Mosaico",
+      "descricao": "Big Brother Brasil é um reality show em que um grupo de participantes convive isolado em uma casa cheia de câmeras, competindo por provas, prêmios e imunidades. Cada semana, os confinados enfrentam eliminações decididas pelo público, em um jogo de estratégia, convivência e emoção, combinando entretenimento, polêmicas e surpresas.",
+      "capa": "https://i.imgur.com/Q6LDXGq.jpeg",
+      "imagem": "https://i.imgur.com/hkioCWm.jpeg",
+      "url": "https://s2.micineovs.com/BBB_04/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+{
+      "id": "f28",
+      "titulo": "BAND",
+      "descricao": "Band (Rede Bandeirantes) é uma emissora brasileira de televisão aberta com programação diversificada que combina jornalismo, esportes, entretenimento e variedades. O canal se destaca pela cobertura esportiva, programas de debates, atrações ao vivo, realities, culinária e informação, oferecendo conteúdo dinâmico e atual para diferentes públicos.",
+      "capa": "https://i.imgur.com/Uw3Srp0.jpeg",
+      "imagem": "https://i.imgur.com/Uw3Srp0.jpeg",
+      "url": "https://s1.micineovs.com/BAND/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f27",
+      "titulo": "CARTOON NETWORK",
+      "descricao": "Cartoon Network é um canal de televisão voltado para crianças e jovens, oferecendo uma programação divertida e criativa com desenhos animados, séries originais, animações clássicas e programas de humor. O canal combina entretenimento leve, aventuras e personagens icônicos que conquistam diferentes gerações.",
+      "capa": "https://i.imgur.com/XwFlLFC.jpeg",
+      "imagem": "https://i.imgur.com/30huQ5Z.jpeg",
+      "url": "https://s1.micineovs.com/CARTOONNETWORK/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f26",
+      "titulo": "CAZETV",
+      "descricao": "",
+      "capa": "https://static.poder360.com.br/2025/07/cazetv-logo-848x477.png",
+      "imagem": "https://i.imgur.com/V6n0AHB.jpeg",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1770501796/ei/RGKHadmUO7-b1sQPzKGsqAQ/ip/200.3.29.178/id/Mu84Y6VP0Ws.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr1---sn-xn25jv-bpbl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ctier/SPL/playlist_duration/30/manifest_duration/30/gcr/br/bui/AW-iu_obwGibo7a12uFWojaX8mXxqq5hSfFNCqbq3qJCw5teAhy3GkHA_rK16nBlFEAq8uwLmiKOVrhb/spc/q5xjPHnAgLXhKXnUoCRcfR4sjQAYduwiJBSRFAe3sl-TWeuGVIuUZEuQT7LV4Ube/vprv/1/playlist_type/DVR/initcwndbps/2035000/met/1770480197,/mh/v0/mm/44/mn/sn-xn25jv-bpbl/ms/lva/mv/m/mvi/1/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565681,51580968/mt/1770479814/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ctier,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJEij0EwRgIhALG9akhQ3vT0yzaVlX5aK_mc6uFiJp2FE5LmWrd5np-1AiEA2HpT5fOzTPNuU1EIcLwCf1o1FAJYIS3cc-SPpjhS2vw%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgWzkYgWkS2fJ6OkWmW_Z4jrYXiqr3b5Dqvf_paa5whukCIERYBef9DpWQrs0UdK9BUN3uIdFCMtHalMdESB9OISwA/playlist/index.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f25",
+      "titulo": "ESPN",
+      "descricao": "ESPN é um canal esportivo por assinatura que oferece cobertura completa de esportes nacionais e internacionais. A programação inclui transmissões ao vivo, notícias, análises, programas de debate, documentários e especiais sobre futebol, basquete, tênis, lutas, automobilismo e muito mais, conectando os fãs ao mundo do esporte 24 horas por dia.",
+      "capa": "https://i.imgur.com/z7mVzPV.jpeg",
+      "imagem": "https://i.imgur.com/lDTfLB1.jpeg",
+      "url": "https://s2.micineovs.com/ESPN1/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f24",
+      "titulo": "EU A PATROA E AS CRIANÇAS",
+      "descricao": "Eu, a Patroa e as Crianças é uma série de comédia familiar que acompanha Michael Kyle, um pai divertido e bem-humorado, tentando equilibrar sua vida profissional com os desafios de criar três filhos com personalidades muito diferentes. Entre confusões, mal-entendidos e lições de vida, cada episódio traz humor leve e situações do dia a dia de uma típica família americana.",
+      "capa": "https://i.imgur.com/acazdNK.jpeg",
+      "imagem": "https://i.imgur.com/AK4l1MK.jpeg",
+      "url": "https://s2.micineovs.com/EPC/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f23",
+      "titulo": "Food Network",
+      "descricao": "",
+      "capa": "https://i.imgur.com/Gxr5KEC.jpeg",
+      "imagem": "https://i.imgur.com/2WVnt3Y.jpeg",
+      "url": "https://load.fazoeli.co.za/token/3b21321b08a54591a2a9581829cae572/foodnetwork.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f22",
+      "titulo": "GOSPEL CARTOON",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/RBTcKkH.jpeg",
+      "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f21",
+      "titulo": "GOSPEL MOVIES TELEVISION",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/O9HNwxo.jpeg",
+      "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f20",
+      "titulo": "GLOBO",
+      "descricao": "TV Globo é a maior emissora de televisão do Brasil, com uma programação diversificada que inclui novelas, séries, filmes, jornalismo, esportes, realities e grandes eventos ao vivo. Reconhecida pela alta qualidade de produção e alcance nacional, a Globo acompanha o cotidiano do país com informação, entretenimento e conteúdos que marcam gerações.",
+      "capa": "https://i.imgur.com/7IAHTd2.jpeg",
+      "imagem": "https://i.imgur.com/U4kS4bz.jpeg",
+      "url": "https://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f19",
+      "titulo": "MASTERCHEF BRASIL",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/aQBW6UunAhsHeeTSnDPUjjx8HSZ.jpg",
+      "url": "https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f18",
+      "titulo": "MEGAPIX",
+      "descricao": "Megapix é um canal de televisão por assinatura dedicado exclusivamente a filmes, com uma programação variada que reúne grandes sucessos de bilheteria, clássicos do cinema e produções populares de ação, comédia, aventura e drama. O canal se destaca por suas sessões temáticas e maratonas especiais.",
+      "capa": "https://i.imgur.com/JgYTKHg.jpeg",
+      "imagem": "https://i.imgur.com/JgYTKHg.jpeg",
+      "url": "https://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f17",
+      "titulo": "MR BEAN",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg",
+      "url": "https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f16",
+      "titulo": "OS JETSONS",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/o0QVwZr7fDPQKF36HWt44mPrweL.jpg",
+      "url": "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f15",
+      "titulo": "PREMIERE CLUBES",
+      "descricao": "Premiere Clubes é um canal de pay-per-view dedicado à transmissão ao vivo de jogos de futebol dos principais campeonatos nacionais, com foco em clubes específicos. Oferece cobertura completa, narrações, comentários e análises, permitindo que os torcedores acompanhem cada lance de seus times favoritos em tempo real.",
+      "capa": "https://i.imgur.com/bsDf0Z4.jpeg",
+      "imagem": "https://i.imgur.com/bsDf0Z4.jpeg",
+      "url": "https://s1.micineovs.com/PREMIERECLUBES/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f14",
+      "titulo": "RECORD",
+      "descricao": "Record TV é uma emissora brasileira de televisão aberta com programação variada voltada ao entretenimento, informação e fé. Exibe novelas, realities, programas jornalísticos, atrações de auditório, séries, filmes e conteúdos religiosos, além de transmissões esportivas e eventos especiais. É uma das principais redes de TV do país, com alcance nacional.",
+      "capa": "https://i.imgur.com/0AoH2n4.jpeg",
+      "imagem": "https://i.imgur.com/0AoH2n4.jpeg",
+      "url": "https://s1.micineovs.com/RECORD/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f13",
+      "titulo": "SBT",
+      "descricao": "SBT (Sistema Brasileiro de Televisão) é um canal aberto de entretenimento com uma programação variada voltada para toda a família. Exibe novelas, programas de auditório, realities, humorísticos, jornalismo, filmes, séries e transmissões esportivas. Reconhecido por seu conteúdo popular e carismático, o SBT é uma das principais emissoras da televisão brasileira, levando informação e diversão para milhões de espectadores.",
+      "capa": "https://i.imgur.com/TRmZn0y.jpeg",
+      "imagem": "https://i.imgur.com/TRmZn0y.jpeg",
+      "url": "https://s2.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f12",
+      "titulo": "SPORTV1",
+      "descricao": "SporTV é um canal esportivo por assinatura dedicado à transmissão ao vivo e à cobertura completa dos principais eventos esportivos do Brasil e do mundo. A programação inclui futebol, esportes olímpicos, debates, análises, entrevistas e programas jornalísticos, oferecendo informação, profundidade e emoção para os fãs de esporte.",
+      "capa": "https://i.imgur.com/yyoqhv3.jpeg",
+      "imagem": "https://i.imgur.com/yyoqhv3.jpeg",
+      "url": "https://s1.micineovs.com/SPTV1/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	   {
+      "id": "f11",
+      "titulo": "SPORTV 2",
+      "descricao": "SporTV 2 é um canal esportivo dedicado à transmissão ao vivo e à cobertura completa de grandes eventos nacionais e internacionais. A programação inclui partidas de futebol, vôlei, basquete, esportes olímpicos, análises táticas, debates, entrevistas exclusivas e programas jornalísticos que aprofundam os principais acontecimentos do esporte. Ideal para quem quer acompanhar competições de alto nível com informação, opinião e qualidade técnica.",
+      "capa": "https://i.imgur.com/UjroRwv.jpeg",
+      "imagem": "https://i.imgur.com/UjroRwv.jpeg",
+      "url": "https://s1.micineovs.com/SPTV2/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f10",
+      "titulo": "SPORTV 3",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/Yyldxve.jpeg",
+      "url": "https://agropesca.live/live/sportv3/index.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	
+	{
+      "id": "f9",
+      "titulo": "TELECINE ACTION",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/FUWB3d4.jpeg",
+      "url": "https://image-storage-3005.imgcontent.xyz/live/telecineaction/index.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f8",
+      "titulo": "TELECINE CULT",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/SNrmO50.jpeg",
+      "url": "https://image-storage-3005.imgcontent.xyz/live/telecinecult/index.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f7",
+      "titulo": "TELECINE PIPOCA",
+      "descricao": "Telecine Pipoca é um canal de televisão por assinatura dedicado a filmes populares e grandes sucessos do cinema, com destaque para comédias, romances, aventuras e produções leves para toda a família. A programação traz títulos consagrados e sessões especiais perfeitas para curtir um bom filme a qualquer hora.",
+      "capa": "https://i.imgur.com/fuLkYjG.jpeg",
+      "imagem": "https://i.imgur.com/fuLkYjG.jpeg",
+      "url": "https://s1.micineovs.com/TELECINEPIPOCA/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f6",
+      "titulo": "TELECINE PREMIUM",
+      "descricao": "Telecine Premium é o principal canal da rede Telecine, dedicado à exibição de grandes estreias do cinema e sucessos recentes de bilheteria. A programação reúne filmes de alto destaque dos mais variados gêneros, oferecendo entretenimento de qualidade, lançamentos exclusivos e sessões especiais para quem busca os títulos mais aguardados.",
+      "capa": "https://i.imgur.com/GQJLLgx.jpeg",
+      "imagem": "https://i.imgur.com/GQJLLgx.jpeg",
+      "url": "https://s1.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f5",
+      "titulo": "TELECINE TOUCH",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/5Q5M7qE.jpeg",
+      "url": "https://image-storage-3005.imgcontent.xyz/live/telecinetouch/index.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f4",
+      "titulo": "TNT",
+      "descricao": "TNT é um canal de televisão por assinatura voltado ao entretenimento, com foco em filmes de sucesso, grandes franquias de Hollywood, séries populares e especiais temáticos. A programação traz ação, aventura, comédia e drama, além de eventos exclusivos e maratonas que agradam a diferentes públicos.",
+      "capa": "https://i.imgur.com/EKNRiW2.jpeg",
+      "imagem": "https://i.imgur.com/EKNRiW2.jpeg",
+      "url": "https://s1.micineovs.com/TNT/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },  
+	  {
+      "id": "f3",
+      "titulo": "TODO MUNDO ODEIA O CHRIS",
+      "descricao": "Todo Mundo Odeia o Chris é uma série de comédia inspirada na adolescência do comediante Chris Rock. Acompanhamos Chris, um adolescente inteligente e sarcástico, lidando com os desafios da escola, da família e dos amigos na década de 1980, sempre com muito humor e situações hilárias que misturam realidade e exagero cômico.",
+      "capa": "https://i.imgur.com/L8dIJgO.jpeg",
+      "imagem": "https://i.imgur.com/L8dIJgO.jpeg",
+      "url": "https://s1.micineovs.com/Chris24h/index.m3u8?token=16FOTt9Ae2m8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f2",
+      "titulo": "TRAVEL E FOOD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/3BdeAmO.jpeg",
+      "url": "https://pop.uniquetv.com.br/travelfood/tracks-v1a1/mono.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f1",
+      "titulo": "UNIVERSAL TV",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/lMHcFpD.jpeg",
+      "url": "https://image-storage-3005.imgcontent.xyz/live/universal/index.m3u8",
+      "categoria": "TV",
       "tipo": "filme"
     }
 	
