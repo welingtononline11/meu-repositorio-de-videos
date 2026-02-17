@@ -2,7 +2,7 @@
 	"versao": "1.5",
   "url_apk": "http://appfooddelivery.com.br/Nevers_2025_TV_1.4.apk",
 	
-  "categorias": ["séries", "Ficção científica", "Mistério", "Suspense", "Terror", "Terror Psicológico", "Thriller", "Thriller Policial", "Thriller Psicológico", "Drama", "Drama Policial", "Romance", "Ação", "Comédia", "TV", "A Fazenda"],
+  "categorias": ["séries", "Fantasia", "Ficção científica", "Mistério", "Suspense", "Terror", "Terror Psicológico", "Thriller", "Thriller Policial", "Thriller Psicológico", "Drama", "Drama Policial", "Romance", "Ação", "Comédia", "TV", "A Fazenda"],
   "filmes": [
 
 	  
@@ -789,6 +789,27 @@
 	
   "series": [
     {
+
+		"id": "s29",
+      "titulo": "Espíritos na Escola",
+      "descricao": "Uma adolescente presa na vida após a morte decide investigar seu desaparecimento com um grupo de outros alunos que também estão presos no limbo em sua escola.",
+      "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_face/vwbFFaMuPQdLXbjiGzc40Wd6nv6.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w500/mEbJH2eF7L8w22KWS5Krq6JV801.jpg",
+      "categoria": "séries",
+		"genero": "Fantasia",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 01,
+          "titulo": "Minha Pseudomorte",
+          "url": "https://series-as100.s3.us-east-005.backblazeb2.com/Espiritos%20na%20Escola_208397/S01/3901880_Espiritos%20na%20Escola%20S01E01.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/mWrcvysgwLKzF1B53AZcoErlx9k.jpg"	  
+
+			  }
+       ]
+    },
+    { 
 	  "id": "s28",
       "titulo": "O Urso",
       "descricao": "Carmy, um jovem chefe requintado, volta para Chicago para administrar a lanchonete de sua família. Enquanto ele luta para transformar a loja e a si mesmo, ele trabalha ao lado de uma equipe medíocre que acaba se transformando na sua família.",
