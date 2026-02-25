@@ -1856,58 +1856,67 @@
           "temporada": 1,
           "numero": 1,
           "titulo": "Nós somos nós",
-          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5154192_Pluribus S01E01.mp4"
+          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5154192_Pluribus S01E01.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/5abqAAPKjFDqmNwLb0sCtGlS8aj.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 2,
           "titulo": "Moça Pirata",
-          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964848_Pluribus%20S01E02.mp4"
+          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964848_Pluribus%20S01E02.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/3uTzBoc6zkcKRexqB6nEhQYOglb.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 3,
           "titulo": "Granada",
-          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964849_Pluribus S01E03.mp4"
+          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964849_Pluribus S01E03.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/b2PaM8KcHLS2TIwQOyTSyiIn9FF.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 4,
           "titulo": "Por favor, Carol",
-          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964850_Pluribus S01E04.mp4"
+          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964850_Pluribus S01E04.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/7HyFmXC7ydtA4aKzlimCPGLcdxJ.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 5,
           "titulo": "Tem Leite",
-          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964851_Pluribus S01E05.mp4"
+          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964851_Pluribus S01E05.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/7dQXHMP7irZNis7erI8mHL3p8Ve.jpg"
 			  },
 	      {
           "temporada": 1,
           "numero": 6,
           "titulo": "PDH",
-          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964852_Pluribus%20S01E06.mp4"
+          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964852_Pluribus%20S01E06.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/u7RyWMcyi3Fhyr5UPlyYFuVJTYP.jpg"
 
 			  },
 {
           "temporada": 1,
           "numero": 7,
           "titulo": "A Lacuna",
-          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964853_Pluribus%20S01E07.mp4"
+          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964853_Pluribus%20S01E07.mp4",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg"
 
 			  },
 {
           "temporada": 1,
           "numero": 8,
           "titulo": "Estratégia de Charme",
-          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964854_Pluribus%20S01E08.mp4"
+          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964854_Pluribus%20S01E08.mp4",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/d3uHwrDjnyfXv6Vradm88Xw2nV1.jpg"
 
 			  },
 {
           "temporada": 1,
           "numero": 9,
           "titulo": "La Chica o El Mundo",
-          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964855_Pluribus%20S01E09.mp4"
+          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964855_Pluribus%20S01E09.mp4",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/gykreh1ZKPlQDucTvrNOYf7Ccxp.jpg"
 
 			  }
        ]
