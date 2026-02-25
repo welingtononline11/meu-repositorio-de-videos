@@ -1879,14 +1879,35 @@
 	      {
           "temporada": 1,
           "numero": 5,
-          "titulo": "",
-          "url": ""
+          "titulo": "Tem Leite",
+          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964851_Pluribus S01E05.mp4"
 			  },
 	      {
           "temporada": 1,
-          "numero": 5,
-          "titulo": "",
-          "url": ""
+          "numero": 6,
+          "titulo": "PDH",
+          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964852_Pluribus%20S01E06.mp4"
+
+			  },
+{
+          "temporada": 1,
+          "numero": 7,
+          "titulo": "A Lacuna",
+          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964853_Pluribus%20S01E07.mp4"
+
+			  },
+{
+          "temporada": 1,
+          "numero": 8,
+          "titulo": "Estratégia de Charme",
+          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964854_Pluribus%20S01E08.mp4"
+
+			  },
+{
+          "temporada": 1,
+          "numero": 9,
+          "titulo": "La Chica o El Mundo",
+          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964855_Pluribus%20S01E09.mp4"
 
 			  }
        ]
