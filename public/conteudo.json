@@ -1753,7 +1753,7 @@
           "temporada": 2,
           "numero": 01,
           "titulo": "T2 Ep01 Deixe o Rio Correr",
-          "url": "https://series-vz20.s3.us-east-005.backblazeb2.com/Castle%20Rock_71116/S02/1906742_Castle%20Rock%20S02E01.mp4"
+          "url": "http://vodcinevs.com:80/series/108657.mp4"
 
 			  },
 	      {
@@ -1796,19 +1796,19 @@
           "temporada": 2,
           "numero": 08,
           "titulo": "T2 Ep08 Sujo",
-          "url": ""
+          "url": "http://vodcinevs.com:80/series/108664.mp4"
 			  },
 	      {
           "temporada": 2,
           "numero": 09,
           "titulo": "T2 Ep09 Caveat Emptor",
-          "url": ""
+          "url": "http://vodcinevs.com:80/series/108665.mp4"
 			  },
 	      {
           "temporada": 2,
           "numero": 10,
           "titulo": "T2 Ep10 Limpo",
-          "url": ""
+          "url": "http://vodcinevs.com:80/series/108666.mp4"
 			  }
        ]
     },
@@ -1897,7 +1897,7 @@
           "temporada": 1,
           "numero": 4,
           "titulo": "Por favor, Carol",
-          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964850_Pluribus S01E04.mp4",
+          "url": "https://series-ai98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964850_Pluribus S01E04.mp4",
 			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/7HyFmXC7ydtA4aKzlimCPGLcdxJ.jpg"
 	      },
 	      {
