@@ -6,6 +6,40 @@
   "filmes": [
 
 	  {
+      "id": "f83",
+      "titulo": "",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "",
+      "categoria": "",
+      "tipo": "filme"
+    },
+	  
+	  {
+      "id": "f82",
+      "titulo": "Em Um Piscar de Olhos",
+      "descricao": "Três histórias que atravessam milênios se cruzam, refletindo sobre esperança, conexão e o ciclo da vida.",
+      "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_face/uM5i623wwNfoGD97iwwQWQ7GlZL.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w500/460xBh6sxhl80TldOgaZSFc6Syq.jpg",
+      "url": "http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6341826.mp4",
+      "categoria": "Ficção científica",
+      "tipo": "filme"
+    },
+	  
+	  {
+      "id": "f81",
+      "titulo": "Anaconda",
+      "descricao": "Uma crise de meia-idade inspira Doug e Griff a irem até a floresta amazônica para refazer o filme favorito da juventude, mas tudo muda quando uma anaconda gigante de verdade aparece, transformando o cenário comicamente caótico em uma situação mortal. O filme que eles estão morrendo de vontade de fazer? Pode acabar matando-os.",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_face/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w440_and_h660_face/hRzpf8QELtzJnMt4SiDoFUmZ9KM.jpg",
+      "url": "http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt33244668.mp4",
+      "categoria": "Terror",
+      "tipo": "filme"
+    },
+
+	  
+	  {
       "id": "f80",
       "titulo": "Star Wars: O Despertar da Força",
       "descricao": "A queda de Darth Vader e do Império levou ao surgimento de uma nova força sombria: a Primeira Ordem. Eles procuram o jedi Luke Skywalker, desaparecido. A resistência tenta desesperadamente encontrá-lo antes para salvar a galáxia.",
@@ -22,7 +56,7 @@
       "descricao": "Devido a um inesperado bloqueio de neve, Ira é forçada a passar a noite na casa de seus pais. Lá, ela é obrigada a conviver com seu pai abusivo, que tornou sua infância um inferno, e sua mãe distante, que sempre foi condescendente com o abuso do marido. Enquanto a aldeia onde vivem sofre com um surto de uma nova cepa da COVID-19, Ira começa a ver seus pais de uma maneira que os outros habitantes não enxergam.",
       "capa": "https://i.imgur.com/cRjUmQ7.jpeg",
       "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/6W12WT2THoSVu2zAzXqlWyFaOmE.jpg",
-      "url": "https://filmes-ai10.s3.us-east-005.backblazeb2.com/Star Wars Episodio VIII Os Ultimos Jedi 2017_181808.mp4",
+      "url": "http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt23474110.mp4",
       "categoria": "Ficção científica",
       "tipo": "filme"
     },
@@ -104,7 +138,7 @@
       "descricao": "Millie é uma mulher passando por dificuldades que se sente aliviada com a chance de um novo começo como empregada doméstica de Nina e Andrew, um casal rico. Logo, ela descobre que os segredos da família são muito mais perigosos do que os seus.",
       "capa": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/gEHDCtR9PNZvLG70sFBYJCFznRY.jpg",
       "imagem": "https://image.tmdb.org/t/p/w440_and_h660_face/aoBcz7hOFPdJS9aWMr1z4Gk76rN.jpg",
-      "url": "https://fs9.vidnest.io/v/04/02400/f25way0tpdfw_x/x.mp4?t=1blAER34FbKmu3O1sH3oV46_EWsz3bpYcnK7CzdteTM&s=1770154440&e=43200&f=12004741&sp=1000&i=0.0&kmnr=132261193566",
+      "url": "http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27543632.mp4",
       "categoria": "Terror Psicológico",
       "tipo": "filme"
     },
