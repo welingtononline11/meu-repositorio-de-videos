@@ -965,21 +965,21 @@
           "temporada": 1,
           "numero": 1,
           "titulo": "Matinê",
-          "url": "https://series-ar49.s3.us-east-005.backblazeb2.com/Magnum_198178/S01/3678093_Magnum%20S01E01.mp4",
+          "url": "http://shd13.oneplayer.site/SHD13/198178/1x1.mp4",
 		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/2A3kWJ31dTBgoKKKNcN7CdGMGEW.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 2,
           "titulo": "Self-Tape",
-          "url": "https://series-ar49.s3.us-east-005.backblazeb2.com/Magnum_198178/S01/4924078_Magnum%20S01E02.mp4",
+          "url": "http://shd13.oneplayer.site/SHD13/198178/1x2.mp4",
 		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/70EKlIWAu8fWjbRufqJouHVb4Ca.jpg"	  
 	      },
 	      {
           "temporada": 1,
           "numero": 3,
           "titulo": "Pacoima",
-          "url": "https://series-ar49.s3.us-east-005.backblazeb2.com/Magnum_198178/S01/6594785_Magnum%20S01E03.mp4",
+          "url": "http://shd13.oneplayer.site/SHD13/198178/1x3.mp4",
 		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/9WdCvYevrOCJ0BTMsEQ8Sh5pRCV.jpg"	  
 	      },
 	      {
@@ -1021,56 +1021,6 @@
        ]
     },
     { 
-		"id": "s13",
-      "titulo": "A Fazenda Ao Vivo",
-      "descricao": "Sinais ao vivo do programa A Fazenda",
-      "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/zvNMbGzc2Z3khr7sAU2hBzydvaR.jpg",
-      "imagem": "https://i.imgur.com/GYnv82V.jpeg",
-      "categoria": "A Fazenda",
-		"genero": "A Fazenda",
-      "tipo": "serie",
-      "episodios": [
-        {
-          "temporada": 1,
-          "numero": 1,
-          "titulo": "Sinal 1",
-          "url": "https://embedcanais.store/W6JC5kV3ECqfznd01p1OrXXHFOprCeTspr/tracks-v1a1/mono.ts.m3u8"
-	      },
-	      {
-          "temporada": 1,
-          "numero": 2,
-          "titulo": "Sinal 2",
-          "url": "https://load.fazoeli.co.za/token/f4321df108a2ca022949a13283b9ef91/afazenda1.m3u8"
-	      },
-	      {
-          "temporada": 1,
-          "numero": 3,
-          "titulo": "Sinal 3",
-          "url": "https://canais.fazoeli.co.za/secret_key/8914ae433f31de74f7d21507b8b4fa42.m3u8"
-	      },
-	      {
-          "temporada": 1,
-          "numero": 4,
-          "titulo": "Sinal 4",
-          "url": "https://canais.fazoeli.co.za/secret_key/bbe5a6b817eff20e557f2665b4b96ad2.m3u8"
-	      },
-	      {
-          "temporada": 1,
-          "numero": 5,
-          "titulo": "Sinal 5",
-          "url": "http://kobe.kaseline.shop:2095/live5/afazenda175/chunks.m3u8?token=1759445255_9bea0d313ab9b72ac73c94a7cd516697c9fe98c4"
-			  },
-	      {
-          "temporada": 1,
-          "numero": 6,
-          "titulo": "Sinal 6",
-          "url": "http://kobe.kaseline.shop:2095/live5/afazenda176/chunks.m3u8?token=1759445255_8251d9a411ea3f205554cc69b171da763fd9bf9a"
-
-			  }
-       ]
-    },
-    { 
-		
             
 		"id": "s26",
       "titulo": "Percy Jackson e os Olimpianos",
@@ -1085,243 +1035,49 @@
           "temporada": 1,
           "numero": 1,
           "titulo": "Meu Jogo de Queimada com Canibais",
-          "url": "https://series-ar65.s3.us-east-005.backblazeb2.com/Percy%20Jackson%20e%20os%20Olimpianos_103540/S02/6404323_Percy%20Jackson%20e%20os%20Olimpianos%20S02E01.mp4",
+          "url": "http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/103540/1x1.mp4",
 		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/dUNti4mQNig3MtC0BcpH5QPek8U.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 2,
           "titulo": "O Ataque de Pombos Demoníacos",
-          "url": "https://series-ar65.s3.us-east-005.backblazeb2.com/Percy%20Jackson%20e%20os%20Olimpianos_103540/S02/6662151_Percy%20Jackson%20e%20os%20Olimpianos%20S02E02.mp4",
+          "url": "http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/103540/1x2.mp4",
 		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/rYoocDNgP1Yfy9J80elvMtwkV0t.jpg"	  
 	      },
 	      {
           "temporada": 1,
           "numero": 3,
           "titulo": "Nós Embarcamos a Princesa Andrômeda",
-          "url": "https://series-ar65.s3.us-east-005.backblazeb2.com/Percy%20Jackson%20e%20os%20Olimpianos_103540/S02/6662602_Percy%20Jackson%20e%20os%20Olimpianos%20S02E03.mp4",
+          "url": "http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/103540/1x3.mp4",
 	      "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/t63IO1kDdiXe8NLzIz4oZKfGAfb.jpg"	
 		  },
 	      {
           "temporada": 1,
           "numero": 4,
           "titulo": "Clarisse Detona Tudo",
-          "url": "",
+          "url": "http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/103540/1x4.mp4",
 	      "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/Ud7fBs4GBUrnRuiqo7CNmBDzDY.jpg"	
 		  },
 	      {
           "temporada": 1,
           "numero": 5,
           "titulo": "Nossa Estadia no Spa e Resort de C.C",
-          "url": "",
+          "url": "http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/103540/1x5.mp4",
 		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/2XYCq4DDoGk748Ce6UIHFKs5uzJ.jpg"	
 		  },
 	      {
           "temporada": 1,
           "numero": 6,
           "titulo": "Ninguém Consegue o Velocino",
-          "url": "",
+          "url": "http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/103540/1x6.mp4",
 		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/m04SYhVZFYcIMj68gYmiLzs5Oay.jpg"	  
 			  }
        ]
     },
     { 
 		
-		"id": "s25",
-      "titulo": "Stranger Things",
-      "descricao": "Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.",
-      "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_face/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
-      "imagem": "https://image.tmdb.org/t/p/w440_and_h660_face/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg",
-      "categoria": "séries",
-		"genero": "Ficção científica",
-      "tipo": "serie",
-      "episodios": [
-        {
-          "temporada": 2,
-          "numero": 1,
-          "titulo": "T2 Ep1 Capítulo um: Mad Max",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250983_Stranger%20Things%20S02E01.mp4"
-	      },
-	      {
-          "temporada": 2,
-          "numero": 2,
-          "titulo": "T2 EP2 Capítulo dois: Gostosura ou travessura, aberração",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250984_Stranger%20Things%20S02E02.mp4"
-	      },
-	      {
-          "temporada": 2,
-          "numero": 3,
-          "titulo": "T2 Ep3 Capítulo três: O girino",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250985_Stranger%20Things%20S02E03.mp4"
-	      },
-	      {
-          "temporada": 2,
-          "numero": 4,
-          "titulo": "T2 Ep4 Capítulo quatro: Will, o sábio",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250986_Stranger%20Things%20S02E04.mp4"
-	      },
-	      {
-          "temporada": 2,
-          "numero": 5,
-          "titulo": "T2 Ep5 Capítulo cinco: Dig Dug",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250987_Stranger%20Things%20S02E05.mp4"
-			  },
-	      {
-          "temporada": 2,
-          "numero": 6,
-          "titulo": "T2 Ep6 Capítulo seis: O espião",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250988_Stranger%20Things%20S02E06.mp4"
-
-			  },
-	      {
-          "temporada": 2,
-          "numero": 7,
-          "titulo": "T2 Ep7 Capítulo sete: A irmã perdida",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250989_Stranger%20Things%20S02E07.mp4"
-
-			  },
-	      {
-          "temporada": 2,
-          "numero": 8,
-          "titulo": "T2 Ep8 Capítulo oito: O Devorador de Mentes",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250990_Stranger%20Things%20S02E08.mp4"
-			  },
-	      {
-          "temporada": 2,
-          "numero": 9,
-          "titulo": "T2 Ep9 Capítulo nove: O portal",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S02/1250991_Stranger%20Things%20S02E09.mp4"
-			  },
-	      {
-          "temporada": 3,
-          "numero": 1,
-          "titulo": "T3 Ep1 Capítulo um: Está me ouvindo, Suzie?",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S03/1657328_Stranger%20Things%20S03E01.mp4"
-			   },
-	      {
-          "temporada": 3,
-          "numero": 2,
-          "titulo": "T3 Ep2 Capítulo dois: O caso dos ratos",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S03/1657329_Stranger%20Things%20S03E02.mp4"
-			   },
-	      {
-          "temporada": 3,
-          "numero": 3,
-          "titulo": "T3 Ep3 Capítulo três: A salva-vidas desaparecida",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S03/1657330_Stranger%20Things%20S03E03.mp4"
-			   },
-	      {
-          "temporada": 3,
-          "numero": 4,
-          "titulo": "T3 Ep4 Capítulo quatro: A prova da sauna",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S03/1657331_Stranger%20Things%20S03E04.mp4"
-			   },
-	      {
-          "temporada": 3,
-          "numero": 5,
-          "titulo": "T3 Ep5 Capítulo cinco: Os devorados",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S03/1657332_Stranger%20Things%20S03E05.mp4"
-			   },
-	      {
-          "temporada": 3,
-          "numero": 6,
-          "titulo": "T3 Ep6 Capítulo seis: E pluribus unum",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S03/1657333_Stranger%20Things%20S03E06.mp4"
-			   },
-	      {
-          "temporada": 3,
-          "numero": 7,
-          "titulo": "T3 Ep7 Capítulo sete: A mordida",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S03/1657334_Stranger%20Things%20S03E07.mp4"
-			   },
-	      {
-          "temporada": 3,
-          "numero": 8,
-          "titulo": "T3 Ep8 Capítulo oito: A batalha de Starcourt",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S03/1657335_Stranger%20Things%20S03E08.mp4"
-			  },
-	      {
-          "temporada": 4,
-          "numero": 1,
-          "titulo": "T4 Ep1 Capítulo um: O Clube Hellfire",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S04/2551221_Stranger%20Things%20S04E01.mp4"
-			  },
-	      {
-          "temporada": 4,
-          "numero": 2,
-          "titulo": "T4 Ep2 Capítulo dois: A maldição de Vecna",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S04/3325032_Stranger%20Things%20S04E02.mp4"
-			  },
-	      {
-          "temporada": 4,
-          "numero": 3,
-          "titulo": "T4 Ep3 Capítulo três: O monstro e a super-heroína",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S04/3325033_Stranger%20Things%20S04E03.mp4"
-			  },
-	      {
-          "temporada": 4,
-          "numero": 4,
-          "titulo": "T4 Ep4 Capítulo quatro: Querido Billy",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S04/3325035_Stranger%20Things%20S04E04.mp4"
-			  },
-	      {
-          "temporada": 4,
-          "numero": 5,
-          "titulo": "T4 Ep5 Capítulo cinco: Projeto Nina",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S04/3325036_Stranger%20Things%20S04E05.mp4"
-			  },
-	      {
-          "temporada": 4,
-          "numero": 6,
-          "titulo": "T4 Ep6 Capítulo seis: Mergulho",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S04/3325038_Stranger%20Things%20S04E06.mp4"
-			  },
-	      {
-          "temporada": 4,
-          "numero": 7,
-          "titulo": "T4 Ep7 Capítulo sete: O massacre no laboratório de Hawkins",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S04/3325040_Stranger%20Things%20S04E07.mp4"
-			  },
-	      {
-          "temporada": 4,
-          "numero": 8,
-          "titulo": "T4 Ep8 Capítulo oito: Papai",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S04/3325041_Stranger%20Things%20S04E08.mp4"
-			  },
-	      {
-          "temporada": 4,
-          "numero": 9,
-          "titulo": "T4 Ep9 Capítulo nove: E o plano de Onze",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S04/3325045_Stranger%20Things%20S04E09.mp4"
-			  },
-	      {
-          "temporada": 5,
-          "numero": 1,
-          "titulo": "T5 Ep1 Capítulo um: Missão de resgate",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S05/5477828_Stranger%20Things%20S05E01.mp4"
-			  },
-	      {
-          "temporada": 5,
-          "numero": 2,
-          "titulo": "T5 Ep2 Capítulo dois: O desaparecimento de...",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S05/5607045_Stranger%20Things%20S05E02.mp4"
-			  },
-	      {
-          "temporada": 5,
-          "numero": 3,
-          "titulo": "T5 Ep3 Capítulo três: A armadilha",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S05/5607046_Stranger%20Things%20S05E03.mp4"
-			  },
-	      {
-          "temporada": 5,
-          "numero": 4,
-          "titulo": "T5 Ep4 Capítulo quatro: Feiticeiro",
-          "url": "https://series-vz75.s3.us-east-005.backblazeb2.com/Stranger%20Things_66732/S05/5607047_Stranger%20Things%20S05E04.mp4"
-			  
-			  }
-       ]
-    },
-    {
+		
 	    "id": "s13",
       "titulo": "Castle Rock",
       "descricao": "Castle Rock combina a escala mitológica e a narrativa íntima de personagens das obras mais conhecidas de Stephen King, tecendo uma saga épica de luz e escuridão que ganha vida em uma pequena área nos bosques do estado norte-americano de Maine. \n\n IMDB 7.5",
@@ -1335,125 +1091,145 @@
           "temporada": 1,
           "numero": 1,
           "titulo": "T1 Ep1 Separação",
-          "url": "https://series-ar20.s3.us-east-005.backblazeb2.com/Castle%20Rock_71116/S01/1481339_Castle%20Rock%20S01E01.mp4"
+          "url": "https://series-ar20.s3.us-east-005.backblazeb2.com/Castle%20Rock_71116/S01/1481339_Castle%20Rock%20S01E01.mp4",
+			"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/iy9ZVejtgDSIaNoQLzC7ooK5Oq5.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 2,
           "titulo": "T1 Ep2 Habeas Corpus",
-          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1514042_Castle%20Rock%20S01E02.mp4"
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1514042_Castle%20Rock%20S01E02.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/e82Xs9jJjI3JihJWl6L78IqH8rz.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 3,
           "titulo": "T1 Ep3 Local Color",
-          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1514043_Castle%20Rock%20S01E03.mp4"
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1514043_Castle%20Rock%20S01E03.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/axdLYy6eon3W2yCiw8HrDo16upU.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 4,
           "titulo": "T1 Ep4 O Caixão",
-          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1515179_Castle%20Rock%20S01E04.mp4"
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1515179_Castle%20Rock%20S01E04.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/ixSUaXbFdOxrX6knTIKNsddWQhG.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 5,
           "titulo": "T1 Ep5 Colheita",
-          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1534662_Castle%20Rock%20S01E05.mp4"
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1534662_Castle%20Rock%20S01E05.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/hwIoPCtQMpwJQjgIucu4ysZVFVB.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 6,
           "titulo": "T1 Ep6 Filtro",
-          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1534663_Castle%20Rock%20S01E06.mp4"
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1534663_Castle%20Rock%20S01E06.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/cmkZL0Ivxn1HrA9SwhStesGXIRf.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 7,
           "titulo": "T1 Ep7 A Rainha",
-          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1535089_Castle%20Rock%20S01E07.mp4"
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1535089_Castle%20Rock%20S01E07.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/iKO1sxFrn6cNQBMJ4RGsaPEgx1y.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 8,
           "titulo": "T1 Ep8 O Passado Perfeito",
-          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1535090_Castle%20Rock%20S01E08.mp4"
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1535090_Castle%20Rock%20S01E08.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/mtvYOQ8QWtAPnD5e9tNzKJQY0hP.jpg"
 	     
 	      },
 	      {
           "temporada": 1,
           "numero": 9,
           "titulo": "T1 Ep9 Henry Deaver",
-          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1535091_Castle%20Rock%20S01E09.mp4"
+          "url": "https://seriesta.s3.us-west-004.backblazeb2.com/Castle%20Rock_71116/S01/1535091_Castle%20Rock%20S01E09.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/uv9L9y3oFPAFMciHo5p3d9pc1k6.jpg"
 	     
 	      },
 	      {
           "temporada": 1,
           "numero": 10,
           "titulo": "T1 Ep10 Romanos",
-          "url": "http://vodcinevs.com:80/series/108656.mp4"
+          "url": "http://vodcinevs.com:80/series/108656.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/pFEfW0k2CgTqXYi6oRyCvlCiNtL.jpg"
 
 			  },
 	      {
           "temporada": 2,
           "numero": 01,
           "titulo": "T2 Ep01 Deixe o Rio Correr",
-          "url": "http://vodcinevs.com:80/series/108657.mp4"
+          "url": "http://vodcinevs.com:80/series/108657.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/iWlaTGhMc9lEVqGXl9ds4Rioci.jpg"
 
 			  },
 	      {
           "temporada": 2,
           "numero": 02,
           "titulo": "T2 Ep02 Nova Jerusalém",
-          "url": "http://vodcinevs.com:80/series/108658.mp4"
+          "url": "http://vodcinevs.com:80/series/108658.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/2JMVnh0qzsgO3N60AHMmogvnOfa.jpg"
 			  },
 	      {
           "temporada": 2,
           "numero": 03,
           "titulo": "T2 Ep03 Laços que Unem",
-          "url": "http://vodcinevs.com:80/series/108659.mp4"
+          "url": "http://vodcinevs.com:80/series/108659.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/tOkX5ljWlemvmhd4GrPlZJxAjQO.jpg"
 			  },
 	      {
           "temporada": 2,
           "numero": 04,
           "titulo": "T2 Ep04 Restaurar a Esperança",
-          "url": "http://vodcinevs.com:80/series/108660.mp4"
+          "url": "http://vodcinevs.com:80/series/108660.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/8C9cXXZBM8ceozYjbYBOhC9UCfe.jpg"
 			  },
 	      {
           "temporada": 2,
           "numero": 05,
           "titulo": "T2 Ep05 Um Lugar Feliz",
-          "url": "http://vodcinevs.com:80/series/108661.mp4"
+          "url": "http://vodcinevs.com:80/series/108661.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/faHhjLHKOsn1c7SAqLnCuvRbU1t.jpg"
 			  },
 	      {
           "temporada": 2,
           "numero": 06,
           "titulo": "T2 Ep06 A Mãe",
-          "url": "http://vodcinevs.com:80/series/108662.mp4"
+          "url": "http://vodcinevs.com:80/series/108662.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/o03mgRccIKsVo9MSGMCx5O6hu2b.jpg"
 			  },
 	      {
           "temporada": 2,
           "numero": 07,
           "titulo": "T2 Ep07 A Palavra",
-          "url": "http://vodcinevs.com:80/series/108663.mp4"
+          "url": "http://vodcinevs.com:80/series/108663.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/apEJPLpntHjtI5LyvOApDZTCkwR.jpg"
 			  },
 	      {
           "temporada": 2,
           "numero": 08,
           "titulo": "T2 Ep08 Sujo",
-          "url": "http://vodcinevs.com:80/series/108664.mp4"
+          "url": "http://vodcinevs.com:80/series/108664.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/usNCYvsJkffPA8dGGeKZFONEmAd.jpg"
 			  },
 	      {
           "temporada": 2,
           "numero": 09,
           "titulo": "T2 Ep09 Caveat Emptor",
-          "url": "http://vodcinevs.com:80/series/108665.mp4"
+          "url": "http://vodcinevs.com:80/series/108665.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/mFqY0VpEBla7OpNEmibTeo1c8lo.jpg"
 			  },
 	      {
           "temporada": 2,
           "numero": 10,
           "titulo": "T2 Ep10 Limpo",
-          "url": "http://vodcinevs.com:80/series/108666.mp4"
+          "url": "http://vodcinevs.com:80/series/108666.mp4",
+			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/oRvvslU6hgC5A3r0lmoHy28E8YI.jpg"
 			  }
        ]
     },
@@ -1472,37 +1248,42 @@
           "temporada": 1,
           "numero": 1,
           "titulo": "Episódio Um",
-          "url": "https://series-vz06.s3.us-east-005.backblazeb2.com/A Mulher do Viajante no Tempo_81322/S01/1536334_A Mulher do Viajante no Tempo S01E01.mp4"
+          "url": "https://series-vz06.s3.us-east-005.backblazeb2.com/A Mulher do Viajante no Tempo_81322/S01/1536334_A Mulher do Viajante no Tempo S01E01.mp4",
+			"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/qhLpeg6rha5qGyYBLLquciv5yIa.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 2,
           "titulo": "Episódio Dois",
-          "url": ""
+          "url": "",
+			"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/6eXVS1ScVWaKES7NlHcOF43BHTZ.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 3,
           "titulo": "Episódio Três",
-          "url": ""
+          "url": "",
+			"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/pAZn5pawcWDAtxGNz8Ww0a2TXGd.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 4,
           "titulo": "Episódio Quatro",
-          "url": ""
+          "url": "",
+			"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/xTqA2dTIlf0z60ObTQBamdDa9f.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 5,
           "titulo": "Episódio Cinco",
-          "url": ""
+          "url": "https://media.themoviedb.org/t/p/w227_and_h127_face/trf9MCWIailJj3q3WvBLTyptCSz.jpg"
 			  },
 	      {
           "temporada": 1,
           "numero": 6,
           "titulo": "Episódio Seis",
-          "url": ""
+          "url": "",
+			"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/AtnJ99rtHSO6qLnxqxM8h49qHyy.jpg"
 
 			  }
        ]
@@ -1535,7 +1316,7 @@
           "temporada": 1,
           "numero": 3,
           "titulo": "Granada",
-          "url": "https://series-as98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964849_Pluribus S01E03.mp4",
+          "url": "https://series-ai98.s3.us-east-005.backblazeb2.com/Pluribus_225171/S01/5964849_Pluribus S01E03.mp4",
 			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/b2PaM8KcHLS2TIwQOyTSyiIn9FF.jpg"
 	      },
 	      {
