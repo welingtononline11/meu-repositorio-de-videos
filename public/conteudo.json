@@ -5,16 +5,6 @@
   "categorias": ["séries", "Fantasia", "Ficção científica", "Mistério", "Suspense", "Terror", "Terror Psicológico", "Thriller", "Thriller Policial", "Thriller Psicológico", "Drama", "Drama Policial", "Romance", "Ação", "Comédia", "TV", "A Fazenda"],
   "filmes": [
 
-	  {
-      "id": "f83",
-      "titulo": "",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "",
-      "categoria": "",
-      "tipo": "filme"
-    },
 	  
 	  {
       "id": "f82",
@@ -855,6 +845,83 @@
   "series": [
     {
 
+		"id": "s30",
+      "titulo": "Nove Desconhecidos",
+      "descricao": "Frustrados com suas vidas, nove estranhos embarcam em um programa de relaxamento e espiritualidade criado por um SPA de luxo, mas ao longo dos dias eles percebem que a experiência pode acabar colocando suas vidas e sanidade em perigo.",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_face/RzCw9LQyAcoa9mn4xkEAyuvhgr.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w500/fJ8bwi8z044qpHHFoyMFnPts4QW.jpg",
+      "categoria": "séries",
+		"genero": "Mistério",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 2,
+          "numero": 1,
+          "titulo": "Floresta Encantada",
+          "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/88989/2x1.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/5gdGSFkmG2b7MmowzhJErMqgpDL.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 2,
+          "titulo": "O Clube Crabapple",
+          "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/88989/2x2.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/2dgzDBr2iyzmm0BPN29RJqazlRe.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 3,
+          "titulo": "A excursão",
+          "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/88989/2x3.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/jZ7hWmgzomR3tuKh0OAhJsmKfG8.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 4,
+          "titulo": "O Elevador Principal",
+          "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/88989/2x4.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/dge4xjuSvczjR4muEOzmvevWplV.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 5,
+          "titulo": "Praga",
+          "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/88989/2x5.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/2Cxc2tNZ3FW3TnkfHKtEHV8bzrV.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 6,
+          "titulo": "O Outro Lado",
+          "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/88989/2x6.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/mIzfz2KYrW5710pIkKYwX8lJ67q.jpg"	  
+
+			  },
+		  {
+          "temporada": 2,
+          "numero": 7,
+          "titulo": "Fusões e aquisições",
+          "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/88989/2x7.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/76DIbAP0GfQ8eqYWVkMt4uLSnWx.jpg"	  
+
+			  },
+		  {
+          "temporada": 2,
+          "numero": 8,
+          "titulo": "Nunca mude",
+          "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/88989/2x8.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/y4fg3vuwRVPgvpgFsaLnzX3WhjW.jpg"	  
+
+			  }
+       ]
+    },
+    { 
+		
 		"id": "s29",
       "titulo": "Espíritos na Escola",
       "descricao": "Uma adolescente presa na vida após a morte decide investigar seu desaparecimento com um grupo de outros alunos que também estão presos no limbo em sua escola.",
