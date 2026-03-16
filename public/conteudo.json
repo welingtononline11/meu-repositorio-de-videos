@@ -1498,57 +1498,57 @@
           "temporada": 1,
           "numero": 1,
           "titulo": "Wildcat Caiu",
-          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5134413_Paradise S01E01.mp4",
-	"imagem": ""
+          "url": "http://shd12.oneplayer.site/token/SHD12/245927/1x1.mp4",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/nxQvawxQGMS2tYOVxoX2WcUFdQz.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 2,
           "titulo": "Sinatra",
-          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5795561_Paradise S01E02.mp4",
-	"imagem": ""
+          "url": "http://shd12.oneplayer.site/token/SHD12/245927/1x2.mp4",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/AaprHET2NOxTPQmzvTzn7kj0t4a.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 3,
           "titulo": "A Arquiteta do Bem-estar Social",
-          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5795562_Paradise S01E03.mp4",
-	"imagem": ""
+          "url": "http://shd12.oneplayer.site/token/SHD12/245927/1x3.mp4",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/yVVL5CSjRIuJuzwp04ghEfRAz0s.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 4,
           "titulo": "Agente Billy Pace",
-          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5813218_Paradise S01E04.mp4",
-	"imagem": ""
+          "url": "http://shd12.oneplayer.site/token/SHD12/245927/1x4.mp4",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/8rXULOzGqBiSK4LZTFyJkLBk5qk.jpg"
 	      },
 	      {
           "temporada": 1,
           "numero": 5,
           "titulo": "Nos Palácios de Reis Coroados",
-          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5813219_Paradise S01E05.mp4",
-	"imagem": ""
+          "url": "http://shd12.oneplayer.site/token/SHD12/245927/1x5.mp4",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/zGcORguODT4h85MOAmkLhx3Lfyq.jpg"
 			  },
 	      {
           "temporada": 1,
           "numero": 6,
           "titulo": "Você Pediu Milagres",
-          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5813220_Paradise S01E06.mp4",
-	"imagem": ""
+          "url": "http://shd12.oneplayer.site/token/SHD12/245927/1x6.mp4",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/5HNIOzGkXAyp8qyTOK4kg0OnwQ.jpg"
 			  },
 	      {
           "temporada": 1,
           "numero": 7,
           "titulo": "O Dia Fatídico",
-          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5813221_Paradise S01E07.mp4",
-	"imagem": ""
+          "url": "http://shd12.oneplayer.site/token/SHD12/245927/1x7.mp4",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/hXIzbxpJpVy6Prvc5tbC6MPoZTz.jpg"
 			  },
 	      {
           "temporada": 1,
           "numero": 8,
           "titulo": "O Homem que Guardava os Segredos",
-          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5813222_Paradise S01E08.mp4",
-	"imagem": ""
+          "url": "http://shd12.oneplayer.site/token/SHD12/245927/1x8.mp4",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/1ZqroIZYHOa7mgthXGWVuGTCo0i.jpg"
 
 			  },
 		  {
@@ -1582,16 +1582,30 @@
 		  {
           "temporada": 2,
           "numero": 5,
-          "titulo": "",
-          "url": "",
-	"imagem": ""
+          "titulo": "O Carteiro",
+          "url": "http://shd12.oneplayer.site/token/SHD12/245927/2x5.mp4",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/gMnJk4u9bWv1wod1uxfavauIISC.jpg"
 			  },
 		  {
           "temporada": 2,
           "numero": 6,
-          "titulo": "",
+          "titulo": "Jane(INDISPONÍVEL)",
           "url": "",
-	"imagem": ""
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/sSo7boccrSegvUHNGukG678HrIh.jpg"
+			  },
+		  {
+          "temporada": 2,
+          "numero": 7,
+          "titulo": "A contagem regressiva final",
+          "url": "",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/ffUiMO9iCQedUanx4rrM1Z4Fkt9.jpg"
+			  },
+		  {
+          "temporada": 2,
+          "numero": 8,
+          "titulo": "Êxodo",
+          "url": "",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/u5LN3IbmcLcF7E5P6X88AgdOgXG.jpg"
 
 			   }
        ]
