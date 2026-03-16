@@ -1498,49 +1498,100 @@
           "temporada": 1,
           "numero": 1,
           "titulo": "Wildcat Caiu",
-          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5134413_Paradise S01E01.mp4"
+          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5134413_Paradise S01E01.mp4",
+	"imagem": ""
 	      },
 	      {
           "temporada": 1,
           "numero": 2,
           "titulo": "Sinatra",
-          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5795561_Paradise S01E02.mp4"
+          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5795561_Paradise S01E02.mp4",
+	"imagem": ""
 	      },
 	      {
           "temporada": 1,
           "numero": 3,
           "titulo": "A Arquiteta do Bem-estar Social",
-          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5795562_Paradise S01E03.mp4"
+          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5795562_Paradise S01E03.mp4",
+	"imagem": ""
 	      },
 	      {
           "temporada": 1,
           "numero": 4,
           "titulo": "Agente Billy Pace",
-          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5813218_Paradise S01E04.mp4"
+          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5813218_Paradise S01E04.mp4",
+	"imagem": ""
 	      },
 	      {
           "temporada": 1,
           "numero": 5,
           "titulo": "Nos Palácios de Reis Coroados",
-          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5813219_Paradise S01E05.mp4"
+          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5813219_Paradise S01E05.mp4",
+	"imagem": ""
 			  },
 	      {
           "temporada": 1,
           "numero": 6,
           "titulo": "Você Pediu Milagres",
-          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5813220_Paradise S01E06.mp4"
+          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5813220_Paradise S01E06.mp4",
+	"imagem": ""
 			  },
 	      {
           "temporada": 1,
           "numero": 7,
           "titulo": "O Dia Fatídico",
-          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5813221_Paradise S01E07.mp4"
+          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5813221_Paradise S01E07.mp4",
+	"imagem": ""
 			  },
 	      {
           "temporada": 1,
           "numero": 8,
           "titulo": "O Homem que Guardava os Segredos",
-          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5813222_Paradise S01E08.mp4"
+          "url": "https://series-ta62.s3.us-east-005.backblazeb2.com/Paradise_245927/S01/5813222_Paradise S01E08.mp4",
+	"imagem": ""
+
+			  },
+		  {
+          "temporada": 2,
+          "numero": 1,
+          "titulo": "Graceland",
+          "url": "http://shd12.oneplayer.site/token/SHD12/245927/2x1.mp4",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/6BctnBvrEBdRfkhILd1cvix7WCX.jpg"
+			  },
+		  {
+          "temporada": 2,
+          "numero": 2,
+          "titulo": "Mayday",
+          "url": "http://shd12.oneplayer.site/token/SHD12/245927/2x2.mp4",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/dHAnbIgM8BbtR6t9LFCcIpBdRF4.jpg"
+			  },
+		  {
+          "temporada": 2,
+          "numero": ,
+          "titulo": "Mais Um Dia no Paraíso",
+          "url": "http://shd12.oneplayer.site/token/SHD12/245927/2x3.mp4",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/uIfgNiXbJFboCxemOtlTf9AdjYB.jpg"
+			  },
+		  {
+          "temporada": 2,
+          "numero": ,
+          "titulo": "Uma Missão Sagrada",
+          "url": "http://shd12.oneplayer.site/token/SHD12/245927/2x4.mp4",
+	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/hUP9sQh2QjuRMgirHjlT1bwrcMs.jpg"
+			  },
+		  {
+          "temporada": 2,
+          "numero": ,
+          "titulo": "",
+          "url": "",
+	"imagem": ""
+			  },
+		  {
+          "temporada": 2,
+          "numero": ,
+          "titulo": "",
+          "url": "",
+	"imagem": ""
 
 			  }
        ]
