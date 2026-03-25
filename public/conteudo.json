@@ -518,324 +518,755 @@
       "categoria": "Drama",
       "tipo": "filme"
     },
+	  
+    {
+      "id": "f73",
+      "titulo": "24H Aeroporto Area Restrit",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38026",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f72",
+      "titulo": "24H As Visões da Raven",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38027",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f71",
+      "titulo": "24H Big Bang: A Teoria",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38018",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f70",
+      "titulo": "24H Bob Esponja Calça Qui",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38005",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f69",
+      "titulo": "24H Chaves",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38001",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f68",
+      "titulo": "24H Digimon Adventure",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38016",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f67",
+      "titulo": "24H Dois Homens e Meio",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38004",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
 	  {
+      "id": "f671",
+      "titulo": "24H Eu a Patroa e as Crianças",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38003",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f66",
+      "titulo": "24H Filmes Ação",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38028",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f65",
+      "titulo": "24H Filmes Animação Infar",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38029",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f64",
+      "titulo": "24H Filmes Comédia",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38030",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f63",
+      "titulo": "24H Filmes Lançamentos",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38034",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f62",
+      "titulo": "24H Filmes Suspense",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38033",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f61",
+      "titulo": "24H Futurama",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38023",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f60",
+      "titulo": "24H iCarly Revival",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38009",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f59",
+      "titulo": "24H Largados e Pelados",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38013",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f58",
+      "titulo": "24H Os Simpsons",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38000",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f57",
+      "titulo": "24H Todo Mundo Odeia o C",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38014",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f56",
+      "titulo": "24H Um Maluco no Pedaço",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/38008",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+
+    {
+      "id": "f55",
+      "titulo": "A&E FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/12000",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f54",
+      "titulo": "AMC FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/13000",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f53",
+      "titulo": "Amazon Prime Video 01",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/19021",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f52",
+      "titulo": "AXN FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/13003",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f51",
+      "titulo": "Cine SKY 01",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/16000",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f50",
+      "titulo": "Cinemax FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/13009",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f49",
+      "titulo": "Combate FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/19006",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f48",
+      "titulo": "DAZN 1",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/19028",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f47",
+      "titulo": "Discovery H&H FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/12012",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f46",
+      "titulo": "Disney+ 1",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/19041",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f45",
+      "titulo": "Disney+ 2",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/19042",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f44",
+      "titulo": "ESPN FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/22000",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f43",
+      "titulo": "ESPN 2 FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/22003",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f42",
+      "titulo": "ESPN 3 FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/22006",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f41",
+      "titulo": "ESPN 4 FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/22009",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f40",
+      "titulo": "ESPN 5 FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/22012",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f39",
+      "titulo": "ESPN 6 FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/22015",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f38",
+      "titulo": "Food Network FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/12024",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f37",
+      "titulo": "HBO FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/14000",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f36",
+      "titulo": "HBO Family FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/14006",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f35",
+      "titulo": "HBO Mundi FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/14009",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f34",
+      "titulo": "HBO Plus FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/14012",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f33",
+      "titulo": "HBO Pop FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/14015",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
       "id": "f32",
-      "titulo": "BBB - Câmera 1",
-      "descricao": "Big Brother Brasil é um reality show em que um grupo de participantes convive isolado em uma casa cheia de câmeras, competindo por provas, prêmios e imunidades. Cada semana, os confinados enfrentam eliminações decididas pelo público, em um jogo de estratégia, convivência e emoção, combinando entretenimento, polêmicas e surpresas.",
-      "capa": "https://i.imgur.com/Q6LDXGq.jpeg",
-      "imagem": "https://i.imgur.com/YczUUX4.jpeg",
-      "url": "https://s2.micineovs.com/BBB_01/index.m3u8?token=16FOTt9Ae2m8",
+      "titulo": "HBO Signature FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/14018",
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
+    {
       "id": "f31",
-      "titulo": "BBB - Câmera 2",
-      "descricao": "Big Brother Brasil é um reality show em que um grupo de participantes convive isolado em uma casa cheia de câmeras, competindo por provas, prêmios e imunidades. Cada semana, os confinados enfrentam eliminações decididas pelo público, em um jogo de estratégia, convivência e emoção, combinando entretenimento, polêmicas e surpresas.",
-      "capa": "https://i.imgur.com/Q6LDXGq.jpeg",
-      "imagem": "https://i.imgur.com/4EU6ino.jpeg",
-      "url": "https://s1.micineovs.com/BBB_02/index.m3u8?token=16FOTt9Ae2m8",
+      "titulo": "HBO Xtreme FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/14021",
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
+    {
       "id": "f30",
-      "titulo": "BBB - Câmera 3",
-      "descricao": "Big Brother Brasil é um reality show em que um grupo de participantes convive isolado em uma casa cheia de câmeras, competindo por provas, prêmios e imunidades. Cada semana, os confinados enfrentam eliminações decididas pelo público, em um jogo de estratégia, convivência e emoção, combinando entretenimento, polêmicas e surpresas.",
-      "capa": "https://i.imgur.com/Q6LDXGq.jpeg",
-      "imagem": "https://i.imgur.com/Ye5miAY.jpeg",
-      "url": "https://s1.micineovs.com/BBB_03/index.m3u8?token=16FOTt9Ae2m8",
+      "titulo": "Lifetime FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/12030",
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
+    {
       "id": "f29",
-      "titulo": "BBB - Mosaico",
-      "descricao": "Big Brother Brasil é um reality show em que um grupo de participantes convive isolado em uma casa cheia de câmeras, competindo por provas, prêmios e imunidades. Cada semana, os confinados enfrentam eliminações decididas pelo público, em um jogo de estratégia, convivência e emoção, combinando entretenimento, polêmicas e surpresas.",
-      "capa": "https://i.imgur.com/Q6LDXGq.jpeg",
-      "imagem": "https://i.imgur.com/hkioCWm.jpeg",
-      "url": "https://s2.micineovs.com/BBB_04/index.m3u8?token=16FOTt9Ae2m8",
+      "titulo": "Megapix FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/13015",
       "categoria": "TV",
       "tipo": "filme"
     },
-{
+    {
       "id": "f28",
-      "titulo": "BAND",
-      "descricao": "Band (Rede Bandeirantes) é uma emissora brasileira de televisão aberta com programação diversificada que combina jornalismo, esportes, entretenimento e variedades. O canal se destaca pela cobertura esportiva, programas de debates, atrações ao vivo, realities, culinária e informação, oferecendo conteúdo dinâmico e atual para diferentes públicos.",
-      "capa": "https://i.imgur.com/Uw3Srp0.jpeg",
-      "imagem": "https://i.imgur.com/Uw3Srp0.jpeg",
-      "url": "https://s1.micineovs.com/BAND/index.m3u8?token=16FOTt9Ae2m8",
+      "titulo": "Modo Viagem FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/12033",
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
+    {
       "id": "f27",
-      "titulo": "CARTOON NETWORK",
-      "descricao": "Cartoon Network é um canal de televisão voltado para crianças e jovens, oferecendo uma programação divertida e criativa com desenhos animados, séries originais, animações clássicas e programas de humor. O canal combina entretenimento leve, aventuras e personagens icônicos que conquistam diferentes gerações.",
-      "capa": "https://i.imgur.com/XwFlLFC.jpeg",
-      "imagem": "https://i.imgur.com/30huQ5Z.jpeg",
-      "url": "https://s1.micineovs.com/CARTOONNETWORK/index.m3u8?token=16FOTt9Ae2m8",
+      "titulo": "Paramount+ 1",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/19071",
       "categoria": "TV",
       "tipo": "filme"
     },
-	  {
+    {
       "id": "f26",
-      "titulo": "CAZETV",
+      "titulo": "Paramount+ 2",
       "descricao": "",
-      "capa": "https://static.poder360.com.br/2025/07/cazetv-logo-848x477.png",
-      "imagem": "https://i.imgur.com/V6n0AHB.jpeg",
-      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771813386/ei/qmWbaaD2DZuH1sQPxfjQwAU/ip/200.3.29.193/id/bHxW6ykAfGU.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr2---sn-xn25jv-bpbl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/AVNa5-zln5HlzPGI0nkG3FTxLJxg1Sv-4XbBFNhHSc8jVc5TRnkfZ6pEns1yMd1vD2GCGt4BnV6z1Frt/spc/6dlaFBU21WPuq6ytk-zK3u2C-baIIATdsCl_CgoT0yA8tPNa1Sc6jLuELncux0tg/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/1610000/met/1771791786,/mh/L0/mm/44/mn/sn-xn25jv-bpbl/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/22/rmhost/rr1---sn-xn25jv-bpbl.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565681,51580968/mt/1771791403/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,reg,playlist_type/sig/AJEij0EwRAIgfOre8-Z7lg_u8UHDxMR_bl4dAAZDh3Q0D0xvxC7gA9kCIClpaIJZHpiGwrmPWhD1wS4lRA8jPqdnMXf0_oRF0iw3/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rmhost,rms/lsig/APaTxxMwRQIhAJWrZ752XCkisLap7dayPKCUIPs6RDVq70ESoRu9pyj8AiAC7y-zhNspLg4JB7VHPPxLhLj3oY50iL-nOmUMGfxp0g%3D%3D/playlist/index.m3u8",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/19072",
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
+    {
       "id": "f25",
-      "titulo": "ESPN",
-      "descricao": "ESPN é um canal esportivo por assinatura que oferece cobertura completa de esportes nacionais e internacionais. A programação inclui transmissões ao vivo, notícias, análises, programas de debate, documentários e especiais sobre futebol, basquete, tênis, lutas, automobilismo e muito mais, conectando os fãs ao mundo do esporte 24 horas por dia.",
-      "capa": "https://i.imgur.com/z7mVzPV.jpeg",
-      "imagem": "https://i.imgur.com/lDTfLB1.jpeg",
-      "url": "https://s2.micineovs.com/ESPN1/index.m3u8?token=16FOTt9Ae2m8",
+      "titulo": "Premiere 1 FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/20000",
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
+    {
       "id": "f24",
-      "titulo": "EU A PATROA E AS CRIANÇAS",
-      "descricao": "Eu, a Patroa e as Crianças é uma série de comédia familiar que acompanha Michael Kyle, um pai divertido e bem-humorado, tentando equilibrar sua vida profissional com os desafios de criar três filhos com personalidades muito diferentes. Entre confusões, mal-entendidos e lições de vida, cada episódio traz humor leve e situações do dia a dia de uma típica família americana.",
-      "capa": "https://i.imgur.com/acazdNK.jpeg",
-      "imagem": "https://i.imgur.com/AK4l1MK.jpeg",
-      "url": "https://s2.micineovs.com/EPC/index.m3u8?token=16FOTt9Ae2m8",
+      "titulo": "Premiere 2 FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/20003",
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
+    {
       "id": "f23",
-      "titulo": "Food Network",
+      "titulo": "Premiere 3 FHD",
       "descricao": "",
-      "capa": "https://i.imgur.com/Gxr5KEC.jpeg",
-      "imagem": "https://i.imgur.com/2WVnt3Y.jpeg",
-      "url": "https://lpnba.akamaized.net/live-pz/p/hls-wvpr/g0022500857min1000444lac/index.m3u8?start=LIVE&end=END&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%252F5.0%2520(Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F106.0.0.0%2520Safari%252F537.36&dai-debug=false&sessionId=8e88876a-2f10-837c-e4d0-fb72b0c7bfe5",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/20006",
       "categoria": "TV",
       "tipo": "filme"
     },
-	  {
+    {
       "id": "f22",
-      "titulo": "GOSPEL CARTOON",
+      "titulo": "Premiere 4 FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/RBTcKkH.jpeg",
-      "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/20009",
       "categoria": "TV",
       "tipo": "filme"
     },
-	  {
+    {
       "id": "f21",
-      "titulo": "GOSPEL MOVIES TELEVISION",
+      "titulo": "Premiere 5 FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/O9HNwxo.jpeg",
-      "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/20012",
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
+    {
       "id": "f20",
-      "titulo": "GLOBO",
-      "descricao": "TV Globo é a maior emissora de televisão do Brasil, com uma programação diversificada que inclui novelas, séries, filmes, jornalismo, esportes, realities e grandes eventos ao vivo. Reconhecida pela alta qualidade de produção e alcance nacional, a Globo acompanha o cotidiano do país com informação, entretenimento e conteúdos que marcam gerações.",
-      "capa": "https://i.imgur.com/7IAHTd2.jpeg",
-      "imagem": "https://i.imgur.com/U4kS4bz.jpeg",
-      "url": "https://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8",
+      "titulo": "Premiere 6 FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/20015",
       "categoria": "TV",
       "tipo": "filme"
     },
-	  {
+    {
       "id": "f19",
-      "titulo": "MASTERCHEF BRASIL",
+      "titulo": "Sony Channel FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/aQBW6UunAhsHeeTSnDPUjjx8HSZ.jpg",
-      "url": "https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/13021",
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
+    {
       "id": "f18",
-      "titulo": "MEGAPIX",
-      "descricao": "Megapix é um canal de televisão por assinatura dedicado exclusivamente a filmes, com uma programação variada que reúne grandes sucessos de bilheteria, clássicos do cinema e produções populares de ação, comédia, aventura e drama. O canal se destaca por suas sessões temáticas e maratonas especiais.",
-      "capa": "https://i.imgur.com/JgYTKHg.jpeg",
-      "imagem": "https://i.imgur.com/JgYTKHg.jpeg",
-      "url": "https://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8",
+      "titulo": "Sony Movies FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/13024",
       "categoria": "TV",
       "tipo": "filme"
     },
-	  {
+    {
       "id": "f17",
-      "titulo": "MR BEAN",
+      "titulo": "Space FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg",
-      "url": "https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/13027",
       "categoria": "TV",
       "tipo": "filme"
     },
-	  {
+    {
       "id": "f16",
-      "titulo": "OS JETSONS",
+      "titulo": "SporTV FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/o0QVwZr7fDPQKF36HWt44mPrweL.jpg",
-      "url": "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/21000",
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
+    {
       "id": "f15",
-      "titulo": "PREMIERE CLUBES",
-      "descricao": "Premiere Clubes é um canal de pay-per-view dedicado à transmissão ao vivo de jogos de futebol dos principais campeonatos nacionais, com foco em clubes específicos. Oferece cobertura completa, narrações, comentários e análises, permitindo que os torcedores acompanhem cada lance de seus times favoritos em tempo real.",
-      "capa": "https://i.imgur.com/bsDf0Z4.jpeg",
-      "imagem": "https://i.imgur.com/bsDf0Z4.jpeg",
-      "url": "https://s1.micineovs.com/PREMIERECLUBES/index.m3u8?token=16FOTt9Ae2m8",
+      "titulo": "SporTV 2 FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/21003",
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
+    {
       "id": "f14",
-      "titulo": "RECORD",
-      "descricao": "Record TV é uma emissora brasileira de televisão aberta com programação variada voltada ao entretenimento, informação e fé. Exibe novelas, realities, programas jornalísticos, atrações de auditório, séries, filmes e conteúdos religiosos, além de transmissões esportivas e eventos especiais. É uma das principais redes de TV do país, com alcance nacional.",
-      "capa": "https://i.imgur.com/0AoH2n4.jpeg",
-      "imagem": "https://i.imgur.com/0AoH2n4.jpeg",
-      "url": "https://s1.micineovs.com/RECORD/index.m3u8?token=16FOTt9Ae2m8",
+      "titulo": "SporTV 3 FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/21006",
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
+    {
       "id": "f13",
-      "titulo": "SBT",
-      "descricao": "SBT (Sistema Brasileiro de Televisão) é um canal aberto de entretenimento com uma programação variada voltada para toda a família. Exibe novelas, programas de auditório, realities, humorísticos, jornalismo, filmes, séries e transmissões esportivas. Reconhecido por seu conteúdo popular e carismático, o SBT é uma das principais emissoras da televisão brasileira, levando informação e diversão para milhões de espectadores.",
-      "capa": "https://i.imgur.com/TRmZn0y.jpeg",
-      "imagem": "https://i.imgur.com/TRmZn0y.jpeg",
-      "url": "https://s2.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8",
+      "titulo": "Studio Universal FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/13048",
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
+    {
       "id": "f12",
-      "titulo": "SPORTV1",
-      "descricao": "SporTV é um canal esportivo por assinatura dedicado à transmissão ao vivo e à cobertura completa dos principais eventos esportivos do Brasil e do mundo. A programação inclui futebol, esportes olímpicos, debates, análises, entrevistas e programas jornalísticos, oferecendo informação, profundidade e emoção para os fãs de esporte.",
-      "capa": "https://i.imgur.com/yyoqhv3.jpeg",
-      "imagem": "https://i.imgur.com/yyoqhv3.jpeg",
-      "url": "https://s1.micineovs.com/SPTV1/index.m3u8?token=16FOTt9Ae2m8",
+      "titulo": "TCM FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/13054",
       "categoria": "TV",
       "tipo": "filme"
     },
-	   {
+    {
       "id": "f11",
-      "titulo": "SPORTV 2",
-      "descricao": "SporTV 2 é um canal esportivo dedicado à transmissão ao vivo e à cobertura completa de grandes eventos nacionais e internacionais. A programação inclui partidas de futebol, vôlei, basquete, esportes olímpicos, análises táticas, debates, entrevistas exclusivas e programas jornalísticos que aprofundam os principais acontecimentos do esporte. Ideal para quem quer acompanhar competições de alto nível com informação, opinião e qualidade técnica.",
-      "capa": "https://i.imgur.com/UjroRwv.jpeg",
-      "imagem": "https://i.imgur.com/UjroRwv.jpeg",
-      "url": "https://s1.micineovs.com/SPTV2/index.m3u8?token=16FOTt9Ae2m8",
+      "titulo": "Telecine Action FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/15000",
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
+    {
       "id": "f10",
-      "titulo": "SPORTV 3",
+      "titulo": "Telecine Cult FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/Yyldxve.jpeg",
-      "url": "https://agropesca.live/live/sportv3/index.m3u8",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/15003",
       "categoria": "TV",
       "tipo": "filme"
     },
-	
-	{
-      "id": "f9",
-      "titulo": "TELECINE ACTION",
+    {
+      "id": "f09",
+      "titulo": "Telecine Fun FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/FUWB3d4.jpeg",
-      "url": "https://image-storage-3005.imgcontent.xyz/live/telecineaction/index.m3u8",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/15006",
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
-      "id": "f8",
-      "titulo": "TELECINE CULT",
+    {
+      "id": "f08",
+      "titulo": "Telecine Pipoca FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/SNrmO50.jpeg",
-      "url": "https://image-storage-3005.imgcontent.xyz/live/telecinecult/index.m3u8",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/15009",
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
-      "id": "f7",
-      "titulo": "TELECINE PIPOCA",
-      "descricao": "Telecine Pipoca é um canal de televisão por assinatura dedicado a filmes populares e grandes sucessos do cinema, com destaque para comédias, romances, aventuras e produções leves para toda a família. A programação traz títulos consagrados e sessões especiais perfeitas para curtir um bom filme a qualquer hora.",
-      "capa": "https://i.imgur.com/fuLkYjG.jpeg",
-      "imagem": "https://i.imgur.com/fuLkYjG.jpeg",
-      "url": "https://s1.micineovs.com/TELECINEPIPOCA/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f6",
-      "titulo": "TELECINE PREMIUM",
-      "descricao": "Telecine Premium é o principal canal da rede Telecine, dedicado à exibição de grandes estreias do cinema e sucessos recentes de bilheteria. A programação reúne filmes de alto destaque dos mais variados gêneros, oferecendo entretenimento de qualidade, lançamentos exclusivos e sessões especiais para quem busca os títulos mais aguardados.",
-      "capa": "https://i.imgur.com/GQJLLgx.jpeg",
-      "imagem": "https://i.imgur.com/GQJLLgx.jpeg",
-      "url": "https://s1.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f5",
-      "titulo": "TELECINE TOUCH",
+    {
+      "id": "f07",
+      "titulo": "Telecine Premium FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/5Q5M7qE.jpeg",
-      "url": "https://image-storage-3005.imgcontent.xyz/live/telecinetouch/index.m3u8",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/15012",
       "categoria": "TV",
       "tipo": "filme"
     },
-	  {
-      "id": "f4",
-      "titulo": "TNT",
-      "descricao": "TNT é um canal de televisão por assinatura voltado ao entretenimento, com foco em filmes de sucesso, grandes franquias de Hollywood, séries populares e especiais temáticos. A programação traz ação, aventura, comédia e drama, além de eventos exclusivos e maratonas que agradam a diferentes públicos.",
-      "capa": "https://i.imgur.com/EKNRiW2.jpeg",
-      "imagem": "https://i.imgur.com/EKNRiW2.jpeg",
-      "url": "https://s1.micineovs.com/TNT/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },  
-	  {
-      "id": "f3",
-      "titulo": "TODO MUNDO ODEIA O CHRIS",
-      "descricao": "Todo Mundo Odeia o Chris é uma série de comédia inspirada na adolescência do comediante Chris Rock. Acompanhamos Chris, um adolescente inteligente e sarcástico, lidando com os desafios da escola, da família e dos amigos na década de 1980, sempre com muito humor e situações hilárias que misturam realidade e exagero cômico.",
-      "capa": "https://i.imgur.com/L8dIJgO.jpeg",
-      "imagem": "https://i.imgur.com/L8dIJgO.jpeg",
-      "url": "https://s1.micineovs.com/Chris24h/index.m3u8?token=16FOTt9Ae2m8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f2",
-      "titulo": "TRAVEL E FOOD",
+    {
+      "id": "f06",
+      "titulo": "Telecine Touch FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/3BdeAmO.jpeg",
-      "url": "https://pop.uniquetv.com.br/travelfood/tracks-v1a1/mono.m3u8",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/15015",
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
-      "id": "f1",
-      "titulo": "UNIVERSAL TV",
+    {
+      "id": "f05",
+      "titulo": "TLC FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/lMHcFpD.jpeg",
-      "url": "https://image-storage-3005.imgcontent.xyz/live/universal/index.m3u8",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/12051",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f04",
+      "titulo": "TNT FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/13039",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f03",
+      "titulo": "TNT Séries FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/13042",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f02",
+      "titulo": "Tooncast FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/24027",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f01",
+      "titulo": "Universal TV FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/13045",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+    {
+      "id": "f00",
+      "titulo": "Warner Channel FHD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "http://sinalmycn.com:80/5886285/5886285/13051",
       "categoria": "TV",
       "tipo": "filme"
     }
