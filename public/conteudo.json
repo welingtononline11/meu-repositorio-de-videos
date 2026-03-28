@@ -303,7 +303,7 @@
       "descricao": "Kraven, o Caçador é uma história visceral e cheia de ação de como e por que razão surgiu um dos vilões mais icónicos da Marvel. Kraven, um homem cuja complexa relação com o seu cruel pai, Nikolai Kravinoff, o transporta para um caminho de vingança com consequências brutais, motivando-o a tornar-se não só o maior caçador do mundo, mas também um dos mais temidos. \n\n IMDB 5.5",
       "capa": "https://image.tmdb.org/t/p/w1066_and_h600_bestv2/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
       "imagem": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg",
-      "url": "https://direct.megafonte.site/server/giptv/router/138950.m3u8",
+      "url": "",
       "categoria": "Ficção científica",
       "tipo": "filme"
     },
@@ -520,6 +520,16 @@
       "tipo": "filme"
     },
     {
+      "id": "f722",
+      "titulo": "[24H] As Aventuras de Jackie Chan",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/135542.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
       "id": "f72",
       "titulo": "24H As Visões da Raven",
       "descricao": "",
@@ -530,6 +540,16 @@
       "tipo": "filme"
     },
     {
+      "id": "f711",
+      "titulo": "[24H] Beyblade",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/140543.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
       "id": "f71",
       "titulo": "24H Big Bang: A Teoria",
       "descricao": "",
@@ -669,6 +689,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	  {
+      "id": "f588",
+      "titulo": "[24H] Liga da Justica Sem Limites",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/138950.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f58",
       "titulo": "24H Os Simpsons",
@@ -679,9 +709,19 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	  {
+      "id": "f577",
+      "titulo": "[24H] Super Choque",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/140535.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f57",
-      "titulo": "24H Todo Mundo Odeia o C",
+      "titulo": "24H Todo Mundo Odeia o Chris",
       "descricao": "",
       "capa": "",
       "imagem": "",
@@ -696,6 +736,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/38008",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f566",
+      "titulo": "[24H] X Men Evolution",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/138943.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -807,6 +857,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/19042",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f444",
+      "titulo": "ESPN HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/71913.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -2017,14 +2077,14 @@
 		  {
           "temporada": 2,
           "numero": 7,
-          "titulo": "A contagem regressiva final(INDISPONÍVEL)",
-          "url": "",
+          "titulo": "A contagem regressiva final",
+          "url": "http://shd12.oneplayer.site/token/SHD12/245927/2x6.mp4",
 	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/ffUiMO9iCQedUanx4rrM1Z4Fkt9.jpg"
 			  },
 		  {
           "temporada": 2,
           "numero": 8,
-          "titulo": "Êxodo",
+          "titulo": "Êxodo (INDISPONÍVEL)",
           "url": "",
 	"imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/u5LN3IbmcLcF7E5P6X88AgdOgXG.jpg"
 
