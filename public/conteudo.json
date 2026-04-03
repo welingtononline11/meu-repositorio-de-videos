@@ -6,6 +6,17 @@
   "filmes": [
 
 	  
+	  
+	  {
+      "id": "f183",
+      "titulo": "Destruição Final 2",
+      "descricao": "Tendo encontrado a segurança do bunker da Groenlândia depois que o cometa Clarke dizimou a Terra, a família Garrity deve agora arriscar tudo para embarcar em uma jornada angustiante através do deserto da Europa para encontrar um novo lar.",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_face/wns4x1GyxCudgOZRyhXKjXVJf3T.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w500/s6nzVekLSd1y0vGjLz8WPfC1Sau.jpg",
+      "url": "http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14850054.mp4",
+      "categoria": "Ficção científica",
+      "tipo": "filme"
+    },
 	  {
       "id": "f182",
       "titulo": "Em Um Piscar de Olhos",
@@ -1336,6 +1347,83 @@
   "series": [
     {
 
+		"id": "s31",
+      "titulo": "Suspicion",
+      "descricao": "Quatro ingleses são acusados de sequestrar o filho de uma importante magnata da mídia dos EUA. Eles embarcam em uma corrida desesperada contra o tempo para provar sua inocência, mas será que alguém acreditará neles - e será que eles estão dizendo a verdade?",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_face/bA9qbhuzhbkJGBkSynh4JXOhcel.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w600_and_h900_face/vY02Rbk8ZUgiQgziGMuYKNT9IBO.jpg",
+      "categoria": "séries",
+		"genero": "Mistério",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 2,
+          "numero": 1,
+          "titulo": "Os suspeitos",
+          "url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/100414/1x1.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/7MWOYCLrqIbYKhjRRbSXnczDH31.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 2,
+          "titulo": "Comportamento duvidoso",
+          "url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/100414/1x2.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/dpJkZY6wTMKVyLCdvja2lzcPOri.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 3,
+          "titulo": "Estranhos",
+          "url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/100414/1x4.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/g83WDKy3yObzYXcZkqAVkftB7fm.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 4,
+          "titulo": "O demônio que você conhece",
+          "url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/100414/1x5.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/jlBeei5jlLHEGZh4qKGDuN8fuLV.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 5,
+          "titulo": "E sequestrador tem cara?",
+          "url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/100414/1x6.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/zVpSFLbHr6sIvdFuVIK360QBmBr.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 6,
+          "titulo": "Mais um na multidão",
+          "url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/100414/1x6.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/9QsSBcM4f3peo5yBu7wSxWawJOg.jpg"	  
+
+			  },
+		  {
+          "temporada": 2,
+          "numero": 7,
+          "titulo": "Questões de confiança",
+          "url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/100414/1x7.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/qmEQOzP0csLYmKLFcFe04KD2por.jpg"	  
+
+			  },
+		  {
+          "temporada": 2,
+          "numero": 8,
+          "titulo": "Desmascarados",
+          "url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/100414/1x8.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/7323RKGiOi9pqp1F5IRYQHX0ho9.jpg"	  
+
+			  }
+       ]
+    },
+    {
+
 		"id": "s30",
       "titulo": "Nove Desconhecidos",
       "descricao": "Frustrados com suas vidas, nove estranhos embarcam em um programa de relaxamento e espiritualidade criado por um SPA de luxo, mas ao longo dos dias eles percebem que a experiência pode acabar colocando suas vidas e sanidade em perigo.",
@@ -1720,7 +1808,7 @@
 			  },
 	      {
           "temporada": 2,
-          "numero": 01,
+          "numero": 1,
           "titulo": "T2 Ep01 Deixe o Rio Correr",
           "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/71116/2x1.mp4",
 			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/iWlaTGhMc9lEVqGXl9ds4Rioci.jpg"
@@ -1728,56 +1816,56 @@
 			  },
 	      {
           "temporada": 2,
-          "numero": 02,
+          "numero": 2,
           "titulo": "T2 Ep02 Nova Jerusalém",
           "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/71116/2x2.mp4",
 			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/2JMVnh0qzsgO3N60AHMmogvnOfa.jpg"
 			  },
 	      {
           "temporada": 2,
-          "numero": 03,
+          "numero": 3,
           "titulo": "T2 Ep03 Laços que Unem",
           "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/71116/2x3.mp4",
 			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/tOkX5ljWlemvmhd4GrPlZJxAjQO.jpg"
 			  },
 	      {
           "temporada": 2,
-          "numero": 04,
+          "numero": 4,
           "titulo": "T2 Ep04 Restaurar a Esperança",
           "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/71116/2x4.mp4",
 			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/8C9cXXZBM8ceozYjbYBOhC9UCfe.jpg"
 			  },
 	      {
           "temporada": 2,
-          "numero": 05,
+          "numero": 5,
           "titulo": "T2 Ep05 Um Lugar Feliz",
           "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/71116/2x5.mp4",
 			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/faHhjLHKOsn1c7SAqLnCuvRbU1t.jpg"
 			  },
 	      {
           "temporada": 2,
-          "numero": 06,
+          "numero": 6,
           "titulo": "T2 Ep06 A Mãe",
           "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/71116/2x6.mp4",
 			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/o03mgRccIKsVo9MSGMCx5O6hu2b.jpg"
 			  },
 	      {
           "temporada": 2,
-          "numero": 07,
+          "numero": 7,
           "titulo": "T2 Ep07 A Palavra",
           "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/71116/2x7.mp4",
 			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/apEJPLpntHjtI5LyvOApDZTCkwR.jpg"
 			  },
 	      {
           "temporada": 2,
-          "numero": 08,
+          "numero": 8,
           "titulo": "T2 Ep08 Sujo",
           "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/71116/2x8.mp4",
 			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/usNCYvsJkffPA8dGGeKZFONEmAd.jpg"
 			  },
 	      {
           "temporada": 2,
-          "numero": 09,
+          "numero": 9,
           "titulo": "T2 Ep09 Caveat Emptor",
           "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/71116/2x9.mp4",
 			  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/mFqY0VpEBla7OpNEmibTeo1c8lo.jpg"
