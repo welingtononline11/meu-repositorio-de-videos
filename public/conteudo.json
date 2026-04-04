@@ -862,8 +862,18 @@
       "tipo": "filme"
     },
     {
-      "id": "f46",
+      "id": "f466",
       "titulo": "Disney+ 1",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/317694.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f46",
+      "titulo": "Disney+ 2",
       "descricao": "",
       "capa": "",
       "imagem": "",
@@ -873,7 +883,7 @@
     },
     {
       "id": "f45",
-      "titulo": "Disney+ 2",
+      "titulo": "Disney+ 3",
       "descricao": "",
       "capa": "",
       "imagem": "",
