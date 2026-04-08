@@ -520,72 +520,43 @@
       "tipo": "filme"
     },
 	  
+    
     {
-      "id": "f733",
-      "titulo": "[24H] A Culpa e do Cabral [S01]",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/140765.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
       "id": "f73",
       "titulo": "24H Aeroporto Area Restrit",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/P7N5KjW.png",
+      "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/38026",
       "categoria": "TV",
       "tipo": "filme"
     },
     {
-      "id": "f722",
-      "titulo": "[24H] As Aventuras de Jackie Chan",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/135542.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
       "id": "f72",
       "titulo": "24H As Visões da Raven",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/nlyGU0t.jpeg",
+      "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/38027",
       "categoria": "TV",
       "tipo": "filme"
     },
     {
-      "id": "f711",
-      "titulo": "[24H] Beyblade",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/140543.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
       "id": "f71",
       "titulo": "24H Big Bang: A Teoria",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/dd8ELvz.png",
+      "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/38018",
       "categoria": "TV",
       "tipo": "filme"
     },
     {
       "id": "f70",
-      "titulo": "24H Bob Esponja",
+      "titulo": "24H Bob Esponja Calça Qui",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/aZhbKae.png",
+      "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/38005",
       "categoria": "TV",
       "tipo": "filme"
@@ -595,7 +566,7 @@
       "titulo": "24H Chaves",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/lp8E8W7.png",
+      "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/38001",
       "categoria": "TV",
       "tipo": "filme"
@@ -605,7 +576,7 @@
       "titulo": "24H Digimon Adventure",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/b6mH0D5.png",
+      "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/38016",
       "categoria": "TV",
       "tipo": "filme"
@@ -615,18 +586,8 @@
       "titulo": "24H Dois Homens e Meio",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/aBiOWLy.png",
+      "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/38004",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f671",
-      "titulo": "24H Eu a Patroa e as Crianças",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/uQJvEPg.jpeg",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38003",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -685,7 +646,7 @@
       "titulo": "24H Futurama",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/d4NKZwk.png",
+      "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/38023",
       "categoria": "TV",
       "tipo": "filme"
@@ -710,16 +671,6 @@
       "categoria": "TV",
       "tipo": "filme"
     },
-	  {
-      "id": "f588",
-      "titulo": "[24H] Liga da Justica Sem Limites",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/138950.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
     {
       "id": "f58",
       "titulo": "24H Os Simpsons",
@@ -730,19 +681,9 @@
       "categoria": "TV",
       "tipo": "filme"
     },
-	  {
-      "id": "f577",
-      "titulo": "[24H] Super Choque",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/140535.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
     {
       "id": "f57",
-      "titulo": "24H Todo Mundo Odeia o Chris",
+      "titulo": "24H Todo Mundo Odeia o C",
       "descricao": "",
       "capa": "",
       "imagem": "",
@@ -760,13 +701,14 @@
       "categoria": "TV",
       "tipo": "filme"
     },
-	  {
-      "id": "f566",
-      "titulo": "[24H] X Men Evolution",
+	
+	{
+      "id": "f551",
+      "titulo": "A&E HD",
       "descricao": "",
       "capa": "",
       "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/138943.m3u8",
+      "url": "https://direct.megafonte.site/server/giptv/router/71762.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -781,7 +723,17 @@
       "categoria": "TV",
       "tipo": "filme"
     },
-    {
+     {
+      "id": "f541",
+      "titulo": "AMC HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/71770.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
       "id": "f54",
       "titulo": "AMC FHD",
       "descricao": "",
@@ -801,6 +753,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f521",
+      "titulo": "AXN HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/71783.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f52",
       "titulo": "AXN FHD",
@@ -811,6 +773,27 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f522",
+      "titulo": "BIS SD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/71809.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f522",
+      "titulo": "BIS HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/71808.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	
     {
       "id": "f51",
       "titulo": "Cine SKY 01",
@@ -818,6 +801,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/16000",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	 {
+      "id": "f501",
+      "titulo": "Cinemax HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/71835.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -851,6 +844,17 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	
+	{
+      "id": "f47",
+      "titulo": "Discovery H&H HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/71869.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f47",
       "titulo": "Discovery H&H FHD",
@@ -862,18 +866,8 @@
       "tipo": "filme"
     },
     {
-      "id": "f466",
-      "titulo": "Disney+ 1",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/3ndy6es.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/317694.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
       "id": "f46",
-      "titulo": "Disney+ 2",
+      "titulo": "Disney+ 1",
       "descricao": "",
       "capa": "",
       "imagem": "",
@@ -883,21 +877,11 @@
     },
     {
       "id": "f45",
-      "titulo": "Disney+ 3",
+      "titulo": "Disney+ 2",
       "descricao": "",
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/19042",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f444",
-      "titulo": "ESPN HD",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/2KiOyHV.jpeg",
-      "url": "https://direct.megafonte.site/server/giptv/router/71913.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -958,6 +942,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/22015",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f381",
+      "titulo": "Food Network HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/71934.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1051,6 +1045,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f29",
+      "titulo": "Megapix HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72169.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f29",
       "titulo": "Megapix FHD",
@@ -1058,6 +1062,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/13015",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f281",
+      "titulo": "Modo Viagem HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72164.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1151,6 +1165,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f191",
+      "titulo": "Sony Channel HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/71826.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f19",
       "titulo": "Sony Channel FHD",
@@ -1171,12 +1195,22 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f17",
+      "titulo": "Space HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72319.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f17",
       "titulo": "Space FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/2PRkGpw.png",
+      "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/13027",
       "categoria": "TV",
       "tipo": "filme"
@@ -1208,6 +1242,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/21006",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f131",
+      "titulo": "Studio Universal HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72336.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1288,6 +1332,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/15015",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f051",
+      "titulo": "TLC HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72373.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
