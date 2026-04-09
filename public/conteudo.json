@@ -521,6 +521,7 @@
     },
 	  
     
+    
     {
       "id": "f73",
       "titulo": "24H Aeroporto Area Restrit",
@@ -531,9 +532,19 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f721",
+      "titulo": "24H As Visões da Raven HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/135558.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f72",
-      "titulo": "24H As Visões da Raven",
+      "titulo": "24H As Visões da Raven FHD",
       "descricao": "",
       "capa": "",
       "imagem": "",
@@ -561,6 +572,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f699",
+      "titulo": "[24H] Caverna do Dragao",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/135454.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f69",
       "titulo": "24H Chaves",
@@ -571,9 +592,19 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f681",
+      "titulo": "24H Digimon Adventure HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/137620.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f68",
-      "titulo": "24H Digimon Adventure",
+      "titulo": "24H Digimon Adventure FHD",
       "descricao": "",
       "capa": "",
       "imagem": "",
@@ -671,6 +702,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	  {
+      "id": "f588",
+      "titulo": "[24H] Liga da Justica Sem Limites",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/138950.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f58",
       "titulo": "24H Os Simpsons",
@@ -688,6 +729,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/38014",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f577",
+      "titulo": "[24H] Tres Espias Demais",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/140758.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1404,7 +1455,7 @@
       "url": "http://sinalmycn.com:80/5886285/5886285/13051",
       "categoria": "TV",
       "tipo": "filme"
-    }
+    },
 	
   ],
 	
