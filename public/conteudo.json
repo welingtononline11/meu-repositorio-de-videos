@@ -524,13 +524,34 @@
     
     
     
+    
     {
-      "id": "f73",
+      "id": "f75",
       "titulo": "24H Aeroporto Area Restrit",
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/CA6mubZ.jpeg",
       "url": "http://sinalmycn.com:80/5886285/5886285/38026",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f74",
+      "titulo": "[24H] As Aventuras do Batman",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/135543.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	 {
+      "id": "f73",
+      "titulo": "[24H] Aladdin",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/138730.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -541,6 +562,26 @@
       "capa": "",
       "imagem": "https://i.imgur.com/yeoUeLU.png",
       "url": "https://direct.megafonte.site/server/giptv/router/135542.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f7222",
+      "titulo": "[24H] As Aventura de Tom e Jerry",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/136815.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "211",
+      "titulo": "[24H] As Novas Aventuras do Superman",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/135554.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -561,6 +602,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/38027",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f7111",
+      "titulo": "[24H] Baby Looney Tunes",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/138813.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -785,7 +836,7 @@
       "tipo": "filme"
     },
     {
-      "id": "f59",
+      "id": "f5999",
       "titulo": "24H Largados e Pelados",
       "descricao": "",
       "capa": "",
@@ -794,13 +845,23 @@
       "categoria": "TV",
       "tipo": "filme"
     },
-	  {
-      "id": "f588",
+	 {
+      "id": "f599",
       "titulo": "[24H] Liga da Justica Sem Limites",
       "descricao": "",
       "capa": "",
       "imagem": "",
       "url": "https://direct.megafonte.site/server/giptv/router/138950.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f59",
+      "titulo": "[24H] Os Padrinhos Magicos",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/135546.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -815,7 +876,7 @@
       "tipo": "filme"
     },
     {
-      "id": "f58",
+      "id": "f58888",
       "titulo": "24H Os Simpsons",
       "descricao": "",
       "capa": "",
@@ -825,7 +886,17 @@
       "tipo": "filme"
     },
 	{
-      "id": "f577",
+      "id": "f599",
+      "titulo": "[24H] Phineas e Ferb",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/135499.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f5888",
       "titulo": "[24H] Super Choque",
       "descricao": "",
       "capa": "",
@@ -835,7 +906,7 @@
       "tipo": "filme"
     },
     {
-      "id": "f57",
+      "id": "f588",
       "titulo": "24H Todo Mundo Odeia o C",
       "descricao": "",
       "capa": "",
@@ -845,7 +916,17 @@
       "tipo": "filme"
     },
 	{
-      "id": "f5777",
+      "id": "f58",
+      "titulo": "[24H] Tom e Jerry",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/136814.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f57",
       "titulo": "[24H] Tres Espias Demais",
       "descricao": "",
       "capa": "",
@@ -871,6 +952,16 @@
       "capa": "",
       "imagem": "",
       "url": "https://direct.megafonte.site/server/giptv/router/138943.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f5666",
+      "titulo": "[24H] X Men Serie Animada",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/137173.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -997,7 +1088,7 @@
       "tipo": "filme"
     },
 	{
-      "id": "f499",
+      "id": "f4999",
       "titulo": "Combate HD",
       "descricao": "",
       "capa": "",
@@ -1007,12 +1098,22 @@
       "tipo": "filme"
     },
     {
-      "id": "f49",
+      "id": "f499",
       "titulo": "Combate FHD",
       "descricao": "",
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/19006",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f49",
+      "titulo": "[24H] Corrida Maluca",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/145378.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1074,6 +1175,26 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/19042",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f4555",
+      "titulo": "[24H] Dragon Ball Classico",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/135473.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f455",
+      "titulo": "[24H] Dragon Ball GT",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/135483.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1198,6 +1319,16 @@
       "tipo": "filme"
     },
 	{
+      "id": "f3777",
+      "titulo": "[24H] He Man e Os Defensores do Universo",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/135514.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
       "id": "f377",
       "titulo": "HBO HD",
       "descricao": "",
@@ -1237,6 +1368,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f355",
+      "titulo": "HBO Mundi HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72123.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f35",
       "titulo": "HBO Mundi FHD",
@@ -1244,6 +1385,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/14009",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f344",
+      "titulo": "HBO Plus HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72127.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1267,13 +1418,13 @@
       "categoria": "TV",
       "tipo": "filme"
     },
-    {
-      "id": "f32",
-      "titulo": "HBO Signature FHD",
+	{
+      "id": "f31",
+      "titulo": "HBO Xtreme HD",
       "descricao": "",
       "capa": "",
       "imagem": "",
-      "url": "http://sinalmycn.com:80/5886285/5886285/14018",
+      "url": "https://direct.megafonte.site/server/giptv/router/72140.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1287,13 +1438,13 @@
       "categoria": "TV",
       "tipo": "filme"
     },
-    {
-      "id": "f30",
-      "titulo": "Lifetime FHD",
+	{
+      "id": "f311",
+      "titulo": "[24H] Luluzinha",
       "descricao": "",
       "capa": "",
       "imagem": "",
-      "url": "http://sinalmycn.com:80/5886285/5886285/12030",
+      "url": "https://direct.megafonte.site/server/giptv/router/149604.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1328,12 +1479,22 @@
       "tipo": "filme"
     },
     {
-      "id": "f28",
+      "id": "f288",
       "titulo": "Modo Viagem FHD",
       "descricao": "",
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/12033",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f28",
+      "titulo": "[24H] O Maskara",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/145380.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1357,6 +1518,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f255",
+      "titulo": "Premiere 1 HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72265.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f25",
       "titulo": "Premiere 1 FHD",
@@ -1364,6 +1535,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/20000",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f244",
+      "titulo": "Premiere 2 HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72239.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1377,6 +1558,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f233",
+      "titulo": "Premiere 3 HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72243.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f23",
       "titulo": "Premiere 3 FHD",
@@ -1384,6 +1575,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/20006",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f222",
+      "titulo": "Premiere 4 HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72247.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1397,6 +1598,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f211",
+      "titulo": "Premiere 5 HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72251.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f21",
       "titulo": "Premiere 5 FHD",
@@ -1404,6 +1615,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/20012",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f200",
+      "titulo": "Premiere 6 HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72255.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1467,6 +1688,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f16",
+      "titulo": "SporTV HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72332.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f16",
       "titulo": "SporTV FHD",
@@ -1477,6 +1708,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f155",
+      "titulo": "SporTV 2 HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/131176.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f15",
       "titulo": "SporTV 2 FHD",
@@ -1484,6 +1725,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/21003",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f144",
+      "titulo": "SporTV 3 HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/131113.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1527,6 +1778,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f111",
+      "titulo": "Telecine Action HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72348.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f11",
       "titulo": "Telecine Action FHD",
@@ -1534,6 +1795,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/15000",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f100",
+      "titulo": "Telecine Cult HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72352.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1547,6 +1818,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f099",
+      "titulo": "Telecine Fun HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72356.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f09",
       "titulo": "Telecine Fun FHD",
@@ -1554,6 +1835,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/15006",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f088",
+      "titulo": "Telecine Pipoca HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72360.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1567,6 +1858,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f077",
+      "titulo": "Telecine Premium HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72364.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f07",
       "titulo": "Telecine Premium FHD",
@@ -1574,6 +1875,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/15012",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f066",
+      "titulo": "Telecine Touch HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72368.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1607,6 +1918,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f044",
+      "titulo": "TNT HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72378.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f04",
       "titulo": "TNT FHD",
@@ -1614,6 +1935,16 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/13039",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f033",
+      "titulo": "TNT Séries HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72383.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1637,6 +1968,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f011",
+      "titulo": "Universal TV HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72421.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f01",
       "titulo": "Universal TV FHD",
@@ -1647,6 +1988,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	{
+      "id": "f0001",
+      "titulo": "Warner Channel HD",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/72433.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    }
     {
       "id": "f00",
       "titulo": "Warner Channel FHD",
