@@ -540,7 +540,7 @@
       "titulo": "[24H] As Aventuras do Batman",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/LmmCTOX.png",
       "url": "https://direct.megafonte.site/server/giptv/router/135543.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -550,7 +550,7 @@
       "titulo": "[24H] Aladdin",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/ECfBFoX.png",
       "url": "https://direct.megafonte.site/server/giptv/router/138730.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -566,21 +566,11 @@
       "tipo": "filme"
     },
 	{
-      "id": "f144",
-      "titulo": "[24H] As Aventura de Tom e Jerry",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/136815.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
       "id": "f143",
       "titulo": "[24H] As Novas Aventuras do Superman",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/89PyDJg.jpeg",
       "url": "https://direct.megafonte.site/server/giptv/router/135554.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -590,7 +580,7 @@
       "titulo": "24H As Visões da Raven HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/oWqkyJt.png",
       "url": "https://direct.megafonte.site/server/giptv/router/135558.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -600,7 +590,7 @@
       "titulo": "24H As Visões da Raven FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/oWqkyJt.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/38027",
       "categoria": "TV",
       "tipo": "filme"
@@ -610,7 +600,7 @@
       "titulo": "[24H] Baby Looney Tunes",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/rkMRj47.jpeg",
       "url": "https://direct.megafonte.site/server/giptv/router/138813.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -620,7 +610,7 @@
       "titulo": "[24H] Beyblade",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/isx2W8Z.png",
       "url": "https://direct.megafonte.site/server/giptv/router/140543.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -630,7 +620,7 @@
       "titulo": "24H Big Bang: A Teoria",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/07ZAHtP.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/38018",
       "categoria": "TV",
       "tipo": "filme"
@@ -640,17 +630,17 @@
       "titulo": "[24H] Bob Esponja Calca Quadrada [S07]",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/Irc29Ok.jpeg",
       "url": "https://direct.megafonte.site/server/giptv/router/138071.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
     {
       "id": "f136",
-      "titulo": "24H Bob Esponja Calça Qui",
+      "titulo": "24H Bob Esponja Calça Quadrada",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/Irc29Ok.jpeg",
       "url": "http://sinalmycn.com:80/5886285/5886285/38005",
       "categoria": "TV",
       "tipo": "filme"
@@ -660,7 +650,7 @@
       "titulo": "[24H] Caverna do Dragao",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/yj8I42R.png",
       "url": "https://direct.megafonte.site/server/giptv/router/135454.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -670,7 +660,7 @@
       "titulo": "[24H] Chaves [S05]",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/E41V23i.png",
       "url": "https://direct.megafonte.site/server/giptv/router/137143.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -680,7 +670,7 @@
       "titulo": "24H Chaves",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/E41V23i.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/38001",
       "categoria": "TV",
       "tipo": "filme"
@@ -690,7 +680,7 @@
       "titulo": "24H Digimon Adventure HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/Ud9wLTL.png",
       "url": "https://direct.megafonte.site/server/giptv/router/137620.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -700,7 +690,7 @@
       "titulo": "24H Digimon Adventure FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/Ud9wLTL.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/38016",
       "categoria": "TV",
       "tipo": "filme"
@@ -710,7 +700,7 @@
       "titulo": "[24H] Dois Homens e Meio [S06]",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/QIKzBUC.png",
       "url": "https://direct.megafonte.site/server/giptv/router/137628.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -720,7 +710,7 @@
       "titulo": "24H Dois Homens e Meio",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/QIKzBUC.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/38004",
       "categoria": "TV",
       "tipo": "filme"
@@ -730,7 +720,7 @@
       "titulo": "[24H] Eu a Patroa e as Criancas [S04]",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/uQJvEPg.jpeg",
+      "imagem": "https://i.imgur.com/wNcJcJv.png",
       "url": "https://direct.megafonte.site/server/giptv/router/138023.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -740,7 +730,7 @@
       "titulo": "24H Eu a Patroa e as Crianças",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/uQJvEPg.jpeg",
+      "imagem": "https://i.imgur.com/wNcJcJv.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/38003",
       "categoria": "TV",
       "tipo": "filme"
@@ -800,7 +790,7 @@
       "titulo": "24H Futurama",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/kVgt1HP.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/38023",
       "categoria": "TV",
       "tipo": "filme"
@@ -810,7 +800,7 @@
       "titulo": "[24H] iCarly [S03]",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/Jf8uthE.png",
       "url": "https://direct.megafonte.site/server/giptv/router/135508.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -840,7 +830,7 @@
       "titulo": "24H Largados e Pelados",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/s0mLcH8.jpeg",
       "url": "http://sinalmycn.com:80/5886285/5886285/38013",
       "categoria": "TV",
       "tipo": "filme"
@@ -850,7 +840,7 @@
       "titulo": "[24H] Liga da Justica Sem Limites",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/EK9xmfu.png",
       "url": "https://direct.megafonte.site/server/giptv/router/138950.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -860,7 +850,7 @@
       "titulo": "[24H] Os Padrinhos Magicos",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/4OsZpe3.png",
       "url": "https://direct.megafonte.site/server/giptv/router/135546.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -950,7 +940,7 @@
       "titulo": "[24H] X Men Evolution",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/SvNfsRH.png",
       "url": "https://direct.megafonte.site/server/giptv/router/138943.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -960,7 +950,7 @@
       "titulo": "[24H] X Men Serie Animada",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/yVwm3CC.png",
       "url": "https://direct.megafonte.site/server/giptv/router/137173.m3u8",
       "categoria": "TV",
       "tipo": "filme"
