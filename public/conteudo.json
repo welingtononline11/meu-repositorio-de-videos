@@ -6,7 +6,16 @@
   "filmes": [
 
 	  
-	  
+	  {
+      "id": "f184",
+      "titulo": "Upgrade: Atualização",
+      "descricao": "Um assalto brutal deixa Gray Trace paralisado no hospital e sua amada esposa morta. Um inventor bilionário logo oferece a Trace uma cura – um implante de inteligência artificial chamado STEM que irá melhorar seu corpo. Agora capaz de andar, Gray descobre que também possui força e agilidade sobre-humanas – habilidades que ele usa para se vingar dos bandidos que destruíram sua vida.",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_face/oiPUcD1IIZrYGTSIpvTmd3dRmPo.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w600_and_h900_face/swoOF70ML410UJswoQcWWp0waxb.jpg",
+      "url": "http://hd5.oneplayer.site/token/FHD5/tt6499752.mp4",
+      "categoria": "Ficção científica",
+      "tipo": "filme"
+    },
 	  {
       "id": "f183",
       "titulo": "Destruição Final 2",
