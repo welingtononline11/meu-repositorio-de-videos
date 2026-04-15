@@ -684,6 +684,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	  {
+      "id": "f90",
+      "titulo": "[24H] Corrida Maluca",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/145378.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
 	{
       "id": "f132",
       "titulo": "24H Digimon Adventure HD",
@@ -721,6 +731,26 @@
       "capa": "",
       "imagem": "https://i.imgur.com/QIKzBUC.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/38004",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f83",
+      "titulo": "[24H] Dragon Ball Classico",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/135473.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	{
+      "id": "f82",
+      "titulo": "[24H] Dragon Ball GT",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/135483.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -804,6 +834,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	  {
+      "id": "f69",
+      "titulo": "[24H] He Man e Os Defensores do Universo",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/135514.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
 	{
       "id": "f120",
       "titulo": "[24H] iCarly [S03]",
@@ -851,6 +891,26 @@
       "capa": "",
       "imagem": "https://i.imgur.com/EK9xmfu.png",
       "url": "https://direct.megafonte.site/server/giptv/router/138950.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f57",
+      "titulo": "[24H] Luluzinha",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/149604.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f52",
+      "titulo": "[24H] O Maskara",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/145380.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1106,16 +1166,6 @@
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
-      "id": "f90",
-      "titulo": "[24H] Corrida Maluca",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/145378.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
     {
       "id": "f89",
       "titulo": "DAZN 1",
@@ -1164,26 +1214,6 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/19042",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f83",
-      "titulo": "[24H] Dragon Ball Classico",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/135473.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f82",
-      "titulo": "[24H] Dragon Ball GT",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/135483.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1308,16 +1338,6 @@
       "tipo": "filme"
     },
 	{
-      "id": "f69",
-      "titulo": "[24H] He Man e Os Defensores do Universo",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/135514.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
       "id": "f68",
       "titulo": "HBO HD",
       "descricao": "",
@@ -1428,16 +1448,6 @@
       "tipo": "filme"
     },
 	{
-      "id": "f57",
-      "titulo": "[24H] Luluzinha",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/149604.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
       "id": "f56",
       "titulo": "Megapix HD",
       "descricao": "",
@@ -1474,16 +1484,6 @@
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/12033",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f52",
-      "titulo": "[24H] O Maskara",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/145380.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -2003,6 +2003,82 @@
   "series": [
     {
 
+		"id": "s32",
+      "titulo": "As Quatro Estações do Ano",
+      "descricao": "A amizade de décadas entre três casais é testada por um divórcio, que acaba atrapalhando a tradição de viajarem juntos.",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_face/xJATsbyFLf4LMtJBOco08RNxqPE.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w440_and_h660_face/bIAlUuBwLeAOmbREoh4NNa7KBrL.jpg",
+      "categoria": "séries",
+		"genero": "Comédia",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 2,
+          "numero": 1,
+          "titulo": "Casa do lago",
+          "url": "https://shd13.oneplayer.site/SHD13/243316/1x1.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/lm6HU4amL3Ata1Lr2dlaHaTCUld.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 2,
+          "titulo": "Festa no jardim",
+          "url": "https://shd13.oneplayer.site/SHD13/243316/1x2.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/u4H4dvxmidRBpIkCZkb2yHOJpYO.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 3,
+          "titulo": "Eco resort",
+          "url": "https://shd13.oneplayer.site/SHD13/243316/1x3.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/qoeKPstT8KIHJrYOrQN2tJyNOQN.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 4,
+          "titulo": "Bar da praia",
+          "url": "https://shd13.oneplayer.site/SHD13/243316/1x4.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/5ZR6vagpqhL6fYcc822ss4dItcz.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 5,
+          "titulo": "Fim de semana em família",
+          "url": "https://shd13.oneplayer.site/SHD13/243316/1x5.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/BQYb46zQpcqBZtUo07M1EBNxgp.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 6,
+          "titulo": "Frisbee",
+          "url": "https://shd13.oneplayer.site/SHD13/243316/1x6.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/nSO17GdFYJCTSO3XxJr2Tydm6UK.jpg"	  
+
+			  },
+		  {
+          "temporada": 2,
+          "numero": 7,
+          "titulo": "Esquiando",
+          "url": "https://shd13.oneplayer.site/SHD13/243316/1x7.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/kkDXsSxNY9JnTXsuSjus6dCHeCi.jpg"	  
+
+			  },
+		  {
+          "temporada": 2,
+          "numero": 8,
+          "titulo": "Divertido",
+          "url": "https://shd13.oneplayer.site/SHD13/243316/1x8.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/bW3rJbhxmKINBBLRXXYtCsLNQ03.jpg"	  
+
+			  }
+       ]
+    },
+    {
 		"id": "s31",
       "titulo": "Suspicion",
       "descricao": "Quatro ingleses são acusados de sequestrar o filho de uma importante magnata da mídia dos EUA. Eles embarcam em uma corrida desesperada contra o tempo para provar sua inocência, mas será que alguém acreditará neles - e será que eles estão dizendo a verdade?",
