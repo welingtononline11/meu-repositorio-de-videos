@@ -819,7 +819,7 @@
       "titulo": "24H iCarly Revival Opção 1",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/RAjS79m.png",
       "url": "https://direct.megafonte.site/server/giptv/router/135455.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -829,7 +829,7 @@
       "titulo": "24H iCarly Revival Opção 2",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/RAjS79m.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/38009",
       "categoria": "TV",
       "tipo": "filme"
@@ -869,7 +869,7 @@
       "titulo": "[24H] Os Simpsons [S04]",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/tO4QE9r.png",
       "url": "https://direct.megafonte.site/server/giptv/router/135598.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -879,7 +879,7 @@
       "titulo": "24H Os Simpsons",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/tO4QE9r.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/38000",
       "categoria": "TV",
       "tipo": "filme"
@@ -889,7 +889,7 @@
       "titulo": "[24H] Phineas e Ferb",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/LaaMlAK.png",
       "url": "https://direct.megafonte.site/server/giptv/router/135499.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -899,17 +899,17 @@
       "titulo": "[24H] Super Choque",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/uBaVjA7.png",
       "url": "https://direct.megafonte.site/server/giptv/router/140535.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
     {
       "id": "f110",
-      "titulo": "24H Todo Mundo Odeia o C",
+      "titulo": "24H Todo Mundo Odeia o Chris",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/1eg1dUP.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/38014",
       "categoria": "TV",
       "tipo": "filme"
@@ -919,7 +919,7 @@
       "titulo": "[24H] Tom e Jerry",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/kmm5Aaj.png",
       "url": "https://direct.megafonte.site/server/giptv/router/136814.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -929,7 +929,7 @@
       "titulo": "[24H] Tres Espias Demais",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/YGn6ut7.jpeg",
       "url": "https://direct.megafonte.site/server/giptv/router/140758.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -939,7 +939,7 @@
       "titulo": "24H Um Maluco no Pedaço",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/Bh3iqmS.jpeg",
       "url": "http://sinalmycn.com:80/5886285/5886285/38008",
       "categoria": "TV",
       "tipo": "filme"
@@ -969,7 +969,7 @@
       "titulo": "A&E HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/MVEDBcB.png",
       "url": "https://direct.megafonte.site/server/giptv/router/71762.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -980,7 +980,7 @@
       "titulo": "A&E FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/MVEDBcB.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/12000",
       "categoria": "TV",
       "tipo": "filme"
@@ -990,7 +990,7 @@
       "titulo": "AMC HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/pIAXnS8.png",
       "url": "https://direct.megafonte.site/server/giptv/router/71770.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1000,7 +1000,7 @@
       "titulo": "AMC FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/pIAXnS8.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/13000",
       "categoria": "TV",
       "tipo": "filme"
@@ -1010,7 +1010,7 @@
       "titulo": "Amazon Prime Video 01",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/b72goYJ.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/19021",
       "categoria": "TV",
       "tipo": "filme"
@@ -1020,7 +1020,7 @@
       "titulo": "AXN HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/phYpkPT.png",
       "url": "https://direct.megafonte.site/server/giptv/router/71783.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1030,7 +1030,7 @@
       "titulo": "AXN FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/phYpkPT.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/13003",
       "categoria": "TV",
       "tipo": "filme"
