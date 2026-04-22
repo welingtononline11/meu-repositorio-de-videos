@@ -537,22 +537,32 @@
     
     
     {
-      "id": "f148",
+      "id": "f149",
       "titulo": "24H Aeroporto Area Restrit",
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/CA6mubZ.jpeg",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38026",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7324513.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f148",
+      "titulo": "24H A Turma do Zé Coméia",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/fYIv5bd.png",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/6371820.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
 	{
       "id": "f147",
-      "titulo": "[24H] As Aventuras do Batman",
+      "titulo": "[24H] Batman do Futuro",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/LmmCTOX.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/135543.m3u8",
+      "imagem": "https://i.imgur.com/97isOtp.png",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/6372040.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -612,7 +622,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/rkMRj47.jpeg",
-      "url": "https://direct.megafonte.site/server/giptv/router/138813.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/6371818.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -632,27 +642,17 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/07ZAHtP.png",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38018",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f137",
-      "titulo": "[24H] Bob Esponja Calca Quadrada [S07]",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/Irc29Ok.jpeg",
-      "url": "https://direct.megafonte.site/server/giptv/router/138071.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7328431.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
     {
       "id": "f136",
-      "titulo": "24H Bob Esponja Calça Quadrada",
+      "titulo": "24H Bob Esponja Calça Quadrada T05 A 08",
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/Irc29Ok.jpeg",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38005",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/6371802.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -662,17 +662,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/yj8I42R.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/135454.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f134",
-      "titulo": "[24H] Chaves [S05]",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/E41V23i.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/137143.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/6371837.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -682,7 +672,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/E41V23i.png",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38001",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/6371939.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -702,37 +692,27 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/Ud9wLTL.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/137620.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-    {
-      "id": "f131",
-      "titulo": "24H Digimon Adventure FHD",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/Ud9wLTL.png",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38016",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/6371812.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
 	{
       "id": "f130",
-      "titulo": "[24H] Dois Homens e Meio [S06]",
+      "titulo": "[24H] Dois Homens e Meio T01 A 06",
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/QIKzBUC.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/137628.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/6371805.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
     {
       "id": "f129",
-      "titulo": "24H Dois Homens e Meio",
+      "titulo": "24H CORAGEM O CÃO COVARDE",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/QIKzBUC.png",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38004",
+      "imagem": "https://i.imgur.com/2szDmv1.png",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/6371815.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -756,23 +736,13 @@
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
-      "id": "f128",
-      "titulo": "[24H] Eu a Patroa e as Criancas [S04]",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/wNcJcJv.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/138023.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
     {
       "id": "f127",
       "titulo": "24H Eu a Patroa e as Crianças",
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/wNcJcJv.png",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38003",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/6371900.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -832,7 +802,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/kVgt1HP.png",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38023",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/6371833.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -841,8 +811,8 @@
       "titulo": "[24H] He Man e Os Defensores do Universo",
       "descricao": "",
       "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/135514.m3u8",
+      "imagem": "https://i.imgur.com/iA5LCrG.png",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/6371831.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -946,6 +916,16 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	  {
+      "id": "f1133",
+      "titulo": "24H Píca Pau",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/UVTe90i.png",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/6371825.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
 	{
       "id": "f112",
       "titulo": "[24H] Phineas e Ferb",
@@ -982,7 +962,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/kmm5Aaj.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/136814.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/6371814.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -992,7 +972,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/YGn6ut7.jpeg",
-      "url": "https://direct.megafonte.site/server/giptv/router/140758.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/6371884.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1022,7 +1002,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/yVwm3CC.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/137173.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/6372013.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1224,8 +1204,8 @@
       "titulo": "ESPN HD",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/2KiOyHV.jpeg",
-      "url": "https://direct.megafonte.site/server/giptv/router/71913.m3u8",
+      "imagem": "https://i.imgur.com/1bjxbio.png",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/445.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1234,8 +1214,18 @@
       "titulo": "ESPN FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
-      "url": "http://sinalmycn.com:80/5886285/5886285/22000",
+      "imagem": "https://i.imgur.com/hW2vdny.png",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/444.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f800",
+      "titulo": "ESPN 4K",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/zteokQi.png",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/219654.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1324,8 +1314,8 @@
       "titulo": "Food Network HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/71934.m3u8",
+      "imagem": "https://i.imgur.com/GV2Aqpu.png",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/4814001.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1334,8 +1324,8 @@
       "titulo": "Food Network FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
-      "url": "http://sinalmycn.com:80/5886285/5886285/12024",
+      "imagem": "https://i.imgur.com/METpx6E.png",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/4814020.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
