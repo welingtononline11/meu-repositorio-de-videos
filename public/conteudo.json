@@ -1,6 +1,6 @@
 {
-	"versao": "1.9",
-  "url_apk": "http://appfooddelivery.com.br/Nevers_2025_TV_1.9.apk",
+	"versao": "1.8",
+  "url_apk": "http://appfooddelivery.com.br/Nevers_2025_TV_1.8.apk",
 	
   "categorias": ["séries", "Fantasia", "Ficção científica", "Mistério", "Suspense", "Terror", "Terror Psicológico", "Thriller", "Thriller Policial", "Thriller Psicológico", "Drama", "Drama Policial", "Romance", "Ação", "Comédia", "TV", "A Fazenda"],
   "filmes": [
@@ -1504,7 +1504,7 @@
       "titulo": "Premiere 1 HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/mfBYN71.png",
       "url": "https://direct.megafonte.site/server/OnPIX/router/219701.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1514,7 +1514,7 @@
       "titulo": "Premiere 1 FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/At4o1P8.png",
       "url": "https://direct.megafonte.site/server/OnPIX/router/1138.m3u8",
       "categoria": "TV",
       "tipo": "filme"
