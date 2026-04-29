@@ -1995,6 +1995,158 @@
   "series": [
     {
 
+		"id": "s33",
+"titulo": "Silo",
+"descricao": "Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.",
+"capa": "https://image.tmdb.org/t/p/w1066_and_h600_face/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
+"imagem": "https://image.tmdb.org/t/p/w500/n1mtrn5NpyzToGvaPJMtNipejQz.jpg",
+"categoria": "séries",
+"genero": "Ficção científica",
+"tipo": "serie",
+"episodios": [
+  {
+    "temporada": 1,
+    "numero": 1,
+    "titulo": "Dia da liberdade",
+    "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/1x1.mp4",
+    "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/rpZhJcWPpyLvPC5Vid61GD6JHVu.jpg"
+  },
+  {
+    "temporada": 1,
+    "numero": 2,
+    "titulo": "A escolha de Holston",
+    "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/1x2.mp4",
+    "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/bRYHFClG8YkTJTy8fx73hgCd8Ac.jpg"
+  },
+  {
+    "temporada": 1,
+    "numero": 3,
+    "titulo": "Máquinas",
+    "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/1x3.mp4",
+    "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/8hQB4jxk9ydj55Mrl9sY95smV7.jpg"
+  },
+  {
+    "temporada": 1,
+    "numero": 4,
+    "titulo": "Verdade",
+    "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/1x4.mp4",
+    "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/x3fMuXhTx5f91tQgjXNzopo5B5g.jpg"
+  },
+  {
+    "temporada": 1,
+    "numero": 5,
+    "titulo": "O filho do zelador",
+    "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/1x5.mp4",
+    "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/yzLUNo2jU82N5rdRG0xZ2A2ed79.jpg"
+  },
+  {
+    "temporada": 1,
+    "numero": 6,
+    "titulo": "A relíquia",
+    "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/1x6.mp4",
+    "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/k5UxYAS4Xmcsn3GZdCklXGMIBMd.jpg"
+  },
+  {
+    "temporada": 1,
+    "numero": 7,
+    "titulo": "Os protetores da chama",
+    "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/1x7.mp4",
+    "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/ukzV8BZbjlIU6WOKdoZqhHMg2yi.jpg"
+  },
+  {
+    "temporada": 1,
+    "numero": 8,
+    "titulo": "Hanna",
+    "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/1x8.mp4",
+    "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/sZaeOvZYS4evALQtm2wfC3eJxit.jpg"
+  },
+	{
+    "temporada": 1,
+    "numero": 9,
+    "titulo": "A fuga",
+    "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/1x9.mp4",
+    "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/mogTf95jiLdvSXwnjpQcIs6Wxh2.jpg"
+  },
+	{
+    "temporada": 1,
+    "numero": 10,
+    "titulo": "Lá fora",
+    "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/1x10.mp4",
+    "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/qcqkEv0S8Re5V2UV9LFUWzHYyq3.jpg"
+  },
+	{
+  "temporada": 2,
+  "numero": 1,
+  "titulo": "A engenheira",
+  "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/2x1.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/kB5wWdEknKlBJ8iGEYQyTJWTSZv.jpg"
+},
+{
+  "temporada": 2,
+  "numero": 2,
+  "titulo": "Ordem",
+  "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/2x2.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/gB2lEpKUvTshTdq00IRjQHFgG4J.jpg"
+},
+{
+  "temporada": 2,
+  "numero": 3,
+  "titulo": "Solo",
+  "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/2x3.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/dY1nJnRuuhC0stZqNWShBYqk93H.jpg"
+},
+{
+  "temporada": 2,
+  "numero": 4,
+  "titulo": "O harmônio",
+  "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/2x4.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/lSsLzD8eVZaju4XUGmoTGSvZq2C.jpg"
+},
+{
+  "temporada": 2,
+  "numero": 5,
+  "titulo": "A descida",
+  "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/2x5.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/y2KEcaL7GLj5uYXP0t7C0d0R5B6.jpg"
+},
+{
+  "temporada": 2,
+  "numero": 6,
+  "titulo": "Barricadas",
+  "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/2x6.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/aAPo83kOC5mfgcOado49ijWITVo.jpg"
+},
+{
+  "temporada": 2,
+  "numero": 7,
+  "titulo": "O mergulho",
+  "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/2x7.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/z60fohHAWgfhpVjZRZq4M1Itw7Z.jpg"
+},
+{
+  "temporada": 2,
+  "numero": 8,
+  "titulo": "O livro de Quinn",
+  "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/2x8.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/krzYmEQZ3ugR5MFqOMQJrv2pcnh.jpg"
+},
+{
+  "temporada": 2,
+  "numero": 9,
+  "titulo": "A salvaguarda",
+  "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/2x9.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/aNgT4AEffmGwiabRD03riCz1aWr.jpg"
+},
+{
+  "temporada": 2,
+  "numero": 10,
+  "titulo": "No fogo",
+  "url": "http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/125988/2x10.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/coz4XyEQ59IbkJ3UYB9Nr8UW8ur.jpg"
+}
+ ] 
+}, 
+{
 		"id": "s32",
       "titulo": "As Quatro Estações do Ano",
       "descricao": "A amizade de décadas entre três casais é testada por um divórcio, que acaba atrapalhando a tradição de viajarem juntos.",
