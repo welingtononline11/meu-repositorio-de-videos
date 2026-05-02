@@ -807,12 +807,22 @@
       "tipo": "filme"
     },
 	  {
-      "id": "f69",
+      "id": "f699",
       "titulo": "[24H] He Man e Os Defensores do Universo",
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/iA5LCrG.png",
       "url": "https://direct.megafonte.site/server/OnPIX/router/6371831.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+{
+      "id": "f69",
+      "titulo": "[24H] Homem Aranha da Marvel [S01]",
+      "descricao": "",
+      "capa": "",
+      "imagem": "",
+      "url": "https://direct.megafonte.site/server/giptv/router/155451.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
