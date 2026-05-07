@@ -424,8 +424,8 @@
       "id": "f143",
       "titulo": "O Convite",
       "descricao": "Uma tragédia abala o casal formado por Will e Eden. Eles perdem o filho pequeno e, desolada, Eden vai embora sem dar notícias. Dois anos mais tarde, ela volta a procurar o marido, acompanhada de outro homem, e totalmente diferente de como era antes. Durante um jantar, com Will, Eden e o novo companheiro de sua esposa, Will começa a suspeitar que os visitantes têm planos sinistros contra ele.\n\n IMDB 6.6",
-      "capa": "https://www.em.com.br/emfoco/wp-content/uploads/2025/03/Demolidor-Renascido-DisneyPlus-1024x576.jpg",
-      "imagem": "https://image.tmdb.org/t/p/w500/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_face/UT0FaX3djSmvphvDopomPNWXIQ.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w500/rv2DPFutyCJeSvVPUHI0RZlB3NZ.jpg",
       "url": "http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt2400463.mp4",
       "categoria": "Terror/Mistério",
       "tipo": "filme"
@@ -2003,6 +2003,157 @@
   ],
 	
   "series": [
+    {
+		"id": "s35",
+      "titulo": "O Segredo de Widow's Bay",
+      "descricao": "Um prefeito da Nova Inglaterra, tentando impulsionar o turismo, precisa lidar com estranhos acontecimentos que sugerem que sua ilha pode estar amaldiçoada.",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_face/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w440_and_h660_face/rO22fBhSE77hZjNKSpnp96GC45e.jpg",
+      "categoria": "séries",
+		"genero": "Terror",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "Bem-vindos a Widow's Bay!",
+          "url": "http://shd13.oneplayer.site/SHD13/270476/1x1.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/ozsXKu0NRccykQd4i3QTbeL6loJ.jpg"	  
+
+			  },
+		   {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "Pousada",
+          "url": "http://shd13.oneplayer.site/SHD13/270476/1x2.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/vB37UqlmHX8zS4VwxHiNcQSg56E.jpg"	  
+
+			  },
+		   {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "",
+          "url": "",
+		  "imagem": ""	  
+
+			  },
+		   {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "",
+          "url": "",
+		  "imagem": ""	  
+
+			  },
+		   {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "",
+          "url": "",
+		  "imagem": ""	  
+
+			  },
+		   {
+          "temporada": 1,
+          "numero": 6,
+          "titulo": "",
+          "url": "",
+		  "imagem": ""	  
+
+			  },
+		  {
+          "temporada": 1,
+          "numero": 7,
+          "titulo": "",
+          "url": "",
+		  "imagem": ""	  
+
+			  },
+		  {
+          "temporada": 1,
+          "numero": 8,
+          "titulo": "",
+          "url": "",
+		  "imagem": ""	  
+
+			  }
+       ]
+    },
+    {
+		"id": "s34",
+      "titulo": "Demolidor: Renascido",
+      "descricao": "Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente.",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_face/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w500/r5hNFtkNAauxc2G4VUlnJOaVIb0.jpg",
+      "categoria": "séries",
+		"genero": "Ação",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 2,
+          "numero": 1,
+          "titulo": "O Northern Star",
+          "url": "http://shd12.oneplayer.site/token/SHD12/202555/2x1.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/hxZQi3iq4IC8K7EBd4ez2W0OQPO.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 2,
+          "titulo": "Mirar na Lua",
+          "url": "http://shd12.oneplayer.site/token/SHD12/202555/2x2.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/kbpZdUUA54SKeuJDXMLZJWr5qtF.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 3,
+          "titulo": "A Balança e a Espada",
+          "url": "http://shd12.oneplayer.site/token/SHD12/202555/2x3.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/vdlYtcgS1x3JURs39cxDD8MtT65.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 4,
+          "titulo": "Toquem as Luvas",
+          "url": "http://shd12.oneplayer.site/token/SHD12/202555/2x4.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/2wG70Lehic8WukXmUEL9jjENNn6.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 5,
+          "titulo": "O Grande Desígnio",
+          "url": "http://shd12.oneplayer.site/token/SHD12/202555/2x5.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/3LwlF3zBobR6QuEIDh2D71KsCq6.jpg"	  
+
+			  },
+		   {
+          "temporada": 2,
+          "numero": 6,
+          "titulo": "Réquiem",
+          "url": "http://shd12.oneplayer.site/token/SHD12/202555/2x6.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/lbuiEvKOaQEw4mG880gsdg8GKvr.jpg"	  
+
+			  },
+		  {
+          "temporada": 2,
+          "numero": 7,
+          "titulo": "A Terrível Escuridão",
+          "url": "http://shd12.oneplayer.site/token/SHD12/202555/2x7.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/rmlntMleUjbXWgEk0beQla6qTDZ.jpg"
+			   },
+		  {
+          "temporada": 2,
+          "numero": 8,
+          "titulo": "Cruzeiro do Sul (INDISPONÍVEL)",
+          "url": "http://shd12.oneplayer.site/token/SHD12/202555/2x8.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/3hfKhjeS2paNcBojTijENVrur6v.jpg"
+
+			  }
+       ]
+    },
     {
 
 		"id": "s33",
