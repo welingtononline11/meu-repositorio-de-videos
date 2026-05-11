@@ -2005,6 +2005,67 @@
   "series": [
     {
 
+		"id": "s37",
+      "titulo": "O Domo de Vidro",
+      "descricao": "Após o desaparecimento da filha de uma amiga, a criminologista Lejla se junta à busca e tenta enfrentar o trauma do próprio sequestro ocorrido na infância.",
+      "capa": "https://image.tmdb.org/t/p/w1066_and_h600_face/w8NsengOrWLapYBVutr52gwWMio.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w500/yBr4e9H0rdeAzbZTqlJolseKGjP.jpg",
+      "categoria": "séries",
+		"genero": "Suspense",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "Episódio 1",
+          "url": "http://shd12.oneplayer.site/token/SHD12/275388/1x1.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/nHzF1lrxbQ5hwMrR1ksQuvAqxxS.jpg"	  
+
+			  },
+		   {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "Episódio 2",
+          "url": "http://shd12.oneplayer.site/token/SHD12/275388/1x2.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/lUgTT2nqHpef8dBAA0sEEliSVyw.jpg"	  
+
+			  },
+		   {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "Episódio 3",
+          "url": "http://shd12.oneplayer.site/token/SHD12/275388/1x3.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/w0PzoW9vHcrY4SYeZmCoWNNs4yM.jpg"	  
+
+			  },
+		   {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "Episódio 4",
+          "url": "http://shd12.oneplayer.site/token/SHD12/275388/1x4.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/2s4mEpSntD6IPPs9iiA6NuiizSn.jpg"	  
+
+			  },
+		   {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "Episódio 5",
+          "url": "http://shd12.oneplayer.site/token/SHD12/275388/1x5.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/kjI2xLBHC2R3SKw45JXo0UsfUj9.jpg"	  
+
+			  },
+		   {
+          "temporada": 1,
+          "numero": 6,
+          "titulo": "Episódio 6",
+          "url": "http://shd12.oneplayer.site/token/SHD12/275388/1x6.mp4",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/xUS7DOzql8YqdGkkwi3DofccfKO.jpg"	  
+
+			  }
+       ]
+    },
+    {
+		
 		"id": "s36",
       "titulo": "Origem",
       "descricao": "Desvende o mistério de uma cidade no centro dos EUA. Enquanto os moradores lutam para manter um senso de normalidade, eles também devem sobreviver às ameaças da floresta ao redor, incluindo as criaturas aterrorizantes que surgem quando o sol se põe.",
