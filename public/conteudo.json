@@ -2015,48 +2015,93 @@
   "tipo": "serie",
   "episodios": [
     {
-      "temporada": 1,
+
+	{
+  "temporada": 1,
+  "numero": 1,
+  "titulo": "Episódio 1",
+  "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/1x1.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/vlFDprUHK2yNBDsbIXsFNP8ludv.jpg"
+},
+{
+  "temporada": 1,
+  "numero": 2,
+  "titulo": "Episódio 2",
+  "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/1x2.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/yQoj0DSvLFsL1rHojlg8NGoFdrS.jpg"
+},
+{
+  "temporada": 1,
+  "numero": 3,
+  "titulo": "Episódio 3",
+  "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/1x3.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/7uo4YNnYcAoCrGkND5YyeFqUGTY.jpg"
+},
+{
+  "temporada": 1,
+  "numero": 4,
+  "titulo": "Episódio 4",
+  "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/1x4.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/5zqMpp6ITsFaJQgBcDboalu6pKN.jpg"
+},
+{
+  "temporada": 1,
+  "numero": 5,
+  "titulo": "Episódio 5",
+  "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/1x5.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/AmijSCBSw13HcYVrER0gl006cs4.jpg"
+},
+{
+  "temporada": 1,
+  "numero": 6,
+  "titulo": "Episódio 6",
+  "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/1x6.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/2Aw8Cr7JHtQKOhvr7D7ltuu22sJ.jpg"
+},
+    {
+      "temporada": 2,
       "numero": 1,
       "titulo": "Episódio 1",
-      "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/1x1.mp4",
+      "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/2x1.mp4",
       "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/tVvMWMYZI6snmrENqqW902nTLvf.jpg"
     },
     {
-      "temporada": 1,
+      "temporada": 2,
       "numero": 2,
       "titulo": "Episódio 2",
-      "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/1x2.mp4",
+      "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/2x2.mp4",
       "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/ucMyzjoAsXCjGWIdz5RUXVa4Suz.jpg"
     },
     {
-      "temporada": 1,
+      "temporada": 2,
       "numero": 3,
       "titulo": "Episódio 3",
-      "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/1x3.mp4",
+      "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/2x3.mp4",
       "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/61y2hImrdTduoW6oNHqYhPSruYH.jpg"
     },
     {
-      "temporada": 1,
+      "temporada": 2,
       "numero": 4,
       "titulo": "Episódio 4",
-      "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/1x4.mp4",
+      "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/2x4.mp4",
       "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/S3i8zSaqhszv7Rs52QXsnfpebp.jpg"
     },
     {
-      "temporada": 1,
+      "temporada": 2,
       "numero": 5,
       "titulo": "Episódio 5",
-      "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/1x5.mp4",
+      "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/2x5.mp4",
       "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/7BlMwCK6A6WmZIAM9eRUnEXxfVc.jpg"
     },
     {
-      "temporada": 1,
+      "temporada": 2,
       "numero": 6,
       "titulo": "Episódio 6",
-      "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/1x6.mp4",
+      "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/67070/2x6.mp4",
       "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/gRbEddOyeL56X1QNbzGjlyZ1CuD.jpg"
 
 		}
+	  
        ]
     },
     {
