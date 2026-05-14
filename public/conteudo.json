@@ -5,7 +5,16 @@
   "categorias": ["séries", "Fantasia", "Ficção científica", "Mistério", "Suspense", "Terror", "Terror Psicológico", "Thriller", "Thriller Policial", "Thriller Psicológico", "Drama", "Drama Policial", "Romance", "Ação", "Comédia", "TV", "A Fazenda"],
   "filmes": [
 
-	  
+	  {
+      "id": "f185",
+      "titulo": "Devoradores de Estrelas",
+      "descricao": "Professor de ciências do ensino fundamental acorda em espaçonave a anos-luz da Terra sem memória de como foi parar ali. Aos poucos, lembra que foi recrutado para uma missão na qual precisa investigar o motivo pelo qual o Sol está morrendo.",
+      "capa": "https://media.themoviedb.org/t/p/w1066_and_h600_face/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w500/bOzG3SG6gBxHGGHYiq7xXeNb1bG.jpg",
+      "url": "https://play-utx.vsutx.com/m/Devoradores%20de%20Estrelas%202026%20WEB-DL%201080p%20x264%20IMAX%20DUAL%205.1.mp4?cnvs_token=1778792734-o4OUudQaQ6aOlJa2%2BkD3LxqQkio1W5OQJruQIPuc9tA%3D&vid=10812&pid=80335&t=1778792734",
+      "categoria": "Ficção científica",
+      "tipo": "filme"
+    },
 	  {
       "id": "f184",
       "titulo": "Upgrade: Atualização",
@@ -2413,6 +2422,24 @@
   "url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x10.mp4",
   "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/91QkMMvQen7ADfGZQhyxWttPccJ.jpg",
   "legendaUrl": "https://drive.google.com/uc?export=download&id=1qfdOEJNR1l8nM776OmmZp7JnhJMwlsVt",
+      "legendaIdioma": "Português"
+	},
+{
+  "temporada": 4,
+  "numero": 1,
+  "titulo": " Chegada",
+  "url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/4x1.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/vW5LTVntIb4YjSlAzhmpsCfig7z.jpg",
+  "legendaUrl": "",
+      "legendaIdioma": "Português"
+},
+{
+  "temporada": 4,
+  "numero": 2,
+  "titulo": "Desgaste",
+  "url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/4x2.mp4",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
+  "legendaUrl": "",
       "legendaIdioma": "Português"
 }
        ]
