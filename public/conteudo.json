@@ -2026,6 +2026,70 @@
   "series": [
     {
 
+		{
+  "id": "s39",
+  "titulo": "I Am Not Okay with This",
+  "descricao": "Syd lida com as turbulências do ensino médio, um drama familiar e um crush não correspondido pela sua melhor amiga enquanto tenta controlar seus crescentes superpoderes.",
+  "capa": "https://image.tmdb.org/t/p/w1066_and_h600_face/d77WPPNbuvyGJJ675UFokVmOKHb.jpg",
+  "imagem": "https://image.tmdb.org/t/p/w500/kf3yX0ILNlLJ42X3lX2iYJ3QRp6.jpg",
+  "categoria": "séries",
+  "genero": "Drama",
+  "tipo": "serie",
+  "episodios": [
+    {
+      "temporada": 1,
+      "numero": 1,
+      "titulo": "Querido diário...",
+      "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/90260/1x1.mp4",
+      "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/7fdR1Th7LAhOzUZVcnzCnDwKc4.jpg"
+    },
+    {
+      "temporada": 1,
+      "numero": 2,
+      "titulo": "O mestre de uma transa",
+      "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/90260/1x2.mp4",
+      "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/ee6CnaD8ldtWVSD6aMgH9Yntb1e.jpg"
+    },
+    {
+      "temporada": 1,
+      "numero": 3,
+      "titulo": "A festa acabou",
+      "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/90260/1x3.mp4",
+      "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/uc6E8k7tCpTRxG1fn9t5VnCfcgP.jpg"
+    },
+    {
+      "temporada": 1,
+      "numero": 4,
+      "titulo": "Stan sabe",
+      "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/90260/1x4.mp4",
+      "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/elXA39mFwOHVdYp4qRurlv2gCFJ.jpg"
+    },
+    {
+      "temporada": 1,
+      "numero": 5,
+      "titulo": "Mais um dia no paraíso",
+      "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/90260/1x5.mp4",
+      "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/2HbSfPBcXj6ZsmmWGIyjUSCpGrT.jpg"
+    },
+    {
+      "temporada": 1,
+      "numero": 6,
+      "titulo": "Tal pai, tal filha",
+      "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/90260/1x6.mp4",
+      "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/jLhXaL0ue8IHv5eqyQ1M0QyFzwR.jpg"
+    },
+    {
+	  "temporada": 1,
+      "numero": 7,
+      "titulo": "Segredo mais sombrio",
+      "url": "http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/90260/1x7.mp4",
+      "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/j6MiMmc86hgFAGqKKlXqJ7yNCUF.jpg"
+    }
+	  
+       ]
+    },
+    {
+
   "id": "s38",
   "titulo": "Fleabag",
   "descricao": "Uma mulher autêntica que tenta retomar sua vida, enquanto rejeita a ajuda de qualquer um que tente se manter ao seu lado durante a sua crise.",
