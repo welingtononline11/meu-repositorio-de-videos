@@ -1591,21 +1591,21 @@
     },
 	{
       "id": "f28",
-      "titulo": "SporTV 3 HD",
+      "titulo": "SporTV 3 SD",
       "descricao": "",
       "capa": "",
       "imagem": "",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/1354.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/1355.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
     {
       "id": "f27",
-      "titulo": "SporTV 3 FHD",
+      "titulo": "SporTV 3 HD",
       "descricao": "",
       "capa": "",
       "imagem": "",
-      "url": "http://sinalmycn.com:80/5886285/5886285/21006",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/1354.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
