@@ -703,7 +703,7 @@
       "titulo": "[24H] Corrida Maluca",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/RXf1Go6.jpeg",
       "url": "https://direct.megafonte.site/server/giptv/router/145378.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -743,7 +743,7 @@
       "titulo": "[24H] Dragon Ball Classico",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/6XMKRjY.png",
       "url": "https://direct.megafonte.site/server/giptv/router/135473.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -753,7 +753,7 @@
       "titulo": "[24H] Dragon Ball GT",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/AFBdl2Y.png",
       "url": "https://direct.megafonte.site/server/giptv/router/135483.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -768,56 +768,6 @@
       "categoria": "TV",
       "tipo": "filme"
     },
-	{
-      "id": "f126",
-      "titulo": "24H Filmes Ação",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38028",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-    {
-      "id": "f125",
-      "titulo": "24H Filmes Animação Infa",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38029",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-    {
-      "id": "f124",
-      "titulo": "24H Filmes Comédia",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38030",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-    {
-      "id": "f123",
-      "titulo": "24H Filmes Lançamentos",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "https://8nwwqrar.12703830.net:8443/hls/a31q9.m3u8?s=aMM1ehn423QbIybjRLzn4Q&e=1779059097",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-    {
-      "id": "f122",
-      "titulo": "24H Filmes Suspense",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38033",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
     {
       "id": "f121",
       "titulo": "24H Futurama",
@@ -828,53 +778,13 @@
       "categoria": "TV",
       "tipo": "filme"
     },
-	  {
-      "id": "f699",
-      "titulo": "[24H] He Man e Os Defensores do Universo",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/iA5LCrG.png",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/6371831.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
 {
       "id": "f69",
-      "titulo": "[24H] Homem Aranha da Marvel [S01]",
+      "titulo": "[24H] Homem Aranha a Série Animada",
       "descricao": "",
       "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/155451.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f120",
-      "titulo": "[24H] iCarly [S03]",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/Jf8uthE.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/135508.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f119",
-      "titulo": "24H iCarly Revival Opção 1",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/RAjS79m.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/135455.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-    {
-      "id": "f118",
-      "titulo": "24H iCarly Revival Opção 2",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/RAjS79m.png",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38009",
+      "imagem": "https://i.imgur.com/lSbpz6Z.png",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7684929.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -884,7 +794,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/s0mLcH8.jpeg",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38013",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7328421.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -913,18 +823,8 @@
       "titulo": "[24H] Luluzinha",
       "descricao": "",
       "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/149604.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f52",
-      "titulo": "[24H] O Maskara",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/145380.m3u8",
+      "imagem": "https://i.imgur.com/rrlj7RX.png",
+      "url": "https://direct.megafonte.site/server/Caracol/router/9542816.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -933,28 +833,8 @@
       "titulo": "[24H] Os Padrinhos Magicos",
       "descricao": "",
       "capa": "",
-      "imagem": "https://i.imgur.com/4OsZpe3.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/135546.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f114",
-      "titulo": "[24H] Os Simpsons [S04]",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/tO4QE9r.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/135598.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-    {
-      "id": "f113",
-      "titulo": "24H Os Simpsons",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/tO4QE9r.png",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38000",
+      "imagem": "https://i.imgur.com/TOSyP90.png",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7685030.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -964,7 +844,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/UVTe90i.png",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/6371825.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7685126.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -974,7 +854,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/LaaMlAK.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/135499.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7685125.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -984,7 +864,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/uBaVjA7.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/140535.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7685196.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -994,7 +874,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/1eg1dUP.png",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38014",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7328434.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1004,7 +884,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/kmm5Aaj.png",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/6371814.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7685067.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1014,7 +894,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/YGn6ut7.jpeg",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/6371884.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7685134.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1024,7 +904,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/Bh3iqmS.jpeg",
-      "url": "http://sinalmycn.com:80/5886285/5886285/38008",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7324507.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1109,53 +989,12 @@
       "categoria": "TV",
       "tipo": "filme"
     },
-    {
-      "id": "f98",
-      "titulo": "AXN FHD",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/phYpkPT.png",
-      "url": "http://sinalmycn.com:80/5886285/5886285/13003",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f97",
-      "titulo": "BIS SD",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/71809.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f96",
-      "titulo": "BIS HD",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "https://direct.megafonte.site/server/giptv/router/71808.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	
-    {
-      "id": "f95",
-      "titulo": "Cine SKY 01",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "http://sinalmycn.com:80/5886285/5886285/16000",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
 	 {
       "id": "f94",
       "titulo": "Cinemax HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/83wPZtJ.png",
       "url": "https://direct.megafonte.site/server/giptv/router/71835.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1165,7 +1004,7 @@
       "titulo": "Cinemax FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/83wPZtJ.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/13009",
       "categoria": "TV",
       "tipo": "filme"
@@ -1175,7 +1014,7 @@
       "titulo": "Combate HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/ZMnLq2a.png",
       "url": "https://direct.megafonte.site/server/giptv/router/71845.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1185,28 +1024,17 @@
       "titulo": "Combate FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/ZMnLq2a.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/19006",
       "categoria": "TV",
       "tipo": "filme"
     },
-    {
-      "id": "f89",
-      "titulo": "DAZN 1",
-      "descricao": "",
-      "capa": "",
-      "imagem": "",
-      "url": "http://sinalmycn.com:80/5886285/5886285/19028",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	
 	{
       "id": "f88",
       "titulo": "Discovery H&H HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/zeCZ6Dz.png",
       "url": "https://direct.megafonte.site/server/giptv/router/71869.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1216,7 +1044,7 @@
       "titulo": "Discovery H&H FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/zeCZ6Dz.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/12012",
       "categoria": "TV",
       "tipo": "filme"
@@ -1226,7 +1054,7 @@
       "titulo": "Disney+ 1",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/GTOBoLh.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/19041",
       "categoria": "TV",
       "tipo": "filme"
@@ -1236,7 +1064,7 @@
       "titulo": "Disney+ 2",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/GTOBoLh.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/19042",
       "categoria": "TV",
       "tipo": "filme"
@@ -1276,7 +1104,7 @@
       "titulo": "ESPN 2 HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/zFHF0Kx.png",
       "url": "https://direct.megafonte.site/server/giptv/router/71922.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1286,7 +1114,7 @@
       "titulo": "ESPN 2 FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/zFHF0Kx.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/22003",
       "categoria": "TV",
       "tipo": "filme"
@@ -1296,7 +1124,7 @@
       "titulo": "ESPN 3 HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/Fojw8bU.png",
       "url": "https://direct.megafonte.site/server/giptv/router/71909.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1306,7 +1134,7 @@
       "titulo": "ESPN 3 FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/Fojw8bU.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/22006",
       "categoria": "TV",
       "tipo": "filme"
@@ -1316,7 +1144,7 @@
       "titulo": "ESPN 4 HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/wvxUyoj.png",
       "url": "https://direct.megafonte.site/server/giptv/router/71960.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1326,7 +1154,7 @@
       "titulo": "ESPN 4 FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/wvxUyoj.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/22009",
       "categoria": "TV",
       "tipo": "filme"
@@ -1336,7 +1164,7 @@
       "titulo": "ESPN 5 SD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/5BFYD4l.png",
       "url": "https://direct.megafonte.site/server/OnPIX/router/466.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1346,7 +1174,7 @@
       "titulo": "ESPN 5 HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/5BFYD4l.png",
       "url": "https://direct.megafonte.site/server/OnPIX/router/465.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1376,7 +1204,7 @@
       "titulo": "HBO HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/nBYcoKL.png",
       "url": "https://direct.megafonte.site/server/giptv/router/72120.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1386,7 +1214,7 @@
       "titulo": "HBO FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/nBYcoKL.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/14000",
       "categoria": "TV",
       "tipo": "filme"
@@ -1396,7 +1224,7 @@
       "titulo": "HBO Family HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/ozBlU8R.png",
       "url": "https://direct.megafonte.site/server/giptv/router/72116.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1406,7 +1234,7 @@
       "titulo": "HBO Family FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/ozBlU8R.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/14006",
       "categoria": "TV",
       "tipo": "filme"
@@ -1416,7 +1244,7 @@
       "titulo": "HBO Mundi HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/NrNkNVc.png",
       "url": "https://direct.megafonte.site/server/giptv/router/72123.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1424,7 +1252,7 @@
     {
       "id": "f63",
       "titulo": "HBO Mundi FHD",
-      "descricao": "",
+      "descricao": "https://i.imgur.com/NrNkNVc.png",
       "capa": "",
       "imagem": "",
       "url": "http://sinalmycn.com:80/5886285/5886285/14009",
@@ -1436,7 +1264,7 @@
       "titulo": "HBO Plus HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/qE8mZXo.png",
       "url": "https://direct.megafonte.site/server/giptv/router/72127.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1446,7 +1274,7 @@
       "titulo": "HBO Plus FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/qE8mZXo.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/14012",
       "categoria": "TV",
       "tipo": "filme"
@@ -1456,7 +1284,7 @@
       "titulo": "HBO Pop FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/TObkR2G.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/14015",
       "categoria": "TV",
       "tipo": "filme"
@@ -1466,7 +1294,7 @@
       "titulo": "HBO Xtreme HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/7VhuIuU.png",
       "url": "https://direct.megafonte.site/server/giptv/router/72140.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1476,7 +1304,7 @@
       "titulo": "HBO Xtreme FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/7VhuIuU.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/14021",
       "categoria": "TV",
       "tipo": "filme"
@@ -1486,7 +1314,7 @@
       "titulo": "Megapix HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/zV1d6gu.png",
       "url": "https://direct.megafonte.site/server/giptv/router/72169.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1496,7 +1324,7 @@
       "titulo": "Megapix FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/zV1d6gu.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/13015",
       "categoria": "TV",
       "tipo": "filme"
@@ -1566,7 +1394,7 @@
       "titulo": "Premiere 2 HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/FpNYORt.png",
       "url": "https://direct.megafonte.site/server/giptv/router/72239.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1576,7 +1404,7 @@
       "titulo": "Premiere 2 FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/FpNYORt.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/20003",
       "categoria": "TV",
       "tipo": "filme"
@@ -1586,7 +1414,7 @@
       "titulo": "Premiere 3 HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/l0Ft1JI.png",
       "url": "https://direct.megafonte.site/server/giptv/router/72243.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1596,7 +1424,7 @@
       "titulo": "Premiere 3 FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/l0Ft1JI.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/20006",
       "categoria": "TV",
       "tipo": "filme"
@@ -1606,7 +1434,7 @@
       "titulo": "Premiere 4 HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/ytmfrDo.png",
       "url": "https://direct.megafonte.site/server/giptv/router/72247.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1616,7 +1444,7 @@
       "titulo": "Premiere 4 FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/ytmfrDo.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/20009",
       "categoria": "TV",
       "tipo": "filme"
@@ -1626,7 +1454,7 @@
       "titulo": "Premiere 5 HD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/jiyXz25.png",
       "url": "https://direct.megafonte.site/server/giptv/router/72251.m3u8",
       "categoria": "TV",
       "tipo": "filme"
@@ -1636,7 +1464,7 @@
       "titulo": "Premiere 5 FHD",
       "descricao": "",
       "capa": "",
-      "imagem": "",
+      "imagem": "https://i.imgur.com/jiyXz25.png",
       "url": "http://sinalmycn.com:80/5886285/5886285/20012",
       "categoria": "TV",
       "tipo": "filme"
