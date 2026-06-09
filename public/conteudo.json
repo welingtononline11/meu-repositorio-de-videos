@@ -564,17 +564,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/CA6mubZ.jpeg",
-      "url": "https://direct.megafonte.site/server/giptv/router/150489.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f148",
-      "titulo": "24H A Turma do Zé Coméia",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/fYIv5bd.png",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/6371820.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7324513.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -584,17 +574,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/97isOtp.png",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/6372040.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	 {
-      "id": "f146",
-      "titulo": "[24H] Aladdin",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/ECfBFoX.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/138730.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7684983.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -604,33 +584,13 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/yeoUeLU.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/135542.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f143",
-      "titulo": "[24H] As Novas Aventuras do Superman",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/89PyDJg.jpeg",
-      "url": "https://direct.megafonte.site/server/giptv/router/135554.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7685184.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
 	{
       "id": "f142",
-      "titulo": "24H As Visões da Raven HD",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/oWqkyJt.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/135558.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-    {
-      "id": "f141",
-      "titulo": "24H As Visões da Raven FHD",
+      "titulo": "24H As Visões da Raven",
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/oWqkyJt.png",
@@ -644,17 +604,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/rkMRj47.jpeg",
-      "url": "https://direct.megafonte.site/server/giptv/router/138813.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f139",
-      "titulo": "[24H] Beyblade",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/isx2W8Z.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/140543.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7684980.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -670,11 +620,11 @@
     },
     {
       "id": "f136",
-      "titulo": "24H Bob Esponja Calça Quadrada T04",
+      "titulo": "24H Bob Esponja Calça Quadrada",
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/Irc29Ok.jpeg",
-      "url": "https://direct.megafonte.site/server/giptv/router/138067.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7685113.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -684,7 +634,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/yj8I42R.png",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/6371837.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7685166.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -694,27 +644,17 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/E41V23i.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/137142.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f90",
-      "titulo": "[24H] Corrida Maluca",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/RXf1Go6.jpeg",
-      "url": "https://direct.megafonte.site/server/giptv/router/145378.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7462390.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
 	{
       "id": "f132",
-      "titulo": "24H Digimon Adventure HD",
+      "titulo": "24H Digimon Adventure",
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/Ud9wLTL.png",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/6371812.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7685065.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -734,27 +674,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/2szDmv1.png",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/6371815.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f83",
-      "titulo": "[24H] Dragon Ball Classico",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/6XMKRjY.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/135473.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f82",
-      "titulo": "[24H] Dragon Ball GT",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/AFBdl2Y.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/135483.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7685214.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -768,23 +688,13 @@
       "categoria": "TV",
       "tipo": "filme"
     },
-    {
-      "id": "f121",
-      "titulo": "24H Futurama",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/kVgt1HP.png",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/6371833.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
 {
       "id": "f69",
       "titulo": "[24H] Homem Aranha a Série Animada",
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/lSbpz6Z.png",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/7684929.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7685212.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -815,26 +725,6 @@
       "capa": "",
       "imagem": "https://i.imgur.com/EK9xmfu.png",
       "url": "https://direct.megafonte.site/server/Caracol/router/9542813.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	  {
-      "id": "f57",
-      "titulo": "[24H] Luluzinha",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/rrlj7RX.png",
-      "url": "https://direct.megafonte.site/server/Caracol/router/9542816.m3u8",
-      "categoria": "TV",
-      "tipo": "filme"
-    },
-	{
-      "id": "f115",
-      "titulo": "[24H] Os Padrinhos Magicos",
-      "descricao": "",
-      "capa": "",
-      "imagem": "https://i.imgur.com/TOSyP90.png",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/7685030.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -894,7 +784,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/YGn6ut7.jpeg",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/7685134.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7685194.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -924,7 +814,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/yVwm3CC.png",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/6372013.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/7685193.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1031,11 +921,11 @@
     },
 	{
       "id": "f88",
-      "titulo": "Discovery H&H HD",
+      "titulo": "Discovery H&H SD",
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/zeCZ6Dz.png",
-      "url": "https://direct.megafonte.site/server/giptv/router/71869.m3u8",
+      "url": "https://direct.megafonte.site/server/OnPIX/router/4610183.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1045,7 +935,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/zeCZ6Dz.png",
-      "url": "http://sinalmycn.com:80/5886285/5886285/12012",
+      "url": "https://direct.megafonte.site/server/Caracol/router/3979512.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
