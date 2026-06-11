@@ -2283,6 +2283,16 @@
   "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg",
   "legendaUrl": "",
       "legendaIdioma": "Português"
+	},
+{
+  "temporada": 4,
+  "numero": 7,
+  "titulo": "Os Planos Mais Bem Feitos",
+  "url": "httpu8",
+  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
+  "legendaUrl": "https://embed-cloudfront.wistia.com/deliveries/04cdf256ff5bc2c2c51da7b925dba4ffbd8d2205.m3u8",
+      "legendaIdioma": "Português"
+
 
 }		  
        ]
@@ -2359,7 +2369,15 @@
           "numero": 8,
           "titulo": "Seu Passado",
           "url": "https://embed-cloudfront.wistia.com/deliveries/db8e886f5bed8a45c996323d195f6977034e183e.m3u8",
-		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/eh3wez62jJ79krAvtgWLRVStUZj.jpg"	  
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/eh3wez62jJ79krAvtgWLRVStUZj.jpg"
+
+			  },
+		  {
+          "temporada": 1,
+          "numero": 9,
+          "titulo": "Abrigo de Emergência",
+          "url": "https://embed-cloudfront.wistia.com/deliveries/61e4206a1db66a1daa6210455fecf0bf95a18a6b.m3u8",
+		  "imagem": "https://media.themoviedb.org/t/p/w227_and_h127_face/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg"
 
 			  }
        ]
