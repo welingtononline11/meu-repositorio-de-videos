@@ -660,11 +660,11 @@
     },
 	{
       "id": "f130",
-      "titulo": "[24H] Dois Homens e Meio",
+      "titulo": "[24H] Dois Homens e Meio T1-4",
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/QIKzBUC.png",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/7328412.m3u8",
+      "url": "https://speed.megafilmeshd9.com/midia/speed-1/1249297.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -680,11 +680,31 @@
     },
     {
       "id": "f127",
-      "titulo": "24H Eu a Patroa e as Crianças",
+      "titulo": "24H Eu a Patroa e as Crianças T3",
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/wNcJcJv.png",
-      "url": "https://direct.megafonte.site/server/Caracol/router/9542864.m3u8",
+      "url": "httpsm3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f127",
+      "titulo": "24H Eu a Patroa e as Crianças T4",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/wNcJcJv.png",
+      "url": "https://speed.megafilmeshd9.com/midia/speed-1/1249214.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f127",
+      "titulo": "24H Eu a Patroa e as Crianças T5",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/wNcJcJv.png",
+      "url": "https://speed.megafilmeshd9.com/midia/speed-1/1281912.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -714,7 +734,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/EK9xmfu.png",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/7685208.m3u8",
+      "url": "https://speed.megafilmeshd9.com/midia/speed-2/7685208.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -809,12 +829,22 @@
       "tipo": "filme"
     },
 	{
-      "id": "f105",
-      "titulo": "[24H] X Men Serie Animada",
+      "id": "f1055",
+      "titulo": "[24H] X Men Serie Animada OPÇÃO 1",
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/yVwm3CC.png",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/7685193.m3u8",
+      "url": "https://speed.megafilmeshd9.com/midia/speed-2/7685193.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f105",
+      "titulo": "[24H] X Men Serie Animada OPÇÃO 2",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/yVwm3CC.png",
+      "url": "https://speed.megafilmeshd9.com/midia/speed-2/7685193.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1075,7 +1105,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/GV2Aqpu.png",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/4814001.m3u8",
+      "url": "https://speed.megafilmeshd9.com/midia/speed-1/2112.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
@@ -1085,7 +1115,7 @@
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/METpx6E.png",
-      "url": "https://direct.megafonte.site/server/OnPIX/router/4814020.m3u8",
+      "url": "https://speed.megafilmeshd9.com/midia/speed-1/1830.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
