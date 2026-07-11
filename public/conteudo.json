@@ -678,13 +678,33 @@
       "categoria": "TV",
       "tipo": "filme"
     },
+	  {
+      "id": "f1277",
+      "titulo": "24H Eu a Patroa e as Crianças T1",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/wNcJcJv.png",
+      "url": "https://speed.megafilmeshd9.com/midia/speed-1/1249211.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
+	  {
+      "id": "f1278",
+      "titulo": "24H Eu a Patroa e as Crianças T2",
+      "descricao": "",
+      "capa": "",
+      "imagem": "https://i.imgur.com/wNcJcJv.png",
+      "url": "https://speed.megafilmeshd9.com/midia/speed-1/1249212.m3u8",
+      "categoria": "TV",
+      "tipo": "filme"
+    },
     {
       "id": "f127",
       "titulo": "24H Eu a Patroa e as Crianças T3",
       "descricao": "",
       "capa": "",
       "imagem": "https://i.imgur.com/wNcJcJv.png",
-      "url": "httpsm3u8",
+      "url": "https://speed.megafilmeshd9.com/midia/speed-1/1249213.m3u8",
       "categoria": "TV",
       "tipo": "filme"
     },
