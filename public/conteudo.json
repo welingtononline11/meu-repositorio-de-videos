@@ -1814,8 +1814,45 @@
 	
   "series": [
     {
-
-		
+      "id": "S40",
+      "titulo": "O Fim da Infância",
+      "descricao": "Raça alienígena chega à Terra colocando fim em todas as guerras. Intelectual, tecnológica e militarmente superior aos humanos, consegue reconstruir a sociedade, transformando a Terra em um planeta quase utópico. No entanto, neste processo, os humanos perdem sua identidade cultural.",
+      "capa": "https://image.tmdb.org/t/p/w500/iPe8bIIRCakdE9iCdb94i4vAhYW.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w500/76u30jLoKqvGXL43tU2dsc5TUvZ.jpg",
+      "categoria": "séries",
+      "genero": "Ficção científica",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "Os Overlords",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/63647/1x1.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/6ouuHtY46qwTomjUI53ssI4Tijh.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "Os Deceivers",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/63647/1x2.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/gEwKxzBVyti6nc5ckZ2L0iSbQFD.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "As Crianças",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/63647/1x3.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/80Svb1pKqxnuk2xi5GSC4UgByrq.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        }
+      ]
+    },
+    {	
   "id": "s39",
   "titulo": "I Am Not Okay with This",
   "descricao": "Syd lida com as turbulências do ensino médio, um drama familiar e um crush não correspondido pela sua melhor amiga enquanto tenta controlar seus crescentes superpoderes.",
