@@ -1814,6 +1814,288 @@
 	
   "series": [
     {
+		"id": "S41",
+      "titulo": "Fundação",
+      "descricao": "Inspirada nas obras de romance de Isaac Asimov, Foundation retrata a épica jornada espacial de um grupo de exilados tentando salvar a humanidade durante a queda do Império Galáctico.",
+      "capa": "https://image.tmdb.org/t/p/w500/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w500/6qRIQqWwnxVemvvDfFuK3kkIqpS.jpg",
+      "categoria": "séries",
+      "genero": "Ficção científica",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "A paz do imperador",
+          "url": "https://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93740/1x1.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/eYwAsUtxMxyGv1qJ9asMftaqjUE.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "Preparando para viver",
+          "url": "https://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93740/1x2.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/uC0BRA2QgSKZnswPAdaw1u5UwWf.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "O fantasma do matemático",
+          "url": "https://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93740/1x3.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/cU2elll7NKNGnXxmDPSFntlJnul.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "Bárbaros no portão",
+          "url": "https://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93740/1x4.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/k0sNoraOGogMPnzn68Ws973PtEN.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "Ao Despertar",
+          "url": "https://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93740/1x5.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/dIjF3UqGq0Rqa0yJ6QpMQtpo3xu.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 6,
+          "titulo": "Morte e a moça",
+          "url": "https://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93740/1x6.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/v7E6LyZoEgNwtCwS2l17Q0irFZf.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 7,
+          "titulo": "Mistérios e mártires",
+          "url": "https://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93740/1x7.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/xFFvPC2E2pvItVpz6VHdSD8WxJ1.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 8,
+          "titulo": "A peça que falta",
+          "url": "https://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93740/1x8.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/lTr4e8NpKN60X3fd24FAxiY32WB.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 9,
+          "titulo": "A primeira crise",
+          "url": "https://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93740/1x9.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/oB5uoHXfPIFeDkmfSrHL8SdxAAS.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 10,
+          "titulo": "O salto",
+          "url": "https://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93740/1x10.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/tJXAQitxYZ4QjghdgDJrKPsbJUx.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 1,
+          "titulo": "À sombra de Seldon",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/tLNS2wdCSAFmPmunZo1P5WQg0Pi.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 2,
+          "titulo": "Uma visão da escuridão",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/hOF35xreGykyz32jsPCZQKiLXNB.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 3,
+          "titulo": "Rei e plebeu",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/vuUsc3ROf2fWWcQ1d5Zonm85KmE.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 4,
+          "titulo": "Onde as estrelas estão finamente espalhadas",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/4yMVqiszhhX38NetKQCKEijcHnq.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 5,
+          "titulo": "O avistado e o visto",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/53dsfLChOJKy6Nq7ujzPvCf1wM1.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 6,
+          "titulo": "Por que os deuses fizeram vinho",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/qH7tvEWcfvt6UrkJAw50cCx0lr7.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 7,
+          "titulo": "Uma morte necessária",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/9Q6kNbwsGUyircoQqe2lV6TnW4m.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 8,
+          "titulo": "A Última Imperatriz",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/6GYAXHmylEJY2K3Oeqgux7CO89J.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 9,
+          "titulo": "Há muito tempo, não muito longe",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/TdUee5ZozmAkQYIW3vguNOLy5u.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 10,
+          "titulo": "Mitos de Criação",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/rDBBUToa28804yhpI5A1Qlu0E6P.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 1,
+          "titulo": "Uma Canção para o Fim de Todas as Coisas",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/9YXWjKj6SDCaE3SaWbyfjjrPJIt.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 2,
+          "titulo": "Sombras na Matemática",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/wJGsaCKAQYwSnD972hWsPKTn13W.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 3,
+          "titulo": "Quando um Livro Encontra Você",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/1NAH40bTLHuAPNdpRK9TRdhFEsG.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 4,
+          "titulo": "O Olhar Penetrante Dela",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/fwTUbKEki6eO6z6zIPkvrUbQpjd.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 5,
+          "titulo": "Onde os Tiranos Passam a Eternidade",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/4243bk9E9odifNWS8HNJCWiGfiO.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 6,
+          "titulo": "A Forma do Tempo",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/vnGCFHmCWi4jimCF78mZpOsK2tb.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 7,
+          "titulo": "O Fim da Fundação",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/ka66SFrROXRhnyJeMjBE5jZHGp8.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 8,
+          "titulo": "Carne e Osso",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/hBNYVvVkU1mMgJh5Do7ol8Ck4gi.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 9,
+          "titulo": "Os Caminhos que nos Escolhem",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/6fmWveBPYdcAKxMT7tEGVZLvYJx.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 10,
+          "titulo": "A Escuridão",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/eFNDKhD0uNFH04yAXjVoNnyoWdR.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        }
+      ]
+    },
+    {
       "id": "S40",
       "titulo": "O Fim da Infância",
       "descricao": "Raça alienígena chega à Terra colocando fim em todas as guerras. Intelectual, tecnológica e militarmente superior aos humanos, consegue reconstruir a sociedade, transformando a Terra em um planeta quase utópico. No entanto, neste processo, os humanos perdem sua identidade cultural.",
