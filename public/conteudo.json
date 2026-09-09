@@ -560,6 +560,234 @@
   ],
   "series": [
     {
+      "id": "s40",
+      "titulo": "Big Bang: A Teoria",
+      "descricao": "Leonard e Sheldon são dois jovens cientistas que moram juntos, sabem tudo de física, mas não parecem saber como se relacionar com mulheres. Seus únicos amigos são Howard e Rajesh, mas tudo pode mudar quando conhecem a nova vizinha, a bela Penny, que logo encanta Leonard.",
+      "capa": "https://image.tmdb.org/t/p/w500/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w500/1oODZKc1dpQZvtZPaZVWR11dzEI.jpg",
+      "categoria": "séries",
+      "genero": "Comédia",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 7,
+          "numero": 1,
+          "titulo": "A Insuficiência de Hofstadter",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x1.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/nf766vILhf88IUK49TE6kzN125n.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 2,
+          "titulo": "A Verificação da Decepção",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x2.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/bR3Xk5ZEGDC902HncROZmjdKbGK.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 3,
+          "titulo": "O Vórtice do Tesouro",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x3.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/AsjWlSjl6PSwQQy5q8hbNGqAykL.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 4,
+          "titulo": "A Minimização dos Caçadores",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x4.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/66MAd0Sos3XnYxpHlKpvYo1nSw0.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 5,
+          "titulo": "A Proximidade do Local de Trabalho",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x5.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/k8atjbd5gAsntuhbPnFpvnvo0qn.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 6,
+          "titulo": "A Ressonância do Romance",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x6.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/y6jm6HlK6b2EaOitYUjapVLDQq0.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 7,
+          "titulo": "O Deslocamento do Próton",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x7.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/j1NUVbJ36CaGqjgFJDi0xR47YON.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 8,
+          "titulo": "A Simulação da Coceira no Cérebro",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x8.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/hHU9wgntzMzHneZ8quyVzAsuMa9.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 9,
+          "titulo": "O desemparelhamento do Dia de Ação de Graças",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x9.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/wz5UxaCaHm7cehjD2uqxHLLI29s.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 10,
+          "titulo": "A Dissipação da Descoberta",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x10.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/eNEHrIcKPR62YiXQNxRZ3VRUjIG.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 11,
+          "titulo": "A Extração de Cooper",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x11.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/x5IPGYLsPs2XQVi1jzg7Pk6QYE3.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 12,
+          "titulo": "A Ramificação da Hesitação",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x12.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/znhuvcswL1TtQZHMG1OwBEb8IUW.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 13,
+          "titulo": "A Recalibração da Ocupação",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x13.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/6nWIj6pBKcElp8d2XPsBxmh8ICO.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 14,
+          "titulo": "O Enigma da Convenção",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x14.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/ogCao2o4NJfNJtU9PRTUSNuVCEk.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 15,
+          "titulo": "A Manipulação da Locomotiva",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x15.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/rvUHJolWcZjsylolTowKMSMlZPD.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 16,
+          "titulo": "A Polarização da Mesa",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x16.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/55tDqA5FbYHGVnlIfnMfDsRlu7E.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 17,
+          "titulo": "A Turbulência da Amizade",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x17.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/A7ciWxOm5ysb5xI8gspY4Q96OJH.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 18,
+          "titulo": "A Observação da Mamãe",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x18.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/xOlmMD8mkSYcZjGDibQ0sglYLl4.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 19,
+          "titulo": "A Amalgamação da Indecisão",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x19.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/xQ2Sa0JlkjR7QMnxGZkNQxjz8PI.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 20,
+          "titulo": "A Disjunção da Relação",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x20.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/wufZnQDjcK86JqSAcnR1Xowv2KU.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 21,
+          "titulo": "A Recorrência de Tudo que Pode Acontecer",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x21.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/gqjU1LjuTzWmQqLp3XCjQ4zhyUX.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 22,
+          "titulo": "A Transmogrificação do Próton",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x22.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/mTOX0QJ4S4XJZRTLgNv7ph1H2Cl.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 23,
+          "titulo": "A Dissolução do Gorila",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x23.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/zhcQnZ5ZsDlVBHePHnJwYjs3xWt.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 7,
+          "numero": 24,
+          "titulo": "A Combustão do Status Quo",
+          "url": "http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1418/7x24.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/zPV7LQqkOR2F479tBCTHvE8oiVR.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        }
+      ]
+    },
+    {
       "id": "S41",
       "titulo": "Fundação",
       "descricao": "Inspirada nas obras de romance de Isaac Asimov, Foundation retrata a épica jornada espacial de um grupo de exilados tentando salvar a humanidade durante a queda do Império Galáctico.",
