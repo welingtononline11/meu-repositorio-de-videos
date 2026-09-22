@@ -560,6 +560,190 @@
   ],
   "series": [
     {
+      "id": "s42",
+      "titulo": "Matéria Escura",
+      "descricao": "Jason Dessen é sequestrado para uma versão alternativa de sua vida. Em busca de voltar para sua verdadeira família, ele embarca em uma jornada angustiante para salvá-los do inimigo mais terrível que se possa imaginar: ele mesmo.",
+      "capa": "https://image.tmdb.org/t/p/w500/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w500/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg",
+      "categoria": "séries",
+      "genero": "Ficção científica",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "Você está feliz com a sua vida?",
+          "url": "http://shd11.oneplayer.site/token/SHD11/196322/1x1.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/m2JEzsrAVVVQX5LOCuhEueaDX9B.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "A viagem de uma vida",
+          "url": "http://shd11.oneplayer.site/token/SHD11/196322/1x2.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/tGDNcydJxlu448Mc5Qkdmw2NzWz.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "A caixa",
+          "url": "http://shd11.oneplayer.site/token/SHD11/196322/1x3.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/AiNx1G22SQoZqhzXBdoof4OxuG4.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "O corredor",
+          "url": "http://shd11.oneplayer.site/token/SHD11/196322/1x4.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/1HPXVsf4VVLOLGT7J768LKsmI4a.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "Sem mundo",
+          "url": "http://shd11.oneplayer.site/token/SHD11/196322/1x5.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/yCqgQ9g4qKpY3Zi7C2ekwJZDqjB.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 6,
+          "titulo": "Superposição",
+          "url": "http://shd11.oneplayer.site/token/SHD11/196322/1x6.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/t38bXfIrb3rFEh6mNQidHSxD3Pf.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 7,
+          "titulo": "No brilho das estrelas mortas",
+          "url": "http://shd11.oneplayer.site/token/SHD11/196322/1x7.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/2KHUbO3DrLjtoHzX2o1sbPm22yz.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 8,
+          "titulo": "Júpiter",
+          "url": "http://shd11.oneplayer.site/token/SHD11/196322/1x8.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/9t6UGyGDiQoQosJdgNxJekAz1WN.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 9,
+          "titulo": "Emaranhamento",
+          "url": "http://shd11.oneplayer.site/token/SHD11/196322/1x9.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/wfLwlOHBy10TUE8WsebmlcFUx6a.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 1,
+          "titulo": "Uma vida tranquila",
+          "url": "http://shd11.oneplayer.site/token/SHD11/196322/2x1.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/jHUL16ojK9QYrV6s9WWGYPAS4xZ.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 2,
+          "titulo": "Um mundo perfeito",
+          "url": "http://shd11.oneplayer.site/token/SHD11/196322/2x2.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/5o61pixyxI3E0mipNH3i43hZt1c.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 3,
+          "titulo": "Tudo belo, tudo terrível",
+          "url": "http://shd11.oneplayer.site/token/SHD11/196322/2x3.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/5IOsWFbPm8fOuDGi1nJ2ElIxjgY.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 4,
+          "titulo": "Estrelas, escondei vossos fulgores",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/li2ntCYq9ncHEW51mbp7eiANbU.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 5,
+          "titulo": "Amar e ser amado",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/kBGLaOjO3VWvhhr4bEJ34nQgFnW.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 6,
+          "titulo": "Episódio 6",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/uhDr7Cji7HMUdetru7Emjc9f6rF.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 7,
+          "titulo": "Episódio 7",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/hgf51lWkKYY5eeGne3gM2RzFK59.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 8,
+          "titulo": "Episódio 8",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/cfmXxBrphqtJG7GEGg1pjmQuUZE.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 9,
+          "titulo": "Episódio 9",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/1Cb4zskLCxOQl8UG2W8M33LVWip.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 10,
+          "titulo": "Episódio 10",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/7xpffs8Bb514duYm3sA2wHGJzPn.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        }
+      ],
+      "tmdb_id": 196322
+    },
+    {
       "id": "s41",
       "titulo": "Duas Garotas em Apuros",
       "descricao": "Max é trabalhadora, esperta e está sempre dura. Caroline veio de família rica, sempre teve tudo o que quis, mas pela primeira vez na vida está sentindo na pele o que é não ter dinheiro. Duas mulheres de mundos diferentes que são unidas pelo destino por compartilhar da mesma precária situação financeira.",
