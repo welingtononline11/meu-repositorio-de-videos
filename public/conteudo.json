@@ -560,6 +560,450 @@
   ],
   "series": [
     {
+      "id": "s43",
+      "titulo": "JoJo's Bizarre Adventure",
+      "descricao": "A história acompanha as aventuras de cada membro de uma família, Joestar, que domina poderes únicos, cada um com sua singularidade.",
+      "capa": "https://image.tmdb.org/t/p/w500/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w500/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "categoria": "séries",
+      "genero": "Animação",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 2,
+          "numero": 1,
+          "titulo": "O Homem Possuído por um Espírito Maligno",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x1.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/scuOivodwsDs5BNZkUY2jS13sg8.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 2,
+          "titulo": "Quem Vai Julgar?",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x2.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/6JCNGcKc2R7Zq7LGC3cFj3UGfio.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 3,
+          "titulo": "A Maldição de Dio",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x3.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/2X1Zfstzr1BW52HNjRMRsKnZdL4.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 4,
+          "titulo": "Tower of Grey",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x4.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/nlp95NrM938sMl1kKB8osMAtLLT.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 5,
+          "titulo": "Silver Chariot",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x5.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/AghzF1rmCHZGDdsXN3SMKNRTr8i.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 6,
+          "titulo": "Dark Blue Moon",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x6.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/jhdE6sVVhwSsxK0xK9RB3qpyy8j.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 7,
+          "titulo": "Força",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x7.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/xjsHMznSir3akHtnH16BIDcshKc.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 8,
+          "titulo": "Diabo",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x8.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/3rYTunOs5VGdfaGrCxDXgF86ysu.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 9,
+          "titulo": "Yellow Temperance",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x9.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/dUET3TBGxt9thWuzUrFe3tpfaCr.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 10,
+          "titulo": "O Imperador e o Enforcado, Parte 1",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x10.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/a8nRTcBGY1Vw03jjYkwFYEPKFzv.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 11,
+          "titulo": "O Imperador e o Enforcado, Parte 2",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x11.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/mfj3aCnfgvcXOfl3tDAtv4o737Y.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 12,
+          "titulo": "A Imperatriz",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x12.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/3QC9GTMDCFMpKAQV4YquiNffeVO.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 13,
+          "titulo": "Roda da Fortuna",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x13.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/l8YemAEaMUomMc2JSZ7ARVUwxzP.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 14,
+          "titulo": "Justiça, Parte 1",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x14.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/zf52X5JVA4svjbcd2fYjZDLvLT1.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 15,
+          "titulo": "Justiça, Parte 2",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x15.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/ae3To4PGIz11AJYVTWhT9SYaVEt.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 16,
+          "titulo": "Os Amantes, Parte 1",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x16.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/zRVljMFwpT6Hoi5pBqGJ173KqYO.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 17,
+          "titulo": "Os Amantes, Parte 2",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x17.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/ideF7jyIvlj1C1oXyknK5XOiYkj.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 18,
+          "titulo": "O Sol",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x18.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/aENpJDDr3ushwPog85QES5yrgRP.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 19,
+          "titulo": "Death 13, Parte 1",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x19.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/4r3BvItPiJr4MrfzMoSRSGhRp1z.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 20,
+          "titulo": "Death 13, Parte 2",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x20.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/5maqmVMqvLRa8upCTFsDb0eeygD.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 21,
+          "titulo": "Julgamento, Parte 1",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x21.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/e5139qNppxsh1F7fHjG6O9dKxjT.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 22,
+          "titulo": "Julgamento, Parte 2",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x22.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/or6DarOe0ZcIMkl5TA224tz07JA.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 23,
+          "titulo": "Sacerdotisa, Parte 1",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x23.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/gK8xfRGEpShOqIJZOnbaiZSRCwz.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 24,
+          "titulo": "Sacerdotisa, Parte 2",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x24.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/ybjDqAtZlcQqX1crhjfucCK2Gl1.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 25,
+          "titulo": "Iggy, O Louco e N'Dour, o Deus Geb, Parte 1",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x25.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/3XwUNDyCQAei6IePlSk5JFRIwRe.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 26,
+          "titulo": "Iggy, O Louco e N'Dour, o Deus Geb, Parte 2",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x26.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/db0YUJSa3uBYfDP4mstU36wYaMJ.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 27,
+          "titulo": "Oingo, o Deus Khnum, e Boingo, o Deus Thoth",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x27.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/9lfYDhmJG3sGAXK13PoqHAGMB22.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 28,
+          "titulo": "O Deus Anúbis, Parte 1",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x28.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/nE1IrnhJ5WU13z4tqv8oOtK1iZw.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 29,
+          "titulo": "O Deus Anúbis, Parte 2",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x29.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/bnCgizSKrtxcqNrich0nCux2qgG.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 30,
+          "titulo": "Mariah, a Deusa Bastet, Parte 1",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x30.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/mKGaC0WiexoA4Jd2nUFFhFOqgHf.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 31,
+          "titulo": "Mariah, a Deusa Bastet, Parte 2",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x31.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/uMUJQK3VKOCYa43uDJijIl5Gm9c.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 32,
+          "titulo": "Alessi, o Deus Set, Parte 1",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x32.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/38depNzJoAwTiPrTMcnKkiTYzmT.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 33,
+          "titulo": "Alessi, o Deus Set, Parte 2",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x33.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/sYfWY9lmN1BDI2StfbAcCEaGNfX.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 34,
+          "titulo": "D'Arby, o Apostador, Parte 1",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x34.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/3dfumkrWvl7i2ZU1yf1I02lY7SZ.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 35,
+          "titulo": "D'Arby, o Apostador, Parte 2",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x35.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/AaUk3ahTeQpXd2mPXCM8wsERvpU.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 36,
+          "titulo": "Hol Horse e Boingo, Parte 1",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x36.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/f6Lnvajx0feVeG3AR4QlNIWFWR6.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 37,
+          "titulo": "Hol Horse e Boingo, Parte 2",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x37.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/kLW6AulYuSXQqJ7HdXWoSM0KRlL.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 38,
+          "titulo": "Pet Shop, o Sentinela do Portão do Inferno, Parte 1",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x38.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/eEprs6tiQa24m3G1kPCujYXCOpG.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 39,
+          "titulo": " Pet Shop, o Sentinela do Portão do Inferno, Parte 2",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x39.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/olpY2DpVZ1oCX3slcbdkcYUSkvt.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 40,
+          "titulo": "D'Arby, o Jogador, Parte 1",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x40.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/9wsSFOy8dTFwCFIfdmceUderqIh.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 41,
+          "titulo": "D'Arby, o Jogador, Parte 2",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x41.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/xBCQMVNvdMjIFCF8wFNRgGPUKtu.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 42,
+          "titulo": "Vanilla Ice, o Miasma do Vácuo, Parte 1",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x42.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/tWmCXre18IIcYeVkVR4h2WNRLjj.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 43,
+          "titulo": "Vanilla Ice, o Miasma do Vácuo, Parte 2",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x43.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/qOJSGnaTECGVtb5n6JdPMYW96Jz.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 44,
+          "titulo": "Vanilla Ice, o Miasma do Vácuo, Parte 3",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x44.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/tprc4D4pUUg1UaqlvPtFas65BkG.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 45,
+          "titulo": "O Mundo de Dio, Parte 1",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x45.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/xfuKQlbOCGlKutTYMgpXvBMCAYP.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 46,
+          "titulo": "O Mundo de Dio, Parte 2",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x46.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/qVbacHWGilpaxhNthKy3LhVpQoD.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 47,
+          "titulo": "O Mundo de Dio, Parte 3",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x47.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/2ldoWtudAIZSaXXE7ljMMfQMqvr.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 48,
+          "titulo": "Adeus, Amigos desta Longa Viagem",
+          "url": "http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/45790/2x48.mp4",
+          "imagem": "https://image.tmdb.org/t/p/w500/lyvqtdd0vrOoagRgKSDW5DEvJnz.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        }
+      ]
+    },
+    {
       "id": "s42",
       "titulo": "Matéria Escura",
       "descricao": "Jason Dessen é sequestrado para uma versão alternativa de sua vida. Em busca de voltar para sua verdadeira família, ele embarca em uma jornada angustiante para salvá-los do inimigo mais terrível que se possa imaginar: ele mesmo.",
