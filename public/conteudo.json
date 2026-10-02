@@ -560,6 +560,334 @@
   ],
   "series": [
     {
+      "id": "s44",
+      "titulo": "A Fazenda",
+      "descricao": "Famosos com personalidades totalmente diferentes aceitam o desafio de serem confinados em uma fazenda e passar 3 meses sem nenhum contato com o mundo exterior. Além de lidar com a convivência, eles vão ter de encarar o trato com os animais e provas de tirar o fôlego.",
+      "capa": "https://image.tmdb.org/t/p/w500/Mi1MJrq43NGWcvuV2T6fqjqjAv.jpg",
+      "imagem": "https://image.tmdb.org/t/p/w500/yhtmlN21r2s4vCgpLgMkGqv8uaf.jpg",
+      "categoria": "séries",
+      "genero": "A Fazenda",
+      "tipo": "serie",
+      "episodios": [
+        {
+          "temporada": 18,
+          "numero": 1,
+          "titulo": "Dia 1: Estreia",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 2,
+          "titulo": "Dia 2",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 3,
+          "titulo": "Episódio 3",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 4,
+          "titulo": "Episódio 4",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 5,
+          "titulo": "Episódio 5",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 6,
+          "titulo": "Episódio 6",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 7,
+          "titulo": "Episódio 7",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 8,
+          "titulo": "Episódio 8",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 9,
+          "titulo": "Episódio 9",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 10,
+          "titulo": "Episódio 10",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 11,
+          "titulo": "Episódio 11",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 12,
+          "titulo": "Episódio 12",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 13,
+          "titulo": "Episódio 13",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 14,
+          "titulo": "Episódio 14",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 15,
+          "titulo": "Episódio 15",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 16,
+          "titulo": "Episódio 16",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 17,
+          "titulo": "Episódio 17",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 18,
+          "titulo": "Episódio 18",
+          "url": "https://img.vdkix.com:9001/?6620261001&x",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 19,
+          "titulo": "Episódio 19",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 20,
+          "titulo": "Episódio 20",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 21,
+          "titulo": "Episódio 21",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 22,
+          "titulo": "Episódio 22",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 23,
+          "titulo": "Episódio 23",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 24,
+          "titulo": "Episódio 24",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 25,
+          "titulo": "Episódio 25",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 26,
+          "titulo": "Episódio 26",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 27,
+          "titulo": "Episódio 27",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 28,
+          "titulo": "Episódio 28",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 29,
+          "titulo": "Episódio 29",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 30,
+          "titulo": "Episódio 30",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 31,
+          "titulo": "Episódio 31",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 32,
+          "titulo": "Episódio 32",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 33,
+          "titulo": "Episódio 33",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 34,
+          "titulo": "Episódio 34",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 18,
+          "numero": 35,
+          "titulo": "Episódio 35",
+          "url": "",
+          "imagem": "",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        }
+      ],
+      "tmdb_id": 31342
+    },
+    {
       "id": "s43",
       "titulo": "JoJo's Bizarre Adventure",
       "descricao": "A história acompanha as aventuras de cada membro de uma família, Joestar, que domina poderes únicos, cada um com sua singularidade.",
