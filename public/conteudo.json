@@ -2959,6 +2959,1222 @@
       "genero": "Comédia",
       "tipo": "serie",
       "episodios": [
+
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "Piloto",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/l3rRtcQ3hk0JXjhiRqSqImXUBVO.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "A Hipótese do Grande Farelo",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/2OXgMuOqkyjQ19fOrMDGATVCsw1.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 3,
+          "titulo": "A Disputa de Botas no Corolário",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/eDyDC7cwKz9ZTA4CX44eKuHjPgZ.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 4,
+          "titulo": "O Efeito Luminoso do Peixe",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/kKS7oikWCivvrOarkUpH4q1vv2T.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 5,
+          "titulo": "O Hambúrguer Postulado",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/zO3CSyb13PQyzWICp4mmZEUeExp.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 6,
+          "titulo": "O Paradigma da Terra-Média",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/4P20QdmB6QL8aa0b8dKR8sHK1iW.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 7,
+          "titulo": "O Paradoxo da Torta",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/4y5rvzPZF5ukM3vtktqWTp9MhyH.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 8,
+          "titulo": "O Experimento Gafanhoto",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/rbVfuB7vBrrXygo0d8qhk9FhmAd.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 9,
+          "titulo": "A Polarização de Cooper-Hofstadter",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/8MvMEvZzZPBkgQZIVk9KvF8nLH5.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 10,
+          "titulo": "A Decadência Loobenfeld",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/6dssfbhNv1g3FFqKWKJhNqaqSQH.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 11,
+          "titulo": "A Anomalia da Melhor Panqueca",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/q0E0GNUMHWZDNKbygCjKJGiFc9G.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 12,
+          "titulo": "A Dualidade de Jerusalém",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/wlo6NGvrpo58hnUztkAmdDBPj2D.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 13,
+          "titulo": "A Conjectura da Jarra do Morcego",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/w1Et8tW5En8a2ieEWRlolAVkyED.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 14,
+          "titulo": "A Aniquilação Nerdvana",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/sktEOfZVIBnyW6MeZlGXbcdp6vO.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 15,
+          "titulo": "Uma Indeterminação da Costeleta de Porco",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/qBlf2PEd6RDGnyOip6ZPJ825AMw.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 16,
+          "titulo": "A Reação ao Amendoim",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/jnI6qR3y9Hfn7hA1uCUJhYMkIAv.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 1,
+          "numero": 17,
+          "titulo": "O Fator Tangerina",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/3RCfgXjtRcWRt1ci7RIYi3JzJQ9.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 1,
+          "titulo": "O Paradigma do Peixe Podre",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/y9cFxQyFRBOewwVvkMl6SaH2om0.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 2,
+          "titulo": "A Topologia do Alçapão",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/a9k5gM9GYU4IBW93LJc4IjRbgHI.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 3,
+          "titulo": "A Sublimação Bárbara",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/q0bhAlY77x9XwfpHYrDScHZvMQE.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 4,
+          "titulo": "A Equivalência do Grifo",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/AvCiGNJqqaowpZlBdoO6Bp2hIdp.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 5,
+          "titulo": "A Alternativa Euclidiana",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/84UnqiLl4J8LCmJXWwTNfne4pWC.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 6,
+          "titulo": "O Teorema Cooper-Nowitzki",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/2WAmfZtammDEhuQuDgxqQT7BR9z.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 7,
+          "titulo": "A Polarização da Pescaria do Sutiã",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/nBAjkqE9I805f9OCqxZAKVqnJT2.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 8,
+          "titulo": "A Expansão do Lagarto Spock",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/AlvHVY7gvBHfQvMLAvB9PODeYQw.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 9,
+          "titulo": "A Triangulação do Aspargo Branco",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/f5ls4tc9cY8Zh9998lMyZ3A9E6B.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 10,
+          "titulo": "O Enigma de Vartabedian",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/uosBIO5639eeocnvjCxqrLl2HEN.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 11,
+          "titulo": "A Hipótese do Kit de Banho como Presente",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/aUh7k8uTCSjnlFqQZ4HVKZ8N7rA.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 12,
+          "titulo": "A Instabilidade do Robô Assassino",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/fdo2epxMfOhpAWJ3EWplioQakRK.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 13,
+          "titulo": "O Algoritimo da Amizade",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/9q49iyMGcO9EIk9vWbnBZgfGNSF.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 14,
+          "titulo": "A Permeabilidade Financeira",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/wC2YMYgyCnEixzO1ztYx1LUAndL.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 15,
+          "titulo": "A Capacitância Maternal",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/cShchuw3099TXbfav7e9XU6qCoV.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 16,
+          "titulo": "A Saturação da Almofada",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/egK4v3alm6G7cm0CmMRGR3p8Yx3.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 17,
+          "titulo": "A Desconecção do Exterminador",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/uorhUtKMHkx7EokhUcSBl3q6GRt.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 18,
+          "titulo": "A Nanopartícula da Música de Trabalho",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/fkaYEuDqCyBsODp0XYMAZrLULYs.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 19,
+          "titulo": "A Justaposição da Prostituta Morta",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/8LL0P42Z8mwyFXfnF3jnaabSZYt.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 20,
+          "titulo": "O Isótopo Hofstadter",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/otMgg5qrM4XfHwbGnpWhPy8R2yD.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 21,
+          "titulo": "A Renormalização de Las Vegas",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/5SRU3ZHSjhdh7MOWHxivvO6p2Xs.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 22,
+          "titulo": "A Turbulência de Matérias Confidênciais",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/jNdjEnmBwdJiojaG6weilqZPfOn.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 2,
+          "numero": 23,
+          "titulo": "A Expedição Monopolar",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/5NiLbb4TXeiiAjTPyqP08Swu8w5.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 1,
+          "titulo": "A Flutuação do Abridor de Lata Elétrico",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/4MFmDclUoXHM0se1IM9jKRhHp6n.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 2,
+          "titulo": "A Conjectura Jiminy",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/xJRmBDoo2MrbYjs91ViaXMUUMru.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 3,
+          "titulo": "O Desvio Gothowitz",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/8iWdGkONXwKYsv73HZr6p80Csaa.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 4,
+          "titulo": "A Solução Pirata",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/doGrzGYbdS9HzjkfROUENBv6gpk.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 5,
+          "titulo": "O Teorema da Camada de Açúcar Queimado",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/j7HZdRP1eVcnQYGEu9o3TruEKvL.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 6,
+          "titulo": "O Vórtice Cornhusker",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/ethrkqDoGEbXtmN48IhN9aIESfa.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 7,
+          "titulo": "A Amplificação do Guitarrista",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/vbpHo8Px5CILtVR9wU3wyPSHn56.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 8,
+          "titulo": "A Deficiência de Adesivos de Pato",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/8EbctrCaN3RJXiTKe2a9yebM9rZ.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 9,
+          "titulo": "A Fórmula da Vingança",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/x9hd50SQpxiZ1nLXeyhHeeAnT8x.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 10,
+          "titulo": "A Experiência do Gorila",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/xUaKd5XBnmqny83essybaiQSICd.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 11,
+          "titulo": "A Congruência Maternal",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/kioeIQpVHRmhILyFGHiiebACdX1.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 12,
+          "titulo": "O Vórtice da Vidente",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/5uXitxxXHYVKHrEGmT3ylHRxOjn.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 13,
+          "titulo": "A Reação de Bozeman",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/jLh4QS3YkclWPrioytdMbuVjwXL.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 14,
+          "titulo": "A Aproximação de Eisntein",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/7tx6fSRlOn6r5HXVOzOjilaqeZI.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 15,
+          "titulo": "A Grande Colisão de Hadrons",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/X19dpYs9iBJeiqiqb72STdjCg0.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 16,
+          "titulo": "A Aquisição Excelsior",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/6waZYJy3LVmnMO6Im6aFuBTDgJg.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 17,
+          "titulo": "A Fragmentação do Precioso",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/qwBvS3JV40nWZQOBhxTMhWoSk0Q.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 18,
+          "titulo": "A Alternativa das Calças",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/lyAMqIxYBlBNk8Brb6CWceltipC.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 19,
+          "titulo": "A Recorrência Wheaton",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/oHlOeHU6ruNOCE2yvRYG21r0AB5.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 20,
+          "titulo": "O Espaguete Catalisador",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/wztaQvhy4aNNgJmJhs201Qv8zXm.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 21,
+          "titulo": "A Estimulação Plimpton",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/cppyrsh201R39yrlQrBk7ShYpQ3.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 22,
+          "titulo": "A Implementação da Escadaria",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/cGQf2br0gTknsDtj71CGrrX1Gg6.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 3,
+          "numero": 23,
+          "titulo": "A Excitação Lunar",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/7wpXVU3zqGj9QMOtrdLDWRanGxP.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 1,
+          "titulo": "A Manipulação Robótica",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/9Ab7pe6u7bQo55w0BArx11OQ4xI.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 2,
+          "titulo": "A Amplificação dos Vegatais",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/gbdirXM1Gw9K4NZWhWHV4qjPDbX.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 3,
+          "titulo": "A Substituição Jazzy",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/eBLxhs3TDM8d0zlutOGhIfDDVd2.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 4,
+          "titulo": "O Desvio Quente da Pegadinha",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/isCe5dxkG0Ufi4cNRfmCr2HsoJd.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 5,
+          "titulo": "A Emanação do Desespero",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/mOhDhRyqDZU5HVHmgypFte7jTAU.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 6,
+          "titulo": "A Formulação do Pub",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/srBGG50Cw4XOn2f4bZUqtnwznVM.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 7,
+          "titulo": "A Insuficiência das Desculpas",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/jXGtTcqfYmwDdIpkE0nk1l0PgYL.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 8,
+          "titulo": "A Excitação de 21 Segundos",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/TxfaPETKaKt5ejJYRKG5zyrJQ9.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 9,
+          "titulo": "A Complexidade do Namorado",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/ksiCi17L2Ko4QaB1NBxnYdlYrGV.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 10,
+          "titulo": "A Hipótese do Parasita Alienígena",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/pWWRt2BzusW1WPaXs7E8J0fQGqf.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 11,
+          "titulo": "A Recombinação da Liga da Justiça",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/uUUUozntwqQiivWD7qsuyV8hg2O.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 12,
+          "titulo": "A Utilização das Calças de Ônibus",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/ksC48YK2UFV8GeBETu11fTM7r0a.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 13,
+          "titulo": "O Deslocamento do Carro do Amor",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/dBYcZAs8g77jjvyHGXClQIluFwc.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 14,
+          "titulo": "A Tespia Catalisadora",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/oOd0acUQiDF7CyoJf9z52JyGBA5.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 15,
+          "titulo": "O Fator da Doadora",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/mRo77oUOj2kq4DLqOdpXkmtBjOv.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 16,
+          "titulo": "A Formulação da Co-Habitação",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/lwHPcYlrCFfRO5UEJ7oFfhg84me.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 17,
+          "titulo": "A Derivação do Brinde",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/WeOnAUVBQn5VrT409KoZUh19HY.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 18,
+          "titulo": "A Aproximação da Prestidigitação",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/lxpNNW7buxaTnWDtPAnqpc6ly7g.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 19,
+          "titulo": "A Incursão de Zarnecki",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/zoY6h6LtJCShaLfuPUSnBCNRdHN.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 20,
+          "titulo": "A Germinação do Jardim de Ervas",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/nlidiQe6jIloJSrBLxQdPDZuVb5.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 21,
+          "titulo": "A Dissecação do Acordo",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/8pkhzxsCYsknfd3gsiGH56yKACs.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 22,
+          "titulo": "A Implementação do Gnu",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/dNJ1kLNhA9dDuGjZIq8OK8l5ROi.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 23,
+          "titulo": "A Reação ao Noivado",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/1hlDFTRY9MLfMB3AKhaX0dEEreK.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 4,
+          "numero": 24,
+          "titulo": "A Transmogrificação do Colega",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/a3VbByTzFL1ew0gmdQVzFXF9mmz.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 1,
+          "titulo": "A Análise do Reflexo de Piranha",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/kSGRUzwEeW4LMOPuYKQloqCVEhH.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 2,
+          "titulo": "A Hipótese da Infestação",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/tVqTk7JdBxuI2drlZ2jJ4ICBicl.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 3,
+          "titulo": "A Extrapolação da Virilha Distendida",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/wEdMYpz2tWAmp626nAWq0l44ltA.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 4,
+          "titulo": "O Dedo Nervoso Catalisador",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/iStKftXNjUbKLjvKAzTXmT3tuZn.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 5,
+          "titulo": "A Reação do Foguete Russo",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/pB5Ia00Um7dbybAUhWQTCV18V4z.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 6,
+          "titulo": "A Revelação da Rinite",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/1nXbeQy9vdPlvm2Ap97Lhg8suir.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 7,
+          "titulo": "A Flutuação do Cara Legal",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/cUm2yLiZ2QPdSgIdUYiob0ThcDe.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 8,
+          "titulo": "A Permutação do Isolamento",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/cH0vx6h3gcuJCVGrgEaxPqiUmbv.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 9,
+          "titulo": "A Difusão da Ornitofobia",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/ibkOlSREPuB4GMOKGhzs2ZIdNZ7.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 10,
+          "titulo": "A Aquisição da Escarradeira Flamejante",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/sf1FDxLxinOqyY05Uk3MRZzlP1V.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 11,
+          "titulo": "A Recorrencia de Speckerman",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/7Dn4asZCyq9I0iRtyVCiu9GMhce.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 12,
+          "titulo": "A Manobra da Argola Brilhante",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/dHAL94ft1SipqmaHL6uNAsegots.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 13,
+          "titulo": "A Hipótese da Recombinação",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/7GZNVew1Fw24MKcCUKlGuvGJ2LR.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 14,
+          "titulo": "A Iniciação do Teste Beta",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/dZTRt2pZ2Ty5kka8iPqXocXO779.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 15,
+          "titulo": "A Contração da Amizade",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/aTgjYCtHKEoR0meeXcd2tEXdAkl.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 16,
+          "titulo": "A Solução das Férias",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/k6a9X7SdwEwzFlt7mx6gAkjlgTu.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 17,
+          "titulo": "A Desintegração de Rothman",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/bcs07iCu9l2yP6HfjcrPUViXouG.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 18,
+          "titulo": "A Transformação em Lobisomen",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/1gdddSpcbY8Eh98Hg6xCFPoDWpu.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 19,
+          "titulo": "O Fim de Semana de Vórtice",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/gN7RrKwH3pmL8u1sJiOlzChZBAb.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 20,
+          "titulo": "O Mau Funcionamento do Transportador",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/wcPVenMYOg1IGGcwgSPzWAjdAkO.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 21,
+          "titulo": "A Excitação Hawking",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/dh75Gnq9vlvTIxvheYo3D86lSnm.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 22,
+          "titulo": "A Convergência do Especulador",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/FDRRgbb4PkOljdmEjKawpnyFlK.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 23,
+          "titulo": "A Aceleração do Lançamento",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/aGhOWNabAScjiHEzs1TebXH1kVa.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 5,
+          "numero": 24,
+          "titulo": "O Reflexo da Contagem Regressiva",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/jEvrX87J4tGgbvkePKJzWZJWrZp.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 1,
+          "titulo": "A Variavel do Encontro a Noite",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/8Ayyn5aUTiWyFe4NpWIlMNloJnk.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 2,
+          "titulo": "A Dissociação da Flutuação",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/iCabbwLLDz3UeYeBWBLUTofeVKC.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 3,
+          "titulo": "A Observação do Bóson de Higgs",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/aFEMUGUCTecVLXfBkt8bVXA7tqV.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 4,
+          "titulo": "A Minimização da Re-Entrada",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/lFDe5o3cJBNGM1dgyl8ODXxrOds.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 5,
+          "titulo": "A Excitação Holográfica",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/zxD6kV0f0hKXELHgfRugzj5mLzA.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 6,
+          "titulo": "O Extrato da Eliminação",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/hFo8nKHHdIqnnGaG1tiou6R9lWc.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 7,
+          "titulo": "A Configuração da Habitação",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/mwvOUXUJI8Oqa7w1w5GJswESuik.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 8,
+          "titulo": "A Peculiaridade 43",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/eFAeunnPvLmHPfxW799YH2gLXgQ.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 9,
+          "titulo": "A Escala de Muitos Estacionamentos",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/ildLJA1MOjw2gISEi6PKWiw1mMS.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 10,
+          "titulo": "O Deslocamento nas Entranhas do Peixe",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/b1kSMZm7qsVwKFG6bzFYtFUsKJV.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 11,
+          "titulo": "A Simulação do Natal",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/6HD4K6oZEyd76yyki9wFwGwMlP4.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 12,
+          "titulo": "A Equivalência da Salada de Ovo",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/syvmicoYIDzmehm7BrKnHSuXNNO.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 13,
+          "titulo": "A Expedição de Bakersfield",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/fGB9j3zU65aJL5btwWH57dKq77r.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 14,
+          "titulo": "A Inversão Cooper-Kripke",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/dWDdPEhogoFt9mw8grFaaXL7Fy7.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 15,
+          "titulo": "A Segmentação do Alerta de Spoiler",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/iOHlTynlPg2CEcyDsppdzcwpUnw.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 16,
+          "titulo": "A Prova de Carinho Tangível",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/u1jD82NzWmOJ3C2Rr4WXEOlPNrV.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 17,
+          "titulo": "A Isolação do Monstro",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/oenhInvrEh4pSA315BctlyBggPh.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 18,
+          "titulo": "A Implementação da Obrigação Contratual",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/tjzI8Mr4wMJNsF3VUvleyP2MaQA.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 19,
+          "titulo": "A Reconfiguração do Armário",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/tkeFF4tTKideY2yHuRWGbpe2VrX.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 20,
+          "titulo": "A Turbulência da Posse",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/f1EjNAr5oQRsFLhx9igoyHWb2wk.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 21,
+          "titulo": "A Alternativa do Encerramento",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/pNnMlfzNQOuN7Ml26JOCxgzH32W.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 22,
+          "titulo": "O Ressurgimento do Próton",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/db0LtfGVAa2mitePHU7YcyLU4j3.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 23,
+          "titulo": "O Potencial da Poção do Amor",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/a1OEeJ7q8tY1PjLBoogyoCZ6w05.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
+        {
+          "temporada": 6,
+          "numero": 24,
+          "titulo": "A Reação a Boa Viagem",
+          "url": "",
+          "imagem": "https://image.tmdb.org/t/p/w500/yLAWYAFkzOFbJdTNb9v7fzC2Ond.jpg",
+          "legendaUrl": "",
+          "legendaIdioma": "Português"
+        },
         {
           "temporada": 7,
           "numero": 1,
@@ -4254,1224 +5470,8 @@
           "imagem": "https://image.tmdb.org/t/p/w500/eaC2VG6Iy63vIor6mfOfCZTDw3g.jpg",
           "legendaUrl": "",
           "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 1,
-          "numero": 1,
-          "titulo": "Piloto",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/l3rRtcQ3hk0JXjhiRqSqImXUBVO.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 1,
-          "numero": 2,
-          "titulo": "A Hipótese do Grande Farelo",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/2OXgMuOqkyjQ19fOrMDGATVCsw1.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 1,
-          "numero": 3,
-          "titulo": "A Disputa de Botas no Corolário",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/eDyDC7cwKz9ZTA4CX44eKuHjPgZ.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 1,
-          "numero": 4,
-          "titulo": "O Efeito Luminoso do Peixe",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/kKS7oikWCivvrOarkUpH4q1vv2T.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 1,
-          "numero": 5,
-          "titulo": "O Hambúrguer Postulado",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/zO3CSyb13PQyzWICp4mmZEUeExp.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 1,
-          "numero": 6,
-          "titulo": "O Paradigma da Terra-Média",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/4P20QdmB6QL8aa0b8dKR8sHK1iW.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 1,
-          "numero": 7,
-          "titulo": "O Paradoxo da Torta",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/4y5rvzPZF5ukM3vtktqWTp9MhyH.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 1,
-          "numero": 8,
-          "titulo": "O Experimento Gafanhoto",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/rbVfuB7vBrrXygo0d8qhk9FhmAd.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 1,
-          "numero": 9,
-          "titulo": "A Polarização de Cooper-Hofstadter",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/8MvMEvZzZPBkgQZIVk9KvF8nLH5.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 1,
-          "numero": 10,
-          "titulo": "A Decadência Loobenfeld",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/6dssfbhNv1g3FFqKWKJhNqaqSQH.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 1,
-          "numero": 11,
-          "titulo": "A Anomalia da Melhor Panqueca",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/q0E0GNUMHWZDNKbygCjKJGiFc9G.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 1,
-          "numero": 12,
-          "titulo": "A Dualidade de Jerusalém",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/wlo6NGvrpo58hnUztkAmdDBPj2D.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 1,
-          "numero": 13,
-          "titulo": "A Conjectura da Jarra do Morcego",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/w1Et8tW5En8a2ieEWRlolAVkyED.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 1,
-          "numero": 14,
-          "titulo": "A Aniquilação Nerdvana",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/sktEOfZVIBnyW6MeZlGXbcdp6vO.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 1,
-          "numero": 15,
-          "titulo": "Uma Indeterminação da Costeleta de Porco",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/qBlf2PEd6RDGnyOip6ZPJ825AMw.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 1,
-          "numero": 16,
-          "titulo": "A Reação ao Amendoim",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/jnI6qR3y9Hfn7hA1uCUJhYMkIAv.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 1,
-          "numero": 17,
-          "titulo": "O Fator Tangerina",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/3RCfgXjtRcWRt1ci7RIYi3JzJQ9.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 1,
-          "titulo": "O Paradigma do Peixe Podre",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/y9cFxQyFRBOewwVvkMl6SaH2om0.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 2,
-          "titulo": "A Topologia do Alçapão",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/a9k5gM9GYU4IBW93LJc4IjRbgHI.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 3,
-          "titulo": "A Sublimação Bárbara",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/q0bhAlY77x9XwfpHYrDScHZvMQE.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 4,
-          "titulo": "A Equivalência do Grifo",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/AvCiGNJqqaowpZlBdoO6Bp2hIdp.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 5,
-          "titulo": "A Alternativa Euclidiana",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/84UnqiLl4J8LCmJXWwTNfne4pWC.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 6,
-          "titulo": "O Teorema Cooper-Nowitzki",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/2WAmfZtammDEhuQuDgxqQT7BR9z.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 7,
-          "titulo": "A Polarização da Pescaria do Sutiã",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/nBAjkqE9I805f9OCqxZAKVqnJT2.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 8,
-          "titulo": "A Expansão do Lagarto Spock",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/AlvHVY7gvBHfQvMLAvB9PODeYQw.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 9,
-          "titulo": "A Triangulação do Aspargo Branco",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/f5ls4tc9cY8Zh9998lMyZ3A9E6B.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 10,
-          "titulo": "O Enigma de Vartabedian",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/uosBIO5639eeocnvjCxqrLl2HEN.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 11,
-          "titulo": "A Hipótese do Kit de Banho como Presente",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/aUh7k8uTCSjnlFqQZ4HVKZ8N7rA.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 12,
-          "titulo": "A Instabilidade do Robô Assassino",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/fdo2epxMfOhpAWJ3EWplioQakRK.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 13,
-          "titulo": "O Algoritimo da Amizade",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/9q49iyMGcO9EIk9vWbnBZgfGNSF.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 14,
-          "titulo": "A Permeabilidade Financeira",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/wC2YMYgyCnEixzO1ztYx1LUAndL.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 15,
-          "titulo": "A Capacitância Maternal",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/cShchuw3099TXbfav7e9XU6qCoV.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 16,
-          "titulo": "A Saturação da Almofada",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/egK4v3alm6G7cm0CmMRGR3p8Yx3.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 17,
-          "titulo": "A Desconecção do Exterminador",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/uorhUtKMHkx7EokhUcSBl3q6GRt.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 18,
-          "titulo": "A Nanopartícula da Música de Trabalho",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/fkaYEuDqCyBsODp0XYMAZrLULYs.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 19,
-          "titulo": "A Justaposição da Prostituta Morta",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/8LL0P42Z8mwyFXfnF3jnaabSZYt.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 20,
-          "titulo": "O Isótopo Hofstadter",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/otMgg5qrM4XfHwbGnpWhPy8R2yD.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 21,
-          "titulo": "A Renormalização de Las Vegas",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/5SRU3ZHSjhdh7MOWHxivvO6p2Xs.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 22,
-          "titulo": "A Turbulência de Matérias Confidênciais",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/jNdjEnmBwdJiojaG6weilqZPfOn.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 2,
-          "numero": 23,
-          "titulo": "A Expedição Monopolar",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/5NiLbb4TXeiiAjTPyqP08Swu8w5.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 1,
-          "titulo": "A Flutuação do Abridor de Lata Elétrico",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/4MFmDclUoXHM0se1IM9jKRhHp6n.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 2,
-          "titulo": "A Conjectura Jiminy",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/xJRmBDoo2MrbYjs91ViaXMUUMru.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 3,
-          "titulo": "O Desvio Gothowitz",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/8iWdGkONXwKYsv73HZr6p80Csaa.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 4,
-          "titulo": "A Solução Pirata",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/doGrzGYbdS9HzjkfROUENBv6gpk.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 5,
-          "titulo": "O Teorema da Camada de Açúcar Queimado",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/j7HZdRP1eVcnQYGEu9o3TruEKvL.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 6,
-          "titulo": "O Vórtice Cornhusker",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/ethrkqDoGEbXtmN48IhN9aIESfa.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 7,
-          "titulo": "A Amplificação do Guitarrista",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/vbpHo8Px5CILtVR9wU3wyPSHn56.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 8,
-          "titulo": "A Deficiência de Adesivos de Pato",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/8EbctrCaN3RJXiTKe2a9yebM9rZ.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 9,
-          "titulo": "A Fórmula da Vingança",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/x9hd50SQpxiZ1nLXeyhHeeAnT8x.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 10,
-          "titulo": "A Experiência do Gorila",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/xUaKd5XBnmqny83essybaiQSICd.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 11,
-          "titulo": "A Congruência Maternal",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/kioeIQpVHRmhILyFGHiiebACdX1.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 12,
-          "titulo": "O Vórtice da Vidente",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/5uXitxxXHYVKHrEGmT3ylHRxOjn.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 13,
-          "titulo": "A Reação de Bozeman",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/jLh4QS3YkclWPrioytdMbuVjwXL.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 14,
-          "titulo": "A Aproximação de Eisntein",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/7tx6fSRlOn6r5HXVOzOjilaqeZI.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 15,
-          "titulo": "A Grande Colisão de Hadrons",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/X19dpYs9iBJeiqiqb72STdjCg0.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 16,
-          "titulo": "A Aquisição Excelsior",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/6waZYJy3LVmnMO6Im6aFuBTDgJg.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 17,
-          "titulo": "A Fragmentação do Precioso",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/qwBvS3JV40nWZQOBhxTMhWoSk0Q.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 18,
-          "titulo": "A Alternativa das Calças",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/lyAMqIxYBlBNk8Brb6CWceltipC.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 19,
-          "titulo": "A Recorrência Wheaton",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/oHlOeHU6ruNOCE2yvRYG21r0AB5.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 20,
-          "titulo": "O Espaguete Catalisador",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/wztaQvhy4aNNgJmJhs201Qv8zXm.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 21,
-          "titulo": "A Estimulação Plimpton",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/cppyrsh201R39yrlQrBk7ShYpQ3.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 22,
-          "titulo": "A Implementação da Escadaria",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/cGQf2br0gTknsDtj71CGrrX1Gg6.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 3,
-          "numero": 23,
-          "titulo": "A Excitação Lunar",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/7wpXVU3zqGj9QMOtrdLDWRanGxP.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 1,
-          "titulo": "A Manipulação Robótica",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/9Ab7pe6u7bQo55w0BArx11OQ4xI.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 2,
-          "titulo": "A Amplificação dos Vegatais",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/gbdirXM1Gw9K4NZWhWHV4qjPDbX.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 3,
-          "titulo": "A Substituição Jazzy",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/eBLxhs3TDM8d0zlutOGhIfDDVd2.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 4,
-          "titulo": "O Desvio Quente da Pegadinha",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/isCe5dxkG0Ufi4cNRfmCr2HsoJd.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 5,
-          "titulo": "A Emanação do Desespero",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/mOhDhRyqDZU5HVHmgypFte7jTAU.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 6,
-          "titulo": "A Formulação do Pub",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/srBGG50Cw4XOn2f4bZUqtnwznVM.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 7,
-          "titulo": "A Insuficiência das Desculpas",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/jXGtTcqfYmwDdIpkE0nk1l0PgYL.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 8,
-          "titulo": "A Excitação de 21 Segundos",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/TxfaPETKaKt5ejJYRKG5zyrJQ9.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 9,
-          "titulo": "A Complexidade do Namorado",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/ksiCi17L2Ko4QaB1NBxnYdlYrGV.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 10,
-          "titulo": "A Hipótese do Parasita Alienígena",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/pWWRt2BzusW1WPaXs7E8J0fQGqf.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 11,
-          "titulo": "A Recombinação da Liga da Justiça",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/uUUUozntwqQiivWD7qsuyV8hg2O.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 12,
-          "titulo": "A Utilização das Calças de Ônibus",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/ksC48YK2UFV8GeBETu11fTM7r0a.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 13,
-          "titulo": "O Deslocamento do Carro do Amor",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/dBYcZAs8g77jjvyHGXClQIluFwc.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 14,
-          "titulo": "A Tespia Catalisadora",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/oOd0acUQiDF7CyoJf9z52JyGBA5.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 15,
-          "titulo": "O Fator da Doadora",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/mRo77oUOj2kq4DLqOdpXkmtBjOv.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 16,
-          "titulo": "A Formulação da Co-Habitação",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/lwHPcYlrCFfRO5UEJ7oFfhg84me.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 17,
-          "titulo": "A Derivação do Brinde",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/WeOnAUVBQn5VrT409KoZUh19HY.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 18,
-          "titulo": "A Aproximação da Prestidigitação",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/lxpNNW7buxaTnWDtPAnqpc6ly7g.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 19,
-          "titulo": "A Incursão de Zarnecki",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/zoY6h6LtJCShaLfuPUSnBCNRdHN.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 20,
-          "titulo": "A Germinação do Jardim de Ervas",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/nlidiQe6jIloJSrBLxQdPDZuVb5.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 21,
-          "titulo": "A Dissecação do Acordo",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/8pkhzxsCYsknfd3gsiGH56yKACs.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 22,
-          "titulo": "A Implementação do Gnu",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/dNJ1kLNhA9dDuGjZIq8OK8l5ROi.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 23,
-          "titulo": "A Reação ao Noivado",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/1hlDFTRY9MLfMB3AKhaX0dEEreK.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 4,
-          "numero": 24,
-          "titulo": "A Transmogrificação do Colega",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/a3VbByTzFL1ew0gmdQVzFXF9mmz.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 1,
-          "titulo": "A Análise do Reflexo de Piranha",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/kSGRUzwEeW4LMOPuYKQloqCVEhH.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 2,
-          "titulo": "A Hipótese da Infestação",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/tVqTk7JdBxuI2drlZ2jJ4ICBicl.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 3,
-          "titulo": "A Extrapolação da Virilha Distendida",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/wEdMYpz2tWAmp626nAWq0l44ltA.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 4,
-          "titulo": "O Dedo Nervoso Catalisador",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/iStKftXNjUbKLjvKAzTXmT3tuZn.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 5,
-          "titulo": "A Reação do Foguete Russo",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/pB5Ia00Um7dbybAUhWQTCV18V4z.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 6,
-          "titulo": "A Revelação da Rinite",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/1nXbeQy9vdPlvm2Ap97Lhg8suir.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 7,
-          "titulo": "A Flutuação do Cara Legal",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/cUm2yLiZ2QPdSgIdUYiob0ThcDe.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 8,
-          "titulo": "A Permutação do Isolamento",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/cH0vx6h3gcuJCVGrgEaxPqiUmbv.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 9,
-          "titulo": "A Difusão da Ornitofobia",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/ibkOlSREPuB4GMOKGhzs2ZIdNZ7.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 10,
-          "titulo": "A Aquisição da Escarradeira Flamejante",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/sf1FDxLxinOqyY05Uk3MRZzlP1V.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 11,
-          "titulo": "A Recorrencia de Speckerman",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/7Dn4asZCyq9I0iRtyVCiu9GMhce.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 12,
-          "titulo": "A Manobra da Argola Brilhante",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/dHAL94ft1SipqmaHL6uNAsegots.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 13,
-          "titulo": "A Hipótese da Recombinação",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/7GZNVew1Fw24MKcCUKlGuvGJ2LR.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 14,
-          "titulo": "A Iniciação do Teste Beta",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/dZTRt2pZ2Ty5kka8iPqXocXO779.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 15,
-          "titulo": "A Contração da Amizade",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/aTgjYCtHKEoR0meeXcd2tEXdAkl.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 16,
-          "titulo": "A Solução das Férias",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/k6a9X7SdwEwzFlt7mx6gAkjlgTu.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 17,
-          "titulo": "A Desintegração de Rothman",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/bcs07iCu9l2yP6HfjcrPUViXouG.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 18,
-          "titulo": "A Transformação em Lobisomen",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/1gdddSpcbY8Eh98Hg6xCFPoDWpu.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 19,
-          "titulo": "O Fim de Semana de Vórtice",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/gN7RrKwH3pmL8u1sJiOlzChZBAb.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 20,
-          "titulo": "O Mau Funcionamento do Transportador",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/wcPVenMYOg1IGGcwgSPzWAjdAkO.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 21,
-          "titulo": "A Excitação Hawking",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/dh75Gnq9vlvTIxvheYo3D86lSnm.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 22,
-          "titulo": "A Convergência do Especulador",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/FDRRgbb4PkOljdmEjKawpnyFlK.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 23,
-          "titulo": "A Aceleração do Lançamento",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/aGhOWNabAScjiHEzs1TebXH1kVa.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 5,
-          "numero": 24,
-          "titulo": "O Reflexo da Contagem Regressiva",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/jEvrX87J4tGgbvkePKJzWZJWrZp.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 1,
-          "titulo": "A Variavel do Encontro a Noite",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/8Ayyn5aUTiWyFe4NpWIlMNloJnk.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 2,
-          "titulo": "A Dissociação da Flutuação",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/iCabbwLLDz3UeYeBWBLUTofeVKC.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 3,
-          "titulo": "A Observação do Bóson de Higgs",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/aFEMUGUCTecVLXfBkt8bVXA7tqV.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 4,
-          "titulo": "A Minimização da Re-Entrada",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/lFDe5o3cJBNGM1dgyl8ODXxrOds.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 5,
-          "titulo": "A Excitação Holográfica",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/zxD6kV0f0hKXELHgfRugzj5mLzA.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 6,
-          "titulo": "O Extrato da Eliminação",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/hFo8nKHHdIqnnGaG1tiou6R9lWc.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 7,
-          "titulo": "A Configuração da Habitação",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/mwvOUXUJI8Oqa7w1w5GJswESuik.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 8,
-          "titulo": "A Peculiaridade 43",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/eFAeunnPvLmHPfxW799YH2gLXgQ.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 9,
-          "titulo": "A Escala de Muitos Estacionamentos",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/ildLJA1MOjw2gISEi6PKWiw1mMS.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 10,
-          "titulo": "O Deslocamento nas Entranhas do Peixe",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/b1kSMZm7qsVwKFG6bzFYtFUsKJV.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 11,
-          "titulo": "A Simulação do Natal",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/6HD4K6oZEyd76yyki9wFwGwMlP4.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 12,
-          "titulo": "A Equivalência da Salada de Ovo",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/syvmicoYIDzmehm7BrKnHSuXNNO.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 13,
-          "titulo": "A Expedição de Bakersfield",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/fGB9j3zU65aJL5btwWH57dKq77r.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 14,
-          "titulo": "A Inversão Cooper-Kripke",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/dWDdPEhogoFt9mw8grFaaXL7Fy7.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 15,
-          "titulo": "A Segmentação do Alerta de Spoiler",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/iOHlTynlPg2CEcyDsppdzcwpUnw.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 16,
-          "titulo": "A Prova de Carinho Tangível",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/u1jD82NzWmOJ3C2Rr4WXEOlPNrV.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 17,
-          "titulo": "A Isolação do Monstro",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/oenhInvrEh4pSA315BctlyBggPh.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 18,
-          "titulo": "A Implementação da Obrigação Contratual",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/tjzI8Mr4wMJNsF3VUvleyP2MaQA.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 19,
-          "titulo": "A Reconfiguração do Armário",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/tkeFF4tTKideY2yHuRWGbpe2VrX.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 20,
-          "titulo": "A Turbulência da Posse",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/f1EjNAr5oQRsFLhx9igoyHWb2wk.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 21,
-          "titulo": "A Alternativa do Encerramento",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/pNnMlfzNQOuN7Ml26JOCxgzH32W.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 22,
-          "titulo": "O Ressurgimento do Próton",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/db0LtfGVAa2mitePHU7YcyLU4j3.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 23,
-          "titulo": "O Potencial da Poção do Amor",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/a1OEeJ7q8tY1PjLBoogyoCZ6w05.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
-        },
-        {
-          "temporada": 6,
-          "numero": 24,
-          "titulo": "A Reação a Boa Viagem",
-          "url": "",
-          "imagem": "https://image.tmdb.org/t/p/w500/yLAWYAFkzOFbJdTNb9v7fzC2Ond.jpg",
-          "legendaUrl": "",
-          "legendaIdioma": "Português"
         }
-      ],
-      "tmdb_id": 1418
+      ]
     },
     {
       "id": "S41",
