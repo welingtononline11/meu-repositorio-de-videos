@@ -2958,9 +2958,8 @@
       "categoria": "séries",
       "genero": "Comédia",
       "tipo": "serie",
-      "episodios": [
-
-{
+      "episodios":[
+        {
   "temporada": 1,
   "numero": 1,
   "titulo": "Piloto",
